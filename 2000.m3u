@@ -4,6 +4,9 @@
 menampilkan playlist >>> INDONESIA
 //========================================================================
 
+#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",INDOSIAR DIGITAL HD
+http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505849.ts
+
 #EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="🇮🇩INDONESIA🇮🇩" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png", INDOSIAR VID
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
@@ -780,8 +783,8 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic
 #EXTINF:-1 tvg-id="5tv.ar" tvg-logo="https://i.imgur.com/mSn7ACs.png" group-title="News",5TV Corrientes (480p) [Not 24/7]
 http://www.coninfo.net:1935/tvcinco/live1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="5DiasTV.py" tvg-logo="" group-title="News",JP NEWS
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_2.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",JP NEWS
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
 
 #EXTINF:-1 tvg-id="5DiasTV.py" tvg-logo="" group-title="News",Africa 24
 https://edge12.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8
@@ -811,7 +814,7 @@ https://dai.google.com/linear/hls/pb/event/QuU6z3GSTDaXuLL9Hs5A5Q/stream/4700fa9
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
 
 #EXTINF:0 tvg-country="HT" tvg-logo="" group-title="News",NDTV MARATHI
-https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_1.m3u8
+https://web-ndtv-marathi.akamaized.net/hls/live/2110470/ndtvmarathi/chunklist_5.m3u8
 
 #EXTINF:0 tvg-country="HT" tvg-logo="" group-title="News",NDTV RAJASTHAN
 https://ndtvregional.akamaized.net/hls/live/2102726-b/ndtvraj/master_1.m3u8
@@ -824,8 +827,6 @@ https://bttvlive-amd.akamaized.net/hls/live/2096488/live/bttv/bttv3/chunklist.m3
 #EXTINF:0 tvg-country="HT" tvg-logo="  " group-title="MASTER B NEWS
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_1080p@4.m3u8
 
-#EXTINF:0 tvg-country="HT" tvg-logo="  " group-title="News",A2 NEWS
-https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 
 #EXTINF:0 tvg-country="HT" tvg-logo="  " group-title="News",INDIA TV NEWS
 https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
@@ -835,6 +836,8 @@ https://live1.mediadesk.al/oranews.m3u8
 
 
 
+#EXTINF:-1 tvg-id="Aaj Tak" tvg-logo="  " group-title="News",GNT
+https://feeds.intoday.in/gnt/api/master.m3u8
 
 EXTINF:-1 tvg-id="ABP News" tvg-logo="https://iili.io/JbnKMTG.png" group-title="News",ABP News 
 https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
@@ -884,11 +887,13 @@ https://tv.hamdardtv.com/hamdard/index.m3u8
 #EXTINF:0 tvg-country="HT" tvg-logo="https://i.imgur.com/ikEs9b8.png" group-title="@TESTING!!",Pinguino TV HD
 http://167.114.133.205:1935/live/pinguinotv/playlist.m3u8
 
-#EXTINF:0 tvg-country="HT" tvg-logo="https://i.imgur.com/q7iVchl.png" group-title="News",MEKAMELEN
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 
 #EXTINF:0 tvg-country="HT" tvg-logo="https://i.imgur.com/bV77l68.png" group-title="News",BFM DICI
 https://live-cdn-bfmtvalp-euw1.bfmtv.bct.nextradiotv.com/m7/media.m3u8
+
+#EXTINF:0 tvg-country="HT" tvg-logo="https://i.imgur.com/bV77l68.png" group-title="News",BFM2
+https://d1ib1gsg71oarf.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-scp7wda722jph/BFM2_FR.m3u8
+
 
 #EXTINF:0 tvg-country="HT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",RUSIA TODAY FRANCE
 https://rt-fra.rttv.com/dvr/rtfrance/playlist.m3u8
@@ -947,10 +952,6 @@ https://live2.alalam.ir/alalam.m3u8
 
 #EXTINF:0 tvg-country="HT" tvg-logo="https://i.imgur.com/PeAcXB9.png" group-title="News",AR SAQIYA NEWS
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
-
-#EXTINF:0 tvg-country="HT" tvg-logo="https://i.imgur.com/kyzH3G5.png" group-title="News",DIJLAH TV
-https://ghaasiflu.online/Dijlah/index.m3u8
-
 
 #EXTINF:0 tvg-country="HT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",I24 ENGLISH WORLD
 https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/playlist-hls.m3u8
@@ -2147,23 +2148,19 @@ https://mcncdndigital.com/balleballetv/index.m3u8
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ARABICA" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arabica_tv_lb.png" group-title="INDIA",ARABICA MUSIC
 
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CKWBHZJ/67d902f2-c127-464a-94c4-2226a1feb655.png" group-title="INDIA", Shemaroo Bollywood 
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="Zee Hindustan" tvg-logo="https://iili.io/JbnKa4I.png" group-title="INDIA",Zee Hindustan
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
 
+#EXTINF:-1 tvg-id="Zee Hindustan" tvg-logo="https://iili.io/JbnKa4I.png" group-title="INDIA",10TV
+https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/vQ8rgHb/INDIAshare-Ext-Group.jpg" group-title="Sport: Sports18_HD1
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/269596.ts
+
+
+https://raw.githubusercontent.com/SetiadiBagus/iptv-playlist-world/refs/heads/main/2000.m3u
+
 
 
 
@@ -10201,6 +10198,8 @@ https://8yzmq2gbdvax-hls-live.wmncdn.net/bansalnewstv1/live1.stream/chunks.m3u8
 
 #EXTINF:0 tvg-country="MM" tvg-logo="" group-title="INDIA",CH DIVIYA
 
+
+
 #EXTINF:0 tvg-country="MM" tvg-logo="" group-title="INDIA",GNTV
 https://tezlive-amd.akamaized.net/hls/live/2016145/gnt/gntlive/live_720p/chunks.m3u8
 
@@ -10213,8 +10212,7 @@ https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/pub-iotv9banaen8
 #EXTINF:0 tvg-country="MM" tvg-logo="" group-title="INDIA",TV9 
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9kanmo6oiq/liveabr/pub-iotv9kanmo6oiq/live_720p/chunks.m3u8
 
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 INDIA
-https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/News18_India_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8
+
 
 #EXTINF:0 tvg-country="MM" tvg-logo="" group-title="INDIA",ZEE UTAR
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
@@ -10226,54 +10224,72 @@ https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca141
 #EXTINF:0 tvg-country="MM" tvg-logo="" group-title="INDIA",R
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-275673/67d0fe77-6a44-4983-9a17-4d048f3a5c1e/1.m3u8?ads.partner=republicweb&sessionId=b4cde4f9-9d1d-45da-b3d9-011c917d6d35
 
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 RAJASTAN
-https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/News18_Rajasthan_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8
 
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 MALAYAM
-https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/News18_Kerala_NW18_MOB-audio_98834_eng=98800-video=1272000.m3u8
-
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 TAMIL
-https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/News18_Tamil_Nadu_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8
-
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 KANADA
-https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/News18_Kannada_NW18_MOB-audio_33636_eng=33600-video=148000.m3u8
-
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 NORTH EART
-https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/News18_Assam_North_East_NW18_MOB-audio_98835_eng=98800-video=2293600.m3u8
-
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 URDU
-https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/News18_Urdu_NW18_MOB-audio_108034_eng=108000-video=2297600.m3u8
-
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 GUJARATI
-https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/News18_Gujarati_NW18_MOB-audio_98834_eng=98800-video=2293600.m3u8
-
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 ODIA
-https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/News18_Odia_NW18_MOB-audio_98834_eng=98800-video=2293600.m3u8
-
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 BANGLA
-https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/News18_Bangla_NW18_MOB-audio_108035_eng=108000-video=1275600.m3u8
-
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 MP
-https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/News18_MP_Chhattisgarh_NW18_MOB-audio_98835_hin=98800-video=3724000.m3u8
-
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 UTRAKAND
-https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/News18_UP_Uttarakhand_NW18_MOB-audio_98834_eng=98800-video=2293600.m3u8
 
 #EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 JHARKAND
-https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/News18_Bihar_Jharkhand_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8
+https://n18syndication.akamaized.net/bpk-tv/News18_Bihar_Jharkhand_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 RAJASTAN
+https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 ASSAM NORTH EAST
+https://n18syndication.akamaized.net/bpk-tv/News18_Assam_North_East_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 BANGLA
+https://n18syndication.akamaized.net/bpk-tv/News18_Bangla_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 JKLJ
+https://n18syndication.akamaized.net/bpk-tv/News18_JKLH_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 GIJARATI
+https://n18syndication.akamaized.net/bpk-tv/News18_Gujarati_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 INDIA
+https://n18syndication.akamaized.net/bpk-tv/News18_India_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 KANNADA
+https://n18syndication.akamaized.net/bpk-tv/News18_Kannada_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 KERALA
+https://n18syndication.akamaized.net/bpk-tv/News18_Kerala_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 MP CHATTIARH
+https://n18syndication.akamaized.net/bpk-tv/News18_MP_Chhattisgarh_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 LOKMAT
+https://n18syndication.akamaized.net/bpk-tv/News18_Lokmat_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 ODIA
+https://n18syndication.akamaized.net/bpk-tv/News18_Odia_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 PUNJAB HARYANA
+https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/master.m3u8
+   
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 RAJASTAN
+https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 TAMIL
+https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 URDU
+https://n18syndication.akamaized.net/bpk-tv/News18_Urdu_NW18_MOB/output01/master.m3u8
+
+#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 UTTARAKHAND
+https://n18syndication.akamaized.net/bpk-tv/News18_UP_Uttarakhand_NW18_MOB/output01/master.m3u8
 
 
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS1 RAJASTAN
-https://n18syndication.akamaized.net/bpk-tv/News18_Rajasthan_NW18_MOB/output01/News18_Rajasthan_NW18_MOB-audio_98835_hin=98800-video=2293600.m3u8
+
+
+
+
+
+
 
 #EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",ZEE 24 KALAK
 https://d2i4me5ac6ausm.cloudfront.net/index_5.m3u8
 
 #EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",ZEE PUNJABAB
 https://d31s6sxcz6vnac.cloudfront.net/index_3.m3u8
-
-#EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",NEWS18 PUNJAB
-https://n18syndication.akamaized.net/bpk-tv/News18_Punjab_Haryana_HP_NW18_MOB/output01/News18_Punjab_Haryana_HP_NW18_MOB-audio_98835_eng=98800-video=3724000.m3u8
 
 #EXTINF:0 tvg-country="MM" tvg-logo="" group-title="News",TV9 GUJARATI
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9guj3ki8lu/liveabr/pub-iotv9guj3ki8lu/live_720p/chunks.m3u8
@@ -13045,7 +13061,6 @@ https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8?chec
 #EXTINF:0 tvg-country="RO" tvg-logo="" group-title="News",BLOOMBERG EROPA
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-2/Source-EUTVqvs-10000-1-sknn1p-BP-HD-4-KZVY3t6YToC2_live.m3u8
 
-
 #EXTINF:0 tvg-country="RO" tvg-logo="https://i.imgur.com/H3km8ic.png" group-title="News",Digi 24
 https://edge-ar.rcs-rds.ro/digi24ar/hd.m3u8?checkedby:iptvcat.com
 
@@ -14390,16 +14405,13 @@ https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.
 #EXTINF:0 tvg-id="ext" group-title="News",LAHORE
 https://vcdn.dunyanews.tv/lahorelive/_definst_/ngrp:lnews_1_all/playlist.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="News",9 NEWS
-https://video.tegnaone.com/kusa/live/v1/master/f9c1bf9ffd6ac86b6173a7c169ff6e3f4efbd693/KUSA-Production/live/index.m3u8?ads.ua=Mozilla%252F5.0%2520%2528Linux%253B%2520Android%252010%253B%2520K%2529%2520AppleWebKit%252F537.36%2520%2528KHTML%252C%2520like%2520Gecko%2529%2520Chrome%252F124.0.0.0%2520Mobile%2520Safari%252F537.36&ads.player_height=191&ads.player_width=340&ads.us_privacy=1YNY&ads.content_id=dd994e15-a744-447b-86a9-22e3551dc357&ads.site_page=https%253A%252F%252Fwww.9news.com%252F&ads.site_name=KUSA&ads.page_url=https%253A%252F%252Fwww.9news.com%252F&ads.src_page_url=https%253A%252F%252Fwww.9news.com%252Fwatch&ads.title=9NEWS%2520Sunday%2520Mornings%2520at%25206%2520a.m.&ads.channel=KUSA&ads.genre=news&ads.rating=NR&ads.p_uid=a98583b4-0960-ce7f-f998-273efeeaba13&ads.gpp=DBABLA~BVQqAAAACZA.QA&ads.site_id=9336
-
-
 
 #EXTINF:0 tvg-id="ext" group-title="News",CALCUTA NEWS
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 
 #EXTINF:0 tvg-id="ext" group-title="News",BHARAT 24
-https://legitpro.co.in/bharat24live/bharat24live/tracks-v3a1/mono.m3u8
+https://stream1.ottlive.co.in/bharat24/index.fmp4.m3u8
+
 
 #EXTINF:0 tvg-id="ext" group-title="INDIA",CHARDIKLA TIME TV
 https://chardikalagurbanitv.gigabitcdn.net/in-chardikala/chardikala-timetv/tracks-v1a1/mono.m3u8
@@ -21165,9 +21177,6 @@ https://euhls.persiana.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",PERSIANA IRAN
 https://irhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",PERSIANA KOREA
-https://korhls.persiana.live/hls/stream.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",PERSIANA ONE
 https://onehls.persiana.live/hls/stream.m3u8
 
@@ -22316,8 +22325,7 @@ https://1657061170.rsc.cdn77.org/HLS/FTF-LINEAR.m3u8
    AZZERO TV
 http://dvrfl05.bozztv.com/gin-arezotv/index.m3u8
  
-#EXTINF:0 tvg-country="IT" tvg-logo="    " group-title="News",AL24 NEWS
-https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
+
 
 PUBLIC SEHAT
 https://live.eu-north-1a.cf.dmcdn.net/sec2(vG56o7bkd0O_CouD8ideIs32_mP9xVm1KEH9-8f3Nuy0xKrg_BIkLnYBjW-k7LI5inrrlE7MJrvVuMaPgY_UN9QOaKTTBSYPoMdWNIvHUTNdIOh9Ah86ilZafRqlH7OS)/dm/3/xkxbzc/d/live-480.m3u8#cell=lcf-eu-north-1a
@@ -29346,6 +29354,12 @@ https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="🎾SPORT1🎾" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",MNB SPORT
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
+AL IRAQIA SPORT
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+
+NSPORT FLAS
+https://cc-zv5hyc9jj47n5.akamaized.net/ogc/nsprt/nsprt.m3u8
+
 
 
 
@@ -32419,10 +32433,10 @@ https://media.parvizshahbazi.com/ganjehozour/Gh05App/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",MNCTV HD TUBAN
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",MNCTV DIGITAL
 http://103.170.100.42:6799/stream/channelid/377952375?ticket=0C19B39AFE8EF210321922992CECEBA8BDE723BB&profile=pass
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",MNCTV HD TUBAN 2
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",MNCTV HD DIGITAL 2
 http://103.170.100.42:6799/stream/channelid/1572959402?ticket=DF834F13A175944810B633FD9E0E84FD67AE531C&profile=pass
 
 
@@ -38647,8 +38661,13 @@ https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-afrique_tm7tu45/playlist_d
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",HOYTV 76 HONGKONG
 https://cdn11.163189.xyz/163189/hoy76
 
-CGTN GLOBAL BIZZ
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",CGTN GLOBAL BIZZ
 https://amg01314-amg01314c6-distrotv-us-10220.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnglobalbiz-distrotvus/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",BFM BUSINES
+https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92
+
+
 
 
 
@@ -39661,27 +39680,7 @@ https://hls-abiri0ry-livepush.akamaized.net/live_abr_cdn/nsiPyyYPqaaCfd/em0l9G8d
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="APPLE ACTION ONE" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",APPLE ACTION ONE
-http://jocurgratis.uk:8080/Velican_cristian/aR6WrdJHkR/498654
-#EXTINF:-1 tvg-id="" tvg-name="APPLE ACTION TWO" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",APPLE ACTION TWO
-http://jocurgratis.uk:8080/Velican_cristian/aR6WrdJHkR/498653
-#EXTINF:-1 tvg-id="" tvg-name="APPLE CLASSIC ONE" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",APPLE CLASSIC ONE
-http://jocurgratis.uk:8080/Velican_cristian/aR6WrdJHkR/498652
-#EXTINF:-1 tvg-id="" tvg-name="APPLE DRAMA TWO" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",APPLE DRAMA TWO
-http://jocurgratis.uk:8080/Velican_cristian/aR6WrdJHkR/498651
-#EXTINF:-1 tvg-id="" tvg-name="APPLE DRAMA ONE" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",APPLE DRAMA ONE
-http://jocurgratis.uk:8080/Velican_cristian/aR6WrdJHkR/498650
-#EXTINF:-1 tvg-id="" tvg-name="APPLE CLASSIC TWO" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",APPLE CLASSIC TWO
-http://jocurgratis.uk:8080/Velican_cristian/aR6WrdJHkR/498649
 
-#EXTINF:-1 tvg-id="" tvg-name="BEIN HORROR 1" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",BEIN HORROR 1 DOLBY
-http://jocurgratis.uk:8080/Velican_cristian/aR6WrdJHkR/498947
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN HORROR 3" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",BEIN HORROR 3 DOLBY
-http://jocurgratis.uk:8080/Velican_cristian/aR6WrdJHkR/498940
-
-#EXTINF:-1 tvg-id="" tvg-name="BEIN HORROR 2" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",BEIN HORROR 2 DOLBY
-http://jocurgratis.uk:8080/Velican_cristian/aR6WrdJHkR/498939
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",CINEMA WORLD 
 https://cdn12.178.indevs.in/163189/6086cfe7a9756110
@@ -40014,7 +40013,7 @@ PASWORD HOSTING
 
 PB83tfyKYYFZ
 
-
+https://setiadi.infinityfree.io/2000.m3u
 
 
 http://103.151.177.124:90/#view
