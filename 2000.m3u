@@ -11457,7 +11457,7 @@ KORUT OPPA KIMG JONG UN
 
 #EXTINF:-1 tvg-id="KoreanCentralTelevision.kp" tvg-logo="https://i.imgur.com/p02AEOF.png" group-title="KOREA UTARA" user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36",Korean Central Television
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.4044.138 Safari/537.36
-https://tv.nknews.org/tvdash/stream.mpd
+https://tv.intchoson.com/kctv/index.m3u8
 
 
 
@@ -11891,7 +11891,7 @@ https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/108
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
 
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="https://www.lyngsat.com/logo/tv/aa/almaznyy-kray-tv-ru.png" group-title="RUSIA",ПРЯМАЯ
-https://stream.almaz-media.tv/hls/360.m3u8
+https://stream.almaz-media.tv/hls/1080.m3u8
 
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="  " group-title="RUSIA",KRASNAYA LINIYA
 https://s55766.cdn.ngenix.net/s55766-media-origin/rline_low/tracks-v1a1/mono.m3u8
@@ -12075,19 +12075,29 @@ http://31.148.48.15/Poehali/index.m3u8
 #EXTINF:-1 tvg-id="Prima.ru" tvg-logo="https://i.imgur.com/33XGMch.png" group-title="RUSIA",Прима (1080p)
 https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Prima/hls/index.m3u8
 
-#EXTINF:-1 tvg-id="Russia1.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png" group-title="RUSIA",Россия 1
-http://s18209.cdn.ngenix.net/hls/CH_R04_ROSSIA1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="  " group-title="RUSIA",AISTV HD
+https://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="  " group-title="RUSIA",CH12
+https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="  " group-title="RUSIA",CITY EDEN
+https://cityeden.catcast.tv/content/47515/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="  " group-title="RUSIA",KRIMEA 24
+https://streaming.televizor-24-tochka.ru/live/28.m3u8
 
-#EXTINF:-1 tvg-id="Russia24.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png" group-title="RUSIA",Россия 24
-http://s18209.cdn.ngenix.net/hls/CH_R01_ROSSIA24/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="  " group-title="RUSIA",DOCTOR
+https://stream8.cinerama.uz/1409/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="  " group-title="RUSIA",HUZUR
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="  " group-title="RUSIA",INGUSETIA
+https://ingushetia.mediacdn.ru/cdn/ingushetia/playlist.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="  " group-title="RUSIA",INSAYT TV 4K
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
 
 
 WHEATER  🌩️🌩️🌩️🌩️🌧️🌩️🌩️🌩️🌧️🌧️🌧️☔☔
@@ -12109,6 +12119,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌤️CUACA🌤️",FOX WEATHER
 https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌤️CUACA🌤️",SKY NEWS WEATHER
+https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
 
 
@@ -12426,8 +12439,6 @@ https://amg00841-aenetworksukane-worldwartv-samsunguk-fiod1.amagi.tv/playlist/am
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",Outdoor
 https://amg00718-outdoorchannela-outdoortvnz-samsungnz-lylq4.amagi.tv/playlist/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",Biznet Adventure
 http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/manifest.mpd?bizkeylivestarttime=0&bizkeyliveendtime=0&bizkeyliveCustomParameter=myParameter&bizkeylivehash=D2-Bdo6x4Cb0PsmWG5fu7YVz3FhpmD2005p60ZgyKUQS1JrK98LUd-yQ6T81d1tE
@@ -18918,9 +18929,6 @@ https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:0 tvg-country="TW" tvg-logo="" group-title="BOSNIA",RTV ZENICA
 https://stream.rtvze.ba/live/123/123.m3u8
   
-#EXTINF:0 tvg-country="TW" tvg-logo="" group-title="BOSNIA",SUPER TV
-https://mirtv.club/live/mirtv/index.m3u8
-
 #EXTINF:0 tvg-country="TW" tvg-logo="" group-title="BOSNIA",TELEVIZIA 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
 
@@ -21344,6 +21352,13 @@ https://bonappetit-samsung.amagi.tv/720p-vtt/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🔪MEMASAK🔪",GUSTO TV
 https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/9d9e0886-0488-4c0b-8a26-bb48d9a0d56f/0.m3u8
+
+   HELLS KITCHEN
+https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
+
+
+
+
 
 
 
@@ -27730,6 +27745,20 @@ https://docpe51mdltl5.cloudfront.net/Pokemon_GB.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",Yu-Gi-Oh!
 https://amg01796-amg01796c19-rakuten-gb-7486.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugioh2en-rakutengb/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",RABIDDS INVASION
+https://dikkyk1ckkhzq.cloudfront.net/RabiddsInvasion_GB.m3u8
+
+  TELETUBBIES
+https://dv8lsrd8fecw9.cloudfront.net/master.m3u8
+
+POCOYO
+https://d16ecq77cfclte.cloudfront.net/Pocoyo_GB.m3u8
+
+POP
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+
+DANIS & GNASHER
+https://d1upcw8nab85tc.cloudfront.net/dngn.m3u8
 
 
 
@@ -38646,7 +38675,10 @@ https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_servic
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",CHANNEL E
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",BBC NEWS PASHTO
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_afghan_tv/t=3840/v=pv14/b=5070016/main.m3u8
 
+https://itv-hellskitchen-rakuten.amagi.tv/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="   " group-title="CCTV PAYAKUMBUH",LABUH SILANG 1
@@ -39885,6 +39917,13 @@ https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="✈️PERJALANAN✈️",FUN ROAD
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 
+EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="✈️PERJALANAN✈️",CHILLE CHANNEL HD
+https://v2.tustreaming.cl/chilechannel/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="   " group-title="MALDIVES🇱🇾",MALDIVES TV
 https://lana.psm.mv/live/mtv.m3u8
@@ -39988,7 +40027,20 @@ https://main.duckhunting.playout.vju.tv/duckhuntingtv/main.m3u8
 https://d1e354daam8g5r.cloudfront.net/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",WAYPOINT
-https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/240p-cc/index.m3u8
+https://aegis-cloudfront-1.tubi.video/5f3c2b46-3b02-48e8-8e7b-3ce1d89395ce/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",WILD PLANET
+https://d1h8whhtg5u7om.cloudfront.net/WildPlanet_GB.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",WONDER
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-wondernz-samsungnz/playlist.m3u8
+   
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",THE WICKED TUNA  
+https://amg00353-lionsgatestudio-wickedtuna-samsunguk-ajti1.amagi.tv/playlist/amg00353-lionsgatestudio-wickedtuna-samsunguk/playlist.m3u8
+
+
+
+
 
 
 LOGO IPTV
