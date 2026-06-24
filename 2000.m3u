@@ -6,6 +6,37 @@ menampilkan playlist >>> INDONESIA
 
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
+RCTI DIGITAL
+http://opplextv.cyou:8080/nasir6160/nasir/351023
+
+ANTV DIGITAL
+http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8
+
+INDOSIAR DIGITAL SERVER 5
+http://opplextv.cyou:8080/nasir6160/nasir/350972
+
+TRANSTV DIGITAL 2
+http://opplextv.cyou:8080/nasir6160/nasir/351041
+
+MOJI DIGITAL
+http://opplextv.cyou:8080/nasir6160/nasir/350997
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",INDOSIAR DIGITAL SERVER 6
+https://s.id/Shareext_liga1_m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",MDTV (TRV)
+http://202.150.161.212:5000/live/channel31/playlist.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TRANS 7 DIGITAL
+http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TRANSTV DIGITAL
+http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8
+
 #EXTINF:-1 tvg-id="TVOne.id" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", TV ONE MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone.mpd
@@ -237,10 +268,10 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",BERITA SATU HD
 #EXTVLCOPT:http-user-agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
-https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/89c624c5-4b4f-473c-b50d-1a156a1c0174/master.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", BTV HD 
-https://xtdslboppkkv-pull.bpmedialive.com/live/btv/abr.m3u8
+https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/master.m3u8
 
 #EXTINF:0 tvg-id="idtv" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",BERITA SATU (DENS)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
@@ -1300,7 +1331,7 @@ https://travelxp-travelxp-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_8bkEQmUB-gHtGPOM-m6iZzyR_2E1PzvHfA&usqp=CAU" group-title="Lifestyle", ABC TV AUS
 https://c.mjh.nz/abc-sa.m3u8
 
-#EXTINF:-1 group-title="🌊OUTDOOR🌿" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",Animal Planet
+EXTINF:-1 group-title="🌊OUTDOOR🌿" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=436b69f987924fcbbc06d40a69c2799a:c63d5b0d7e52335b61aeba4f6537d54d
 https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/cg_animal_planet_sd/default/index.mpd
@@ -9124,140 +9155,6 @@ https://streamer.indramayukab.go.id/memfs/bb352d97-6a6a-47f5-82f2-94da52d875db_o
 
 
 
-https://cctv-live.metrokota.go.id:8083/stream/player/18.m3u8
-
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",ALAMSARI ARAH TERMINAL CAKAR
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/17rAoDNKWr80/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",ALAMSARI ARAH CIREBON
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/VvGm3WpNa3/s.m3u8
-    
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",ALAMSARI ARAH KOTA
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/CiUyB6JrWp/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",ALAMSARI ARAH WADO
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/AsIToXoQVc/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",ALAMSARi FIX
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/23YtWcxa5H/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",ALUN ALUN UTARA ARAH RANCAPARUT
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/ALUNALUNUTARAFIX2/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",ALUN ALUN UTARA ARAH TAMAN ENDOG
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/ALUNALUNUTARAFIX1/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",ANGKREK ARAH ALAM ASRI
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/7IBg7XJCLR/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",ANGKREK ARAH OJOLALI
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/2PzEEi5hR6/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",BINOKASIH ARAH CIREBON
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/Y2JdzS2W4t/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",BINOKASIH ARAH GUNUNG PUYUH
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/ABtji54TOv/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",BINOKASIH ARAH KOTA
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/AnenNAeJvm/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",BINOKASIH FIX
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/Gcga8Gq1Bg/s.m3u8
-   
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",BJB  
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/BJBFIX1/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",CIMAYOR
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/HnhfzqGh0y/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",CISERO
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/nJ1wvySF6j/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",DISHUB ARAH ALAMSARI
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/gk5Lo9izdg/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",DISHUB ARAH TERMNAL CEKER
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/O5F8wyHX9Y/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",GRIYA ARAH ALAMSARI
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/GRIYAFIX1/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",GRIYA ARAH OJO LALI
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/GRIYAFIX2/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",KEJAKSAAN FIX 1
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/SKEJAKSAANFIX1/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",KEJAKSAAN FIX 2
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/PTZKEJAKSAAN/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",LAPAS
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/LAPASFIX1/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",MPP
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/ksdJQKylYA80/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",OJO LALI ARAH ALAMSARI
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/OJOLALIFIX2/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",OJO LALI ARAH TAMAN ENDOG
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/OJOLALIFIX1/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",PADASUKA
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/tkvPVkAcVD/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",PAJAJI ARAH CIREBON
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/PAJAJIFIX1/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",PASIFIK
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/TENDOGFIX3/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",PKB RANCAPURUT
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/mTrvlky6xa80/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",RSUD ARAH BANDUNG
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/mG49WVXDqJ/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",RSUD ARAH CIREBON
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/0j7lrn9dje/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",SAMOJA
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/samojafix1/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",SENI ABADI
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/BTNFIX1/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",SIMPANG BNI
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/BNIFIX1/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",SIMPANG GIM
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/BNIFIX2/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",SIMPANG PAJAJI
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/PAJAJIFIX2/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",TAMAN ENDOG ARAH ALAMSARI
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/TENDOGFIX4/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",TAMAN ENDOG ARAH BANDUNG
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/TENDOGFIX1/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",TAMAN ENDOG ARAH TEGALKALONG
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/TENDOGFIX2/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",TAMAN ENDOG FIX 1
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/TENDOG2FIX1/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",TAMAN ENDOH FIX 2
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/TENDOG2FIX2/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",UPI ARAH BANDUNG
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/UPIFIX2/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs.sumedangkab.go.id/img/logoatcs.png" group-title="CCTV KAB SUMEDANG",UPI ARAH CIREBON
-https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/UPIFIX1/s.m3u8
 
 
 
@@ -13017,34 +12914,6 @@ http://highvolume04.streampartner.nl/nos_pais_24_7/nos_pais_24_7/playlist.m3u8
 #EXTINF:0 tvg-country="TH" tvg-logo="" group-title="CURACAO",TV DIRECT 13
 https://oqgdrog4d4rm-hls-live.5centscdn.com/tvdirect/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
 
-
-#EXTINF:0 tvg-country="BA" tvg-logo="" group-title="IPTV",BN TV 
-https://rtvbn.tv:8080/live/index.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="BJ" tvg-logo="" group-title="IPTV",MEC TV (576p) [Not 24/7]
-https://webstreaming.viewmedia.tv/web_004/Stream/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="BJ" tvg-logo="" group-title="IPTV",Hope Channel Bénin (576p)
-https://webstreaming-6.viewmedia.tv/web_090/Stream/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="https://i.imgur.com/Brry7cZ.png" group-title="IPTV",PBS Nature
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/640a64bd73e013000893d4e0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a9f23-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c1a2f62c-0e00-4ba7-b555-34d14d59fee4&checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="IPTV",Naturescape
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240b7e283aa40008f79f84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f05-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a5760903-3730-493d-a240-f38538ed67ca&serverSideAds=false&checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="US" tvg-logo="" group-title="IPTV",Nick Music 
-http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8?checkedby:iptvcat.com
-
-
-
-#
-#EXTINF:0 tvg-country="UA" tvg-logo="" group-title="IPTV",FREEDOM UKRAINA
-https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8?checkedby:iptvcat.com
-
-
-#EXTINF:0 tvg-country="FR" tvg-logo="" group-title="IPTV",Nature Time
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61fc0df14159c40007250432/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e0689f1-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c6eb9bb4-6b13-4301-ab2b-7475ad0a7145&checkedby:iptvcat.com
 
 
 #EXTINF:0 tvg-country="FR" tvg-logo="https://iili.io/dgKLXat.png" group-title="Lokal",SINPO TV HD
@@ -22388,7 +22257,7 @@ http://dvrfl05.bozztv.com/gin-arezotv/index.m3u8
 PUBLIC SEHAT
 https://live.eu-north-1a.cf.dmcdn.net/sec2(vG56o7bkd0O_CouD8ideIs32_mP9xVm1KEH9-8f3Nuy0xKrg_BIkLnYBjW-k7LI5inrrlE7MJrvVuMaPgY_UN9QOaKTTBSYPoMdWNIvHUTNdIOh9Ah86ilZafRqlH7OS)/dm/3/xkxbzc/d/live-480.m3u8#cell=lcf-eu-north-1a
 
-BFM BUSINES
+INES
 https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_serviceid=7de32147a4f1055b7de133c00ff64f92
 
 
@@ -27651,7 +27520,8 @@ https://itsstreamingbr2.dotd.la.gov/public/laf-cam-060.streams/chunklist_w210095
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶", BABY SHARK 
 https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",BABY SHARK (US)
+https://newidco-babysharktv-1-us.lg.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶", DISNEY CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
@@ -27659,8 +27529,6 @@ https://newidco-babysharktv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be9caaa813c5305e761c66ac63645901:3d40f2990ec5362ca5be3a3c9bb8f8b4
 https://a77aivottepl-a.akamaihd.net/pdx-nitro/live/clients/dash/enc/zuf794yutz/out/v1/ca3534bfe4f148298b36719204d108e0/cenc.mpd
-
-
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶" tvg-id="KidsTV.id" tvg-name="Kids TV - [Channel 46].id", KIDS TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -27803,12 +27671,6 @@ https://c.mjh.nz/abc-tv-plus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",ENGLISH CLUB TV
 https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",ANIME VISION
-https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",ANIME VISION CLASSIC
-https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",MR BEAN ANIME
 https://amg00627-amg00627c31-rakuten-fr-3991.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanfrcc-rakutenfr/playlist.m3u8
 
@@ -27833,18 +27695,12 @@ https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlis
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",DANIS & GNASHER
 https://d1upcw8nab85tc.cloudfront.net/dngn.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",JAPANIM TV
-https://foxkidstv.be:3369/stream/play.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",BOLAJO
 https://stream8.cinerama.uz/1007/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",LEGO CHANNEL
 https://dh18i7whff86v.cloudfront.net/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",MEMORIES TOON
-https://video.xtrematv.com:3812/live/memoriastoonslive.m3u8
- 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",MINIMAX
 https://vodzong.mjunoon.tv:8087/streamtest/disckids-157-1/playlist.m3u8
 
@@ -32487,8 +32343,8 @@ https://livepantau.semarangkota.go.id/237ce305-7d7f-4c54-936b-98c7d18b04ec/index
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG LALU LINTAS",JEMBATAN MBEROK
 https://livepantau.semarangkota.go.id/110c0652-bc7a-410b-9308-239ebd3e9e5c/index.m3u8
 
-
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG LALU LINTAS",SIMPANG PARAGON
+https://livepantau.semarangkota.go.id/38f1ad01-62aa-446d-8a91-305e405e3d69/index.m3u8
 
 
 
@@ -38536,6 +38392,16 @@ https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-id="   " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",CBS NEWS
 https://jmp2.uk/plu-6231ec4b62cd1f0007093c7b.m3u8
 
+#EXTINF:-1 tvg-id="   " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",M95 Television Marbella
+https://limited2.todostreaming.es/live/m95-livestream.m3u8
+
+#EXTINF:-1 tvg-id="   " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",Naftertemporiki
+https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
+
+#EXTINF:-1 tvg-id="   " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",Noticiero 90 Minutos
+https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
+
+
 
 
 
@@ -39598,9 +39464,6 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🥁MUSIK🎷",Stingray Music HD
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🥁MUSIK🎷",AMUSIC CHANNEL
-https://mn-nl.mncdn.com/amusictv/amusrt.stream/playlist.m3u8
-
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🥁MUSIK🎷",ACADEMIA
 https://atomic.streamnet.ro/academia.m3u8
 
@@ -39801,13 +39664,10 @@ http://69.30.245.50/live/cctv5.m3u8
 http://74.91.26.218:82/live/cctv5hd.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CCTV5+
+rEXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CCTV5+
 http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 http://69.30.246.194/live/cctv5p.m3u8
 http://74.91.26.218:82/live/cctv5p.m3u8
-
-#EXTINF:0 tvg-country="IT" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",TRT1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CT SPORT
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
@@ -39821,7 +39681,7 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
 
-#EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", FS1 (Alt)
+EXTINF:-1 tvg-id="FS1.Fox.Sports.1.HD.us2" tvg-name="FS1" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", FS1 (Alt)
 https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -39830,7 +39690,7 @@ https://cors-proxy.cooks.fyi/http://190.11.225.124:5000/live/fs1_hd/playlist.m3u
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", FS2 (Alt)
+EXTINF:-1 tvg-id="FS2.Fox.Sports.2.HD.us2" tvg-name="FS2" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", FS2 (Alt)
 http://cdn1host.online:2999/live/bongus/35zqYxrbg0/264.ts
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",FoxSports 1
@@ -39883,7 +39743,7 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",DUCK HUNTING
-https://main.duckhunting.playout.vju.tv/duckhuntingtv/720p/playlist.m3u8
+https://main.duckhunting.playout.vju.tv/duckhuntingtv/360p/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",Ohotnik i rybolov
 https://stream8.cinerama.uz/1413/tracks-v1a1/mono.m3u8
@@ -39960,42 +39820,30 @@ https://live-aburayhan1107.telewebion.ir/ek/faratar/live/2160p/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", CHANNEL UHD 50FPS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"4f558eae1b005126b2ac6e9eb1a7849e":"17aea325d91b5e66f06a8c574f2f0b03","b73f76658d1f5ce38420f380421bafe3":"9ebdbf32f90b546f66603104b2ac3c8a","e1f8fc6898fc5bf7a00b5609af23fee0":"98b7133ee006d9fae111ec0cb366641c","e511fb81360c5f14b681605d1de52046":"ec72f335d0e436ac7dc1d936aea1144a"}
-https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_1_UHD/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", CHANNEL 2 UHD 50FPS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"a3c8a5741edf5909991bf27135ecf8c3":"b7b71a7b99a45b8ebfb3c7ac086ffb09","b2e6c4c0b89655b7bbf2e4c0f4e42a1d":"8a3721306907ffef2f9525f0cab9bc0a","fdcb9117541e5f9e91eb1ec45753ddee":"98f67f6475ab21a42e4d64c3967a6af7","ccdf9f3d9bbf5c508adf04f81918a285":"66cf0524fcc2eb0c7dab8bbbf8829827"}
-https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_2_UHD/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CHANNEL 3 UHD 50FPS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"66132eb062115009b127a7901a76bd95":"b553de3ecb805ae9c810dd9ac13b7c62","33785237771a552c8a83fa3954ac0b7a":"e21c3f96d150632e0412d6c83330566b","3e968ec945e8560da5bb39b7cb3c5c0e":"d7f19ae55e394be80064853ce10bffce","fcc18487881d51109a4c3596e8e8833d":"86b7de3fd4136c2059456c8cb21c929c"}
-https://at-live-7.tentcdn.eu/bpk-tv/WM_TV_3_UHD/default/index.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", FS FHD 60FPS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte-qw.live.pv-cdn.net/pdx-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", Caze TV 2 FHD 60FPS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9752ef72590ef441ffa3731e0486fbc0:db63ec7b9f11348b7cc6808a54c99457
-https://a56aivottepl-a.akamaihd.net/gru-nitro/live/clients/dash/enc/epg9sw6owc/out/v1/e50aecefcb294fae85d6b343e0a6f1cc/cenc.mpd?amznDtid=AOAGZA014O5RE&encoding=segmentBase
+#EXTINF:-1 tvg-id="" tvg-name="⚽ MUNDIAL LIVE3 | DSPORTS HD" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" tvg-country="Unknown" group-title="⚽PIALA DUNIA 2026⚽" tvg-flag="",D SPORT 
+http://liontv.es:8080/live/Romero907/h39c6twKxZ/1979621.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", DSPORTS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4f4c3a9912ea752e88f4497864a1bc8b:278128004fe8c6ffb2cd2a0c154a241a
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/x0srg3jjpz/out/v1/f779c49314394d61886d63f58d9d52e4/cenc.mpd
+#EXTINF:-1 tvg-id="" tvg-name="⚽ MUNDIAL LIVE9 | DAZN/ESPN FHD" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" tvg-country="Unknown" group-title="⚽PIALA DUNIA 2026⚽" tvg-flag="",DAZN/ESPN FHD
+http://liontv.es:8080/live/Romero907/h39c6twKxZ/1979615.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", DSPORTS 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=18044a84b7e6c1bbf852591797e53a2c:38b3b6f8810917d89636927bddb79294
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hufm7lgnhx/out/v1/5045630288d44123ba85427b2c36f29f/cenc-sd.mpd
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CT SPORT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referer=https://webtv.sk/tv/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://drm.antik.sk/widevine/key
+https://dash2.antik.sk/stream/nvidia_ct_sport/playlist_cbcs.mpd
+
+
+
+
 
    NDTV PROFIT
 https://yuppparoriglin.akamaized.net/181224/smil:ndtvprofit.smil/playlist.m3u8
@@ -40021,9 +39869,6 @@ https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(m4)/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=0000000000000000000000000034730a:19bfb83e0e0f40f6eef4eccedbfa7bb8
 https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(4s)/manifest.mpd
 
-#EXTINF:-1 tvg-id="4seven.uk" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌍WORLD TV🌍",4Film
-https://olsp.live.dash.c4assets.com/dash_iso_sp_tl/live/channel(f4)/manifest.mpd
-
 #EXTINF:-1 group-title="🌍WORLD TV🌍" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",La 1 
 https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8
 
@@ -40041,6 +39886,84 @@ https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 #EXTINF:-1 group-title="🌍WORLD TV🌍" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,DAS ERSTE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+
+LG TV
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,AWE
+https://awe-lg.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,BIG TJIME
+https://amogonetworx-bigtjme-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,AUTENTIC TRAVEL
+https://autentic-autentictravel-1-dk.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,AUTENTIC HISTORY
+https://autentic-autentichistory-1-dk.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,ARTFLIX
+https://amogonetworx-artflix-2-at.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,ARE WE THERE YET (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-lgus/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,ANGER MANAGEMENT (US)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-angermanagement-lgus/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,AMD THE WALKHING
+https://amc-twdfanexperience-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,AMC ESPANOL
+https://amc-amcespanol-1-us.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,AMC ALL REALITY
+https://amc-absolutereality-1-us.lg.wurl.tv/playlist.m3u8
+ 
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,ALLESKINO
+https://lighthousehomeentertainment-alleskino-1-at.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,AIR AND SPACE
+https://wingspan-airandspace-1-fi.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,ADVENTURE EART 
+https://autentic-adventure-earth-1-au.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,ACCU WEATHER
+https://accuweatherx-lg.amagi.tv/playlist.m3u8
+ 
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,5 MINUTES CRAFT
+https://amg02051-soulpublishing-amg02051c3-lg-ar-583.playouts.now.amagi.tv/playlist/amg02051-admecyltd-5minutecraftsspanish-lgar/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,LIFE DONUNDER
+https://wtfn-lifedownunder-2-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,HOMEFUL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01446-blueantmediacan-homefulworldwide-lggb/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,GREAT BRITISH MENU
+https://all3media-great-british-menu-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,GO USA
+https://brandusa-gousa-1-au.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,FOX SOUL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-foxsoul-lgus/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,FILMZIE
+https://filmzie-filmzie-1-gb.lg.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,FILM GOLD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01866-mainstreammedia-filmgoldch-lgch/playlist.m3u8
+
+#EXTINF:-1 group-title="📺LGTV📺" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,EVOLUTION EART
+https://amg00276-aenetwork-amg00276c15-lg-nl-3757.playouts.now.amagi.tv/playlist.m3u8
+
+ESTRELLA TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellatv-lgus/playlist.m3u8
+
+ESTRELLA NEWS
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00567-estrellamedia-estrellanews-lgus/playlist.m3u8
 
 
 
@@ -40112,6 +40035,8 @@ Monas Barat Kamera 2: https://cctv.balitower.co.id/Monas-Barat-010-506633_2/embe
 Monas Barat Kamera 3: http://cctv.balitower.co.id/Monas-Barat-009-506632_3/embed.html
 Monas Barat Kamera 4: http://cctv.balitower.co.id/Monas-Barat-009-506632_2/embed.html
 Monas Barat Kamera 5: http://cctv.balitower.co.id/Monas-Barat-009-506632_1/embed.html
+
+
 
 https://raw.githubusercontent.com/rifandimkgnta3-droid/playlis2.m3u/refs/heads/main/playlist2.m3u
 
