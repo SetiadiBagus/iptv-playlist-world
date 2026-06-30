@@ -3,6 +3,9 @@
 //Copyright by @Setiadi Lagista
 menampilkan playlist >>> INDONESIA
 //========================================================================
+https://iptv-epg.org/files/epg-id.xml
+
+
 
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
@@ -29,8 +32,7 @@ https://s.id/Shareext_liga1_m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",MDTV (TRV)
 http://202.150.161.212:5000/live/channel31/playlist.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TRANS 7 DIGITAL
+#EXTINF:-1 tvg-id="Metro TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TRANS 7 DIGITAL
 http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -276,12 +278,12 @@ https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/ma
 #EXTINF:0 tvg-id="idtv" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",BERITA SATU (DENS)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h209/index.m3u8
 
 #EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", BTV DENS
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-group1-swiftservehd-1.dens.tv/h/h210/02.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h210/index.m3u8
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",INDOSIANA TV HD
 https://tvstreamcast.com/indonesiana.m3u8
@@ -672,6 +674,7 @@ https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 
+
 EXTINF:-1 tvg-logo="" group-title="📰BERITA PREMIUM📰",TEST SLOT HD
 https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
 
@@ -794,9 +797,8 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 
 #EXTINF:-1 tvg-id="514.astro" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",SKY NEWS
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=00033f7dcc4fa16f91a862f6d8420902:50cfec3c8d2bf51d41cce44f74781edf
-https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
+https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com/v1/master/6404a5d732e04991ed59ac7790b61cc065c9aabd/prod-gb-lin-skynews-hls-25-web/master.m3u8?ads.cdn=https://linear901-oo-hls0-prd-gtm.delivery.skycdp.com&ads.csid=sitesection:SkyNews:Web&manifest.mthost=7a38d30e7dd84cd0872ab4f691c38f58&manifest.region=mediatailor.eu-west-1.amazonaws.com
+
 
 #EXTINF:-1 tvg-id="SkyNewsArabia.ae" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",SKY NEWS ARAB
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
@@ -917,7 +919,7 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/masterb_10
 
 
 #EXTINF:0 tvg-country="HT" tvg-logo="  " group-title="News",INDIA TV NEWS
-https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index_3.m3u8
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
 
 #EXTINF:0 tvg-country="HT" tvg-logo="  " group-title="News",ORA 2 NEWS
 https://live1.mediadesk.al/oranews.m3u8
@@ -1044,14 +1046,19 @@ https://live2.alalam.ir/alalam.m3u8
 https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
 
 #EXTINF:0 tvg-country="HT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",I24 ENGLISH WORLD
-https://fastly.live.brightcove.com/6386790908112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA5MDgxMTIifQ._w5c3EwfnEecDCEpDaKuVz07uuEyUb3vXvQN3svv-oU/playlist-hls.m3u8
-https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/profile_0/chunklist.m3u8
+https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
+
 
 #EXTINF:0 tvg-country="HT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",I24 ISRA
-https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8?
-   
+https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
+
 #EXTINF:0 tvg-country="HT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",I24 FRANCE
-https://fastly.live.brightcove.com/6386790513112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTA1MTMxMTIifQ.Szahkl5VVsEWGdM4mgrmlDPVkWPTRgBMwwGg4D5hGFU/playlist-hls.m3u8
+https://i24newsfrench-cdn.encoders.immergo.tv/master.m3u8
+
+#EXTINF:0 tvg-country="HT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",I24 ARABIC
+https://i24newsarabic-cdn.encoders.immergo.tv/master.m3u8
+
+
 
 
 #EXTINF:0 tvg-country="HT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",CGTN
@@ -3465,13 +3472,11 @@ https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 group-title="KOREA", TV조선
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair.cdn.tvchosun.com/origin1/_definst_/tvchosun_s1/playlist.m3u8
-#EXTINF:-1 group-title="KOREA", TV조선 HD
-http://210.126.10.17:5004/auto/v5031
+
+
 #EXTINF:-1 group-title="KOREA", TV조선2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on2.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-#EXTINF:-1 group-title="KOREA", 연합뉴스
-https://dvar4azmtmll0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6tpj7htwv2prd/master.m3u8
 
 #EXTINF:-1 group-title="KOREA", 한국경제TV
 http://cdnmlive.wowtv.co.kr/wowmo/livestream/playlist.m3u8
@@ -3589,6 +3594,9 @@ https://live-hls-7agy.livepush.io/live_abr_cdn/nsitWAl1pTZtwca/emnmZbKZcO8RfwJR/
 
 
 #EXTINF:0 tvg-country="TW" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mathrubhumi_news.png" group-title="News",MATRUBUMI NEWS
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/mathrubhuminews_nim_https/110322/mathrubhuminews/playlist.m3u8
+
+#EXTINF:0 tvg-country="TW" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mathrubhumi_news.png" group-title="News",MATRUBUMI NEWS 2
 https://mathrubhumicdn.vidgyor.com/mathrubhumi-origin/liveabr/mathrubhumi-origin/live_240p/chunks.m3u8
 
 #EXTINF:0 tvg-country="TW" tvg-logo="" group-title="AUSTRALIA",TVSN
@@ -3682,12 +3690,6 @@ https://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 
 #EXTINF:0 tvg-country="TW" tvg-logo="" group-title="KOREA",ABN KOREA
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
-
-#EXTINF:-1 tvg-id="KRBC3200017JQ" tvg-chno="525" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200017JQ_20230524T004412SQUARE.png_20230524004413.png" group-title="KOREA" , 🎶 뿅뿅 지구오락실 댄스 모음.Zip
-https://dcqm3yrmhgffm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kl2somy43z7lq-ssai-prd/afb160a1_1669_46f6_aba5_e55f48c7b2ca/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200017JQ
-
-#EXTINF:-1 tvg-id="KRBC3200018FU" tvg-chno="526" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBC3200018FU_20230524T004414SQUARE.png_20230524004415.png" group-title="KOREA" , 📁 뿅뿅 지구오락실 게임 모음.Zip
-https://d2hzd84ca9i22o.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccmcyhv2wdcxb-ssai-prd/eaa13423_ab8c_4fde_9fc7_5268a971ff22/hls/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.service_id=KRBC3200018FU
 
 
 #EXTINF:-1 tvg-id="KRBB5000073UD" tvg-chno="527" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/KRBB5000073UD_20230524T004334SQUARE.png_20230524004335.png" group-title="KOREA" , MBC 그녀는 예뻤다
@@ -3867,11 +3869,6 @@ https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChosun.kr" tvg-logo="https://i.imgur.com/62EwaCG.png" group-title="KOREA",TV CHOSUN 2
 #EXTVLCOPT:http-referrer=http://broadcast.tvchosun.com/onair/on.cstv
 http://onair2.cdn.tvchosun.com/origin2/_definst_/tvchosun_s3/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-id="WBCTV.kr" tvg-logo="https://i.imgur.com/IkFev3L.png" group-title="KOREA",WBC TV
-https://cdnlive179.smartucc.kr/smartlive/312/46324be24454bd98f785039457ac695d/playlist.m3u8
 
 #EXTINF:-1 tvg-id="WShopping.kr" tvg-logo="https://i.imgur.com/hfXjVJd.png" group-title="KOREA",W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
@@ -6127,16 +6124,20 @@ https://cctv.jogjaprov.go.id/cctv-proxy/cctv-kominfogk/PantaiBaron.stream/playli
 
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_Melia_Purosani.stream/chunklist_w1619028914.m3u8
 
+https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png
 
-
-#EXTINF:0 tvg-country=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV PENGADILAN AGAMA PEKALONGAN",PTSP 
+#EXTINF:0 tvg-country=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",📹PTSP (PEKALONGAN)
 https://papekalongan.cctvbadilag3.my.id/400860PAPEKALONGAN/streams/393481519662641806361164.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
-#EXTINF:0 tvg-country="  " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV PENGADILAN AGAMA PEKALONGAN",PARKIRAN
+#EXTINF:0 tvg-country=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",📹PARKIRAN (PEKALONGAN)
 https://papekalongan.cctvbadilag3.my.id/400860PAPEKALONGAN/streams/174264070556636148008751.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
-#EXTINF:0 tvg-country=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV PENGADILAN AGAMA PEKALONGAN",PTSP TAMPAK DEPAN
+#EXTINF:0 tvg-country=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",📹PTSP TAMPAK DEPAN (PEKALONGAN)
 https://papekalongan.cctvbadilag3.my.id/400860PAPEKALONGAN/streams/230823044458335592338984.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+
+
+
+
 
 
 #EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV PENGADILAN AGAMA TANJUNG BALAI KARIMUN",PARKIR
@@ -9425,32 +9426,23 @@ https://cctv.kebumenkab.go.id/assets/video/pasar_timur/stream.m3u8
 PURWAKARTA
 
 
-CCTV UNIVERSITAS PAKUAN BOGO
+CCTV UNIVERSITAS PAKUAN BOGOR
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹LAPANGAN GPS (PAKUAN BOGOR)
+https://live-cctv.unpak.ac.id/memfs/ad376354-6f03-4f1a-a279-0a8ac8849654_output_0.m3u8
 
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV UNIVERSITAS PAKUAN BOGOR",LAPANGAN GPS
-https://live-cctv.unpak.ac.id/memfs/ad376354-6f03-4f1a-a279-0a8ac8849654_output_0.m3u8?session=LV7BQrKGzyb9gKgh5KW5tE
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV UNIVERSITAS PAKUAN BOGOR",LAPANGAN FKIP
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹LAPANGAN FKIP (PAKUAN BOGOR)
 https://live-cctv.unpak.ac.id/memfs/8de55adc-14af-46c8-b3f4-d983e6bee749_output_0.m3u8?session=2V5vU2B7xnRf6DrCro4fCM
 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV UNIVERSITAS PAKUAN BOGOR",PARKIRAN FIB
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹PARKIRAN FIB (PAKUAN BOGOR)
 https://live-cctv.unpak.ac.id/memfs/97c8aeea-c37e-44e3-8837-420939a1b8f6_output_0.m3u8?session=S2JJWkGwvv635DKMWGa25m
 
-https://restreamer.unpak.ac.id/memfs/3b2d1783-0f77-430d-b498-ed86737d26bf_output_0.m3u8?session=8iPRNac6da3WCDEuzXAtCS
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹PARKIRAN FNIPA (PAKUAN BOGOR)
+https://live-cctv.unpak.ac.id/memfs/8bc720b5-0a63-4052-b9bb-bea889d7f51d_output_0.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV UNIVERSITAS PAKUAN BOGOR",PARKIRAN FNIPA
-https://live-cctv.unpak.ac.id/memfs/8bc720b5-0a63-4052-b9bb-bea889d7f51d_output_0.m3u8?session=3yNMEUqHEtxcJgaKc9HtF4
+#EXTINF:0 tvg-country=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹DEPAN MIFA 2 (PAKUAN BOGOR)
+https://live-cctv.unpak.ac.id/memfs/0d02e34b-8fcb-4101-816b-b2f4eaab9893_output_0.m3u8
 
-https://restreamer.unpak.ac.id/memfs/efe932a4-53f2-4fad-9119-087f23b8b13f.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV UNIVERSITAS PAKUAN BOGOR",DEPAN MIFA 2
-https://live-cctv.unpak.ac.id/memfs/0d02e34b-8fcb-4101-816b-b2f4eaab9893_output_0.m3u8?session=NLaqZ7EMXfjJJB5JQWsjUT
-
-https://restreamer.unpak.ac.id/memfs/fae963eb-b3b5-4109-965a-6cd0c49e9bd8_output_0.m3u8?session=2v3AW3Nu4KiJZrRpmextFv
-
-https://sampangkab.go.id/cctv/assets/img/Sampang.png
 
 CCTV KAB SAMPANG MADURA
 
@@ -11645,8 +11637,7 @@ http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8
 #EXTINF:-1 tvg-id="122" tvg-logo="https://www.dens.tv/images/channel-logo/122.jpg" group-title="🌀 Dens TV", Magna Channel
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8
-
+https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8
 
 
 #EXTINF:-1 tvg-id="17" tvg-logo="https://www.dens.tv/images/channel-logo/17.jpg" group-title="🌀 Dens TV", TVRI
@@ -16455,55 +16446,89 @@ EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV PENGADILAN AGAMA PONOROGO",RUA
 https://paponorogo.cctvbadilag2.my.id/401514PAPONOROGO/streams/803486478335217793829799.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",KANTIN UTARA
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹KANTIN UTARA (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam7/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",KLINIK KESEHATAN
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹KLINIK KESEHATAN (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam15/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",TAMAN FIX
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹TAMAN FIX (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam13/index.m3u8
    
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",DEPAN BAAK
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹DEPAN BAAK (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam14/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",DALAM MASJID
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹DALAM MASJID (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam12/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",PARKIRAN FAKULTAS TEKNIK
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹PARKIRAN FAKULTAS TEKNIK (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam16/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",PARKIRAN FIX ARAH TIMUR
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹PARKIRAN FIX ARAH TIMUR (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam11/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",PARKIRAN FIX ARAH BARAT
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹PARKIRAN FIX ARAH BARAT (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam10/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",PARKIRAN FP UTARA WALL CLIMBING
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹PARKIRAN FP UTARA WALL CLIMBING (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam9/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",PARKIRAN FEB ARAH BARAT
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹PARKIRAN FEB ARAH BARAT (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",PARKIRAN FEB ARAH SELATAN
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹PARKIRAN FEB ARAH SELATAN (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam1/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",PARKIR WAREK
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹PARKIR WAREK (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam8/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",PARKIR DOSEN KARYAWAN
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹PARKIR DOSEN KARYAWAN (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam3/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",PINTU MASUK ARAH DALAM
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹PINTU MASUK ARAH DALAM (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam6/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV UNIVERSITAS WIRARAJA",PINTU MASUK ARAH LUAR
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹PINTU MASUK ARAH LUAR (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam2/index.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹KANTIN SELATAN 1 (WIRAJAJA SUMENEP)
+https://cctv.wiraraja.ac.id/video/cam19/index.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹KANTIN SELATAN 2 (WIRAJAJA SUMENEP)
+https://cctv.wiraraja.ac.id/video/cam28/index.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹KANTIN SELATAN 3 (WIRAJAJA SUMENEP)
+https://cctv.wiraraja.ac.id/video/cam27/index.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹KANTIN SELATAN 4 (WIRAJAJA SUMENEP)
+https://cctv.wiraraja.ac.id/video/cam40/index.m3u8
 
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹KANTIN UTARA 2 (WIRAJAJA SUMENEP)
+https://cctv.wiraraja.ac.id/video/cam42/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹KANTIN UTARA 3 (WIRAJAJA SUMENEP)
+https://cctv.wiraraja.ac.id/video/cam29/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹KANTIN UTARA 4 (WIRAJAJA SUMENEP)
+https://cctv.wiraraja.ac.id/video/cam41/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹KANTIN TENGAH (WIRAJAJA SUMENEP)
+https://cctv.wiraraja.ac.id/video/cam25/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹KANTIN TENGAH 2 (WIRAJAJA SUMENEP)
+https://cctv.wiraraja.ac.id/video/cam26/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹TRIBUN (WIRAJAJA SUMENEP)
+https://cctv.wiraraja.ac.id/video/cam21/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹KELAS FKIP (WIRAJAJA SUMENEP)
+https://cctv.wiraraja.ac.id/video/cam37/index.m3u8
+
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🏢CCTV UNIVERSITAS INDONESIA🏢",📹KELAS FKIP 2 (WIRAJAJA SUMENEP)
+https://cctv.wiraraja.ac.id/video/cam38/index.m3u8
+
+https://sfile.co/ntRQxsJxMfv
 
 EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV PENGADILAN AGAMA JAKARTA BARAT",HALAMAN PARKIR
 https://pajakartabarat.cctvbadilag2.my.id/400631PAJAKARTABARAT/streams/938978714985893153967879.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
@@ -16698,25 +16723,14 @@ https://patigaraksa.cctvbadilag2.my.id/604723PATIGARAKSA/streams/965825682327183
 
 
 
-
-EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV PENGADILAN AGAMA PALOPO",PTSP
-https://mksr3.cctvbadilag.my.id:5443/307619PAPALOPO/streams/377479126817241994780176.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-
-EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV PENGADILAN AGAMA PALOPO",HALAMAN PARKIR
-https://mksr3.cctvbadilag.my.id:5443/307619PAPALOPO/streams/023104545750593545303516.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-
-EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV PENGADILAN AGAMA PALOPO",RUANG TUNGGU SIDANG
-https://mksr3.cctvbadilag.my.id:5443/307619PAPALOPO/streams/289614907511492049438704.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined
-
-
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG PEMERINTAHAN",PA SMG RUANG TUNGGU
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",📹RUANG TUNGGU (SEMARANG)
 https://pasemarang.cctvbadilag.my.id/400911PASEMARANG/streams/034645762529047600434701.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG PEMERINTAHAN",PA SMG PTSP
-https://pasemarang.cctvbadilag.my.id/400911PASEMARANG/streams/732569255745925893285146.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG PEMERINTAHAN",PA SMG HALAMAN PARKIR
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",📹PTSP (SEMARANG)
+https://pasemarang.cctvbadilag.my.id/400911PASEMARANG/streams/732569255745925893285146.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefine
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",📹HALAMAN PARKIR (SEMARANG)
 https://pasemarang.cctvbadilag.my.id/400911PASEMARANG/streams/259187629485580036297444.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
 
@@ -16951,10 +16965,11 @@ https://cctvjss.jogjakota.go.id/terban/Terban-S3_Sagan_View_Timur.stream/chunkli
 #EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",SIMPANG UKDW
 https://cctvjss.jogjakota.go.id/atcs/ATCS_ukdw.stream/chunklist_w1719047547.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",SIMPANG KETANDAN
+https://cctv.jogjaprov.go.id/cctv-proxy/atcs/Ketandan2.stream/chunklist.m3u8
 
-
-
-
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",PERTIGAAN SIYONO
+https://cctv.jogjaprov.go.id/cctv-proxy/cctv-kominfogk/Simpang3Siyono.stream/playlist.m3u8
 
 
 
@@ -22302,12 +22317,6 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/ind
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️" ,AFRA FILM
 https://afrafhls.wns.live/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️" ,ALPHA CINEMA
-https://live.15plusmg.ru/memfs/b389173a-df4e-4171-8904-e249893e71eb.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️" ,BIZZ CINEMA
-https://fl.biztv.media/cinema_720_EMfSyXgoRdiIHgldXTZICucKTIeCKO/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️" ,BOLLYWOOD RU
 https://xykt-fix.github.io/cinerama_edge01/hls/BOLLYWOOD_RU/Movie009.m3u8
 
@@ -23705,88 +23714,88 @@ Ahsan City
 
 
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Kompleks Humansia
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Kompleks Humansia (AHSAN)
 http://59.27.229.203:1935/live/CCTV_001.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Baebang
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Baebang (AHSAN)
 http://59.27.229.203:1935/live/CCTV_002.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Segyo
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Segyo (AHSAN)
 http://59.27.229.203:1935/live/CCTV_003.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Kota Kuaru Well Made
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Kota Kuaru Well Made (AHSAN)
 http://59.27.229.206:1935/live/CCTV_004.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Pedagang E-MART
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Pedagang E-MART (AHSAN)
 http://59.27.229.206:1935/live/CCTV_005.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Museum
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Museum (AHSAN)
 http://59.27.229.206:1935/live/CCTV_010.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Sekolah Dasar Asan Segyo
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Sekolah Dasar Asan Segyo (AHSAN)
 http://59.27.229.206:1935/live/CCTV_011.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Gereja Dongcheon
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Gereja Dongcheon (AHSAN)
 http://59.27.229.206:1935/live/CCTV_012.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Namsheong
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Namsheong (AHSAN)
 http://59.27.229.206:1935/live/CCTV_013.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Samjeong Baekjo APT
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Samjeong Baekjo APT (AHSAN)
 http://59.27.229.206:1935/live/CCTV_014.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Sinjeong
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Sinjeong (AHSAN)
 http://59.27.229.206:1935/live/CCTV_015.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Yeokjeon Samgeori
-http://59.27.229.206:1935/live/CCTV_016.stream/chunklist_w809217640.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Yeokjeon Samgeori (AHSAN)
+http://59.27.229.206:1935/live/CCTV_016.stream/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Dongshin
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Dongshin (AHSAN)
 http://59.27.229.206:1935/live/CCTV_017.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Tangjeon
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Tangjeon (AHSAN)
 http://59.27.229.206:1935/live/CCTV_018.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Galsan 1
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Galsan 1 (AHSAN)
 http://59.27.229.206:1935/live/CCTV_019.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Stasiun Baebang
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Stasiun Baebang (AHSAN)
 http://59.27.229.206:1935/live/CCTV_020.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Distrik Pengembang
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Distrik Pengembang (AHSAN)
 http://59.27.229.206:1935/live/CCTV_021.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Eunsu
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Eunsu (AHSAN)
 http://59.27.229.206:1935/live/CCTV_022.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",APT DESA ONCHEON
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹APT DESA ONCHEON (AHSAN)
 http://59.27.229.206:1935/live/CCTV_023.stream/playlist.m3u8
    
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Shinjeongho
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Shinjeongho (AHSAN)
 http://59.27.229.206:1935/live/CCTV_024.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Yong Wadong
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Yong Wadong (AHSAN)
 http://59.27.229.206:1935/live/CCTV_025.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Punggi2
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Punggi2 (AHSAN)
 http://59.27.229.206:1935/live/CCTV_026.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Shindonggyo Pusat
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Shindonggyo Pusat
 http://59.27.229.206:1935/live/CCTV_027.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Kantor Polisi Asan
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Kantor Polisi Asan (AHSAN)
 http://59.27.229.206:1935/live/CCTV_028.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Perpustakaan Pusat
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Perpustakaan Pusat (AHSAN)
 http://59.27.229.206:1935/live/CCTV_029.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Sandong
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Sandong (AHSAN)
 http://59.27.229.206:1935/live/CCTV_030.stream/playlist.m3u8
    
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Deokji
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Deokji (AHSAN)
 http://59.27.229.206:1935/live/CCTV_031.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://its.asan.go.kr/images/logo_img.png" group-title="CCTV KOREA AHSAN CITY",Persimpangan Seokjong
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Seokjong (AHSAN)
 http://59.27.229.206:1935/live/CCTV_032.stream/playlist.m3u8
 
 
@@ -24968,6 +24977,68 @@ https://cctv.fitic.go.kr/cctv/L1016.stream/playlist.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://fitic.go.kr/images/icthome/logo.svg" group-title="CCTV KOREA ICHEON CITY",Di depan APT Black Dragon
 https://cctv.fitic.go.kr/cctv/L612.stream/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹PERSIMPANGAN GOCHEOK (ICHEON)
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-003/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹PERSIMPANGAN E MART FRESH (SIMPANG) (ICHEON)
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-015/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹PERSIMPANGAN E MART FRESH (ICHEON)
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-009/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹DEALER KIA HAPPY (ICHEON)
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-007/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹SEKOLAH MENENGAH ATAS DHASAN (ICHEON)
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-004/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹DAEWOL SAMGEORI (ICHEON)
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-010/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹PERSIMPANGAN DHOMRASAN (ICHEON)
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-001/index.m3u8
+
+  PERSIMPANGAN MUCHON (ICHEON)
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-101/index.m3u8
+
+  PERSIMPANGAN BAEKSHA (ICHEON)
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-005/index.m3u8
+
+   Persimpangan Tiga Arah Saeum-dong
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-011/index.m3u8
+
+   Persimpangan Tiga Arah Seoicheon
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-002/index.m3u8
+
+   Taman Seolbong
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-102/index.m3u8
+
+    Persimpangan Seoul
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-103/index.m3u8
+
+   Persimpangan Sojeong
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-104/index.m3u8
+
+    Persimpangan Songjeong 1
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-105/index.m3u8
+
+   Persimpangan Sinjin-ri
+https://strm.icheon.go.kr:9443/play/hls/ICITS-CCTV-013/index.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -28265,6 +28336,83 @@ https://zmcctv.sukoharjokab.go.id/zm/cgi-bin/nph-zms?mode=jpeg&monitor=48&scale=
 
 
 
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",HLS 425 BWI
+https://live.banyuwangikab.go.id/hls/425/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",PASAR PURWOHARJO 2
+https://live.banyuwangikab.go.id/hls/424/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",PASAR PURWOHARJO 1
+https://live.banyuwangikab.go.id/hls/423/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",KEC GLENMORE PELAYANAN
+https://live.banyuwangikab.go.id/hls/422/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",PINTU MASUK GOR
+https://live.banyuwangikab.go.id/hls/421/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",EPARK GOR
+https://live.banyuwangikab.go.id/hls/420/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",DEPAN STADION PARKIR 2
+https://live.banyuwangikab.go.id/hls/419/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",GATE GOR TAWANGALUN
+https://live.banyuwangikab.go.id/hls/418/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",PARKIR GOR INDOOR
+https://live.banyuwangikab.go.id/hls/417/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",PARKIR TIMUR
+https://live.banyuwangikab.go.id/hls/416/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",PARKIR KOLAM UTARA
+https://live.banyuwangikab.go.id/hls/415/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",CAM JAGA 2
+https://live.banyuwangikab.go.id/hls/414/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",PTZ STADION DIP
+https://live.banyuwangikab.go.id/hls/413/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",STADION PINTU MASUK
+https://live.banyuwangikab.go.id/hls/412/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",PARKIR KOLAM
+https://live.banyuwangikab.go.id/hls/411/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",LAPANGAN GOR TAWANGALUN
+https://live.banyuwangikab.go.id/hls/410/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",GOR SIMPANG SELATAN
+https://live.banyuwangikab.go.id/hls/409/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",RUAS JALAN GOR TAWANGALUN
+https://live.banyuwangikab.go.id/hls/408/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",PINTU TIKET
+https://live.banyuwangikab.go.id/hls/407/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",FOOD COURT UTARA GWD
+https://live.banyuwangikab.go.id/hls/406/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",PINTU KELUAR GWD
+https://live.banyuwangikab.go.id/hls/405/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",SIMPANG RTH JAMBU 1
+https://live.banyuwangikab.go.id/hls/403/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",RTH JAMBU 2
+https://live.banyuwangikab.go.id/hls/402/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",RTH JAMBU
+https://live.banyuwangikab.go.id/hls/401/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",TPS KARANGREJO
+https://live.banyuwangikab.go.id/hls/400/playlist.m3u8
+
 #EXTINF:0 tvg-country="CN" tvg-logo="https://live.banyuwangikab.go.id/assets/cctvbwi.png" group-title="CCTV BANYUWANGI",SIMPANG POS ROGOJAMPI
 https://live.banyuwangikab.go.id/hls/399/playlist.m3u8
 
@@ -29651,9 +29799,92 @@ http://103.172.71.153:9981/stream/channelid/1055864931?profile=pass
 
 
 
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",INDOSIAR HD
+http://165.99.194.31:9981/stream/channelid/1772262277?profile=pass
 
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",TRANS TV HD
+http://165.99.194.31:9981/stream/channelid/1616781905?profile=pass
 
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",MNCTV HD
+http://165.99.194.31:9981/stream/channelid/347287715?profile=pass
 
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",RCTI HD
+http://165.99.194.31:9981/stream/channelid/338162159?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",SCTV HD
+http://165.99.194.31:9981/stream/channelid/2062811353?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",GTV HD
+http://165.99.194.31:9981/stream/channelid/485357044?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",USM TV
+http://165.99.194.31:9981/stream/channelid/1183121601?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",TRANS 7 HD
+http://165.99.194.31:9981/stream/channelid/1906776438?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",KOMPAS TV HD
+http://165.99.194.31:9981/stream/channelid/1874164175?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",METRO TV HD
+http://165.99.194.31:9981/stream/channelid/646090734?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",RTV HD
+http://165.99.194.31:9981/stream/channelid/1516171617?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",GARUDA TV
+http://165.99.194.31:9981/stream/channelid/402974701?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",CNBC INDONESIA HD
+http://165.99.194.31:9981/stream/channelid/343717257?profile=pass
+   
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",CNN INDONESIA HD
+http://165.99.194.31:9981/stream/channelid/462271033?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",MENTARI TV HD
+http://165.99.194.31:9981/stream/channelid/1018377212?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",MOJI HD
+http://165.99.194.31:9981/stream/channelid/868787017?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",MTATV HD
+http://165.99.194.31:9981/stream/channelid/1663512201?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",SINPO Tv
+http://165.99.194.31:9981/stream/channelid/1119532369?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",TVRI NASIONAL
+http://165.99.194.31:9981/stream/channelid/2117623457?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",TVRI JATENG HD
+http://165.99.194.31:9981/stream/channelid/1079128241?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",TVRI WORLD
+http://165.99.194.31:9981/stream/channelid/708918912?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",TVRI SPORT
+http://165.99.194.31:9981/stream/channelid/2089419511?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",Inews HD
+http://165.99.194.31:9981/stream/channelid/1209596771?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",JAWAPOS TV
+http://165.99.194.31:9981/stream/channelid/678693747?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",IMTV
+http://165.99.194.31:9981/stream/channelid/1414916755?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",NUSANTARA TV
+http://165.99.194.31:9981/stream/channelid/447729807?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",BN CHANNEL
+http://165.99.194.31:9981/stream/channelid/2057401639?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",TVKU 
+http://165.99.194.31:9981/stream/channelid/1326863109?profile=pass
+
+#EXTINF:-1 tvg-id=""  group-title="DTV SEMARANG",SEMARANG TV DTV
+http://165.99.194.31:9981/stream/channelid/2053081210?profile=pass
 
 
 
@@ -29981,20 +30212,6 @@ https://coastalradar.gistda.or.th/cctvlive/1003804017081059556437054320674442989
 
 
 
-#EXTINF:0 tvg-country="CN" tvg-logo="  " group-title="CCTV THAILAND LONDO TRAFFIC",DISTRIK MIN BURI ( PROVINSI BANGKOK )
-https://camerai1.iticfoundation.org/pass/180.180.242.207:1935/Phase9/PER_9_027_IN.stream/chunklist_w405123679.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="  " group-title="CCTV THAILAND LONDO TRAFFIC",RUMAH SAKIT BANGPAKOK
-https://camera1.iticfoundation.org/hls/10.8.0.22_8555.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="  " group-title="CCTV THAILAND LONDO TRAFFIC",RUMAH SAKIT BANGPAKOK CAM2
-https://camera1.iticfoundation.org/hls/10.8.0.22_8554.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="  " group-title="CCTV THAILAND LONDO TRAFFIC",PERSIMPANGAN JALAN TVA PATTAYA NAKULA
-https://camerai1.iticfoundation.org/hls/pty56.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="  " group-title="CCTV THAILAND LONDO TRAFFIC",RINGROAD PATHAYA
-https://camerai1.iticfoundation.org/hls/pty49.m3u8
 
 
 
@@ -30973,188 +31190,193 @@ CCTV KOREA JALAN TOL Cheonan
 
 
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",SIMPANG KBS
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹SIMPANG KBS (CHANGWON)
 https://utis.changwon.go.kr/live/video12.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",SIMPANG GAYUMJEON
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹SIMPANG GAYUMJEON (CHANGWON)
 https://utis.changwon.go.kr/live/video62.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",APARTEMEN GAPO GENGWO
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹APARTEMEN GAPO GENGWO (CHANGWON)
 https://utis.changwon.go.kr/live/video111.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",SIMPANG TEROWONGAN GAPO
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹SIMPANG TEROWONGAN GAPO (CHANGWON)
 https://utis.changwon.go.kr/live2/_definst_/video132.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",TEKSTIL WOL GEONGNAM
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹TEKSTIL WOL GEONGNAM (CHANGWON)
 https://utis.changwon.go.kr/live/video25.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",SIMPANG KANTOR POLISI
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹SIMPANG KANTOR POLISI  (CHANGWON)
 https://utis.changwon.go.kr/live/video32.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Kantor Polisi
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Kantor Polisi   (CHANGWON)
 https://utis.changwon.go.kr/live/video32.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Stasiun Gyeonghwa
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Stasiun Gyeonghwa (CHANGWON)
 https://utis.changwon.go.kr/live/video88.stream/playlist.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Stasiun Pemadam Kebakaran Gumasan
+   
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Stasiun Pemadam Kebakaran Gumasan (CHANGWON)
 https://utis.changwon.go.kr/live/video73.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Apartemen Magpie
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Apartemen Magpie (CHANGWON)
 https://utis.changwon.go.kr/live/video51.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Sekolah Dasar Nammun Woongcheon
-https://utis.changwon.go.kr/live2/_definst_/video140.stream/playlist.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Sekolah Dasar Nammun Woongcheon (CHANGWON)
+https://utis.changwon.go.kr/live/video140.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Namji
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Namji (CHANGWON)
 https://utis.changwon.go.kr/live/video63.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Stasiun Namchangwon
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Stasiun Namchangwon (CHANGWON)
 https://utis.changwon.go.kr/live/video64.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Naengcheon
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Naengcheon (CHANGWON)
 https://utis.changwon.go.kr/live2/_definst_/video137.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Lapangan Dogye
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Lapangan Dogye (CHANGWON)
 https://utis.changwon.go.kr/live/video6.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Docheongseomun
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Docheongseomun (CHANGWON)
 https://utis.changwon.go.kr/live/video52.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Stasiun Masan
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Stasiun Masan (CHANGWON)
 https://utis.changwon.go.kr/live/video14.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Jalur Majjae
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Jalur Majjae (CHANGWON)
 https://utis.changwon.go.kr/live/video84.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Alun-alun Myeonggok
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Alun-alun Myeonggok (CHANGWON)
 https://utis.changwon.go.kr/live/video7.stream/playlist.m3u8
     
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Mosan
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Mosan (CHANGWON)
 https://utis.changwon.go.kr/live/video113.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Mokdon
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Mokdon (CHANGWON)
 https://utis.changwon.go.kr/live/video118.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Mongam
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Mongam (CHANGWON)
 https://utis.changwon.go.kr/live/video24.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Jeonsa Bukmyeon-dong
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Jeonsa Bukmyeon-dong (CHANGWON)
 https://utis.changwon.go.kr/live/video107.stream/playlist.m3u8
    
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Sekolah Dasar Bukseong
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Sekolah Dasar Bukseong (CHANGWON)
 https://utis.changwon.go.kr/live2/_definst_/video128.stream/playlist.m3u8
     
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Samgye
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Samgye (CHANGWON)
 https://utis.changwon.go.kr/live/video85.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Samdong
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Samdong (CHANGWON)
 https://utis.changwon.go.kr/live/video3.stream/playlist.m3u8&
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Lapangan Samho
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Lapangan Samho (CHANGWON)
 https://utis.changwon.go.kr/live/video35.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Alun-alun Seoseong
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Alun-alun Seoseong (CHANGWON)
 https://utis.changwon.go.kr/live/video17.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Jembatan Seokjeon
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Jembatan Seokjeon (CHANGWON)
 https://utis.changwon.go.kr/live/video15.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Seokjeon
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Seokjeon (CHANGWON)
 https://utis.changwon.go.kr/live2/_definst_/video127.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Taman Cespedes
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Taman Cespedes (CHANGWON)
 https://utis.changwon.go.kr/live2/_definst_/video138.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Plaza Sogye
-https://utis.changwon.go.kr/live/video1.stream/playlist.m3u8&
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Plaza Sogye (CHANGWON)
+https://utis.changwon.go.kr/live/video1.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Exspor Penyimpangan Gerbang utama
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Exspor Penyimpangan Gerbang utama (CHANGWON)
 https://utis.changwon.go.kr/live/video78.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Shinhang G&G
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Shinhang G&G (CHANGWON)
 https://utis.changwon.go.kr/live2/_definst_/video139.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Lapangan Yangdeok
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Lapangan Yangdeok (CHANGWON)
 https://utis.changwon.go.kr/live/video19.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Sekolah Muda
-https://utis.changwon.go.kr/traffic/info/cctvView?url=https://utis.changwon.go.kr/live/video20.stream/playlist.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Sekolah Muda (CHANGWON)
+https://utis.changwon.go.kr/live/video20.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Ladang Garam
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Ladang Garam (CHANGWON)
 https://utis.changwon.go.kr/live/video38.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Pintu Masuk Candi Obongsa
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Pintu Masuk Candi Obongsa (CHANGWON)
 https://utis.changwon.go.kr/live/video103.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Alun Alun Ongso
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Alun Alun Ongso (CHANGWON)
 https://utis.changwon.go.kr/live/video108.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Di depan Sekolah Dasar Wanwolwolseong
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Di depan Sekolah Dasar Wanwolwolseong (CHANGWON)
 https://utis.changwon.go.kr/live/video106.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Yongwon
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Yongwon  (CHANGWON)
 https://utis.changwon.go.kr/live/video2.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Yongwon
-https://utis.changwon.go.kr/live2/_definst_/video136.stream/playlist.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Yongwon  (CHANGWON)
+https://utis.changwon.go.kr/live/video136.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Yongwon Takji
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Yongwon Takji (CHANGWON)
 https://utis.changwon.go.kr/live/video91.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Persimpangan Yongjae
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Yongjae (CHANGWON)
 https://utis.changwon.go.kr/live/video92.stream/playlist.m3u8
    
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Alun-Alun Wolyeong
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Alun-Alun Wolyeong (CHANGWON)
 https://utis.changwon.go.kr/live/video18.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://utis.changwon.go.kr/resources/images/img_logo.gif" group-title="CCTV KOREA CHANGWON CITY",Lapangan Yukho
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Lapangan Yukho (CHANGWON)
 https://utis.changwon.go.kr/live/video80.stream/playlist.m3u8
 
-Persimpangan Uichang
-https://utis.changwon.go.kr/traffic/info/cctvView?url=https://utis.changwon.go.kr/live/video54.stream/playlist.m3u8&title=%EC%9D%98%EC%B0%BD%EC%82%AC%EA%B1%B0%EB%A6%AC
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Uichang (CHANGWON)
+https://utis.changwon.go.kr/live/video54.stream/playlist.m3u8
 
-Persimpangan Jembatan Jaeun
-https://utis.changwon.go.kr/traffic/info/cctvView?url=https://utis.changwon.go.kr/live/video94.stream/playlist.m3u8&title=%EC%9E%90%EC%9D%80%EA%B5%90%EC%82%AC%EA%B1%B0%EB%A6%AC
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Jembatan Jaeun (CHANGWON)
+https://utis.changwon.go.kr/live/video94.stream/playlist.m3u8
 
-Gedung Jaeun Ace
-https://utis.changwon.go.kr/traffic/info/cctvView?url=https://utis.changwon.go.kr/live2/_definst_/video134.stream/playlist.m3u8&title=%EC%9E%90%EC%9D%80%EC%97%90%EC%9D%B4%EC%8A%A4%EB%B9%8C%EB%94%A9
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Gedung Jaeun Ace (CHANGWON)
+https://utis.changwon.go.kr/live/video134.stream/playlist.m3u8
 
-Terowongan Jangbok
-https://utis.changwon.go.kr/traffic/info/cctvView?url=https://utis.changwon.go.kr/live/video37.stream/playlist.m3u8&title=%EC%9E%A5%EB%B3%B5%ED%84%B0%EB%84%90
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Terowongan Jangbok (CHANGWON)
+https://utis.changwon.go.kr/live/video37.stream/playlist.m3u8
 
-Kantor Jinhae-gu
-https://utis.changwon.go.kr/traffic/info/cctvView?url=https://utis.changwon.go.kr/live/video36.stream/playlist.m3u8&title=%EC%A7%84%ED%95%B4%EA%B5%AC%EC%B2%AD
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Kantor Jinhae-gu (CHANGWON)
+https://utis.changwon.go.kr/live/video36.stream/playlist.m3u8
 
-Persimpangan Changok
-https://utis.changwon.go.kr/traffic/info/cctvView?url=https://utis.changwon.go.kr/live/video11.stream/playlist.m3u8&title=%EC%B0%BD%EA%B3%A1%EC%82%BC%EA%B1%B0%EB%A6%AC
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Changok (CHANGWON)
+https://utis.changwon.go.kr/live/video11.stream/playlist.m3u8
 
-Persimpangan Rumah Sakit Changwon
-https://utis.changwon.go.kr/traffic/info/cctvView?url=https://utis.changwon.go.kr/live/video4.stream/playlist.m3u8&title=%EC%B0%BD%EC%9B%90%EB%B3%91%EC%9B%90%20%EC%82%AC%EA%B1%B0%EB%A6%AC
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Rumah Sakit Changwon (CHANGWON)
+https://utis.changwon.go.kr/live/video4.stream/playlist.m3u8
 
-Persimpangan Balai Kota Changwon
-https://utis.changwon.go.kr/traffic/info/cctvView?url=https://utis.changwon.go.kr/live/video8.stream/playlist.m3u8&title=%EC%B0%BD%EC%9B%90%EC%8B%9C%EC%B2%AD%20%EC%82%AC%EA%B1%B0%EB%A6%AC
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Balai Kota Changwon (CHANGWON)
+https://utis.changwon.go.kr/live/video8.stream/playlist.m3u8
 
-Persimpangan Taebaek
-https://utis.changwon.go.kr/traffic/info/cctvView?url=https://utis.changwon.go.kr/live2/_definst_/video133.stream/playlist.m3u8&title=%ED%83%9C%EB%B0%B1%EC%82%AC%EA%B1%B0%EB%A6%AC
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Taebaek (CHANGWON)
+https://utis.changwon.go.kr/live2/_definst_/video133.stream/playlist.m3u8
+  
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Palyong (CHANGWON)
+https://utis.changwon.go.kr/live/video60.stream/playlist.m3u8
 
-Persimpangan Palyong
-https://utis.changwon.go.kr/traffic/info/cctvView?url=https://utis.changwon.go.kr/live/video60.stream/playlist.m3u8&title=%ED%8C%94%EC%9A%A9%EC%82%AC%EA%B1%B0%EB%A6%AC
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Klinik Mata Pyeongan
+https://utis.changwon.go.kr/live/video16.stream/playlist.m3u8
 
-Klinik Mata Pyeongan
-https://utis.changwon.go.kr/traffic/info/cctvView?url=https://utis.changwon.go.kr/live/video16.stream/playlist.m3u8&title=%ED%8F%89%EC%95%88%EC%95%88%EA%B3%BC
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Pungho (CHANGWON)
+https://utis.changwon.go.kr/live/video99.stream/playlist.m3u8
 
-Persimpangan Pungho
-https://utis.changwon.go.kr/traffic/info/cctvView?url=https://utis.changwon.go.kr/live/video99.stream/playlist.m3u8&title=%ED%92%8D%ED%98%B8%EC%98%A4%EA%B1%B0%EB%A6%AC
-
-Hanwha Techwin
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Hanwha Techwin (CHANGWON)
 https://utis.changwon.go.kr/live/video116.stream/playlist.m3u8
 
-Persimpangan Haean-ro
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Persimpangan Haean-ro (CHANGWON)
 https://utis.changwon.go.kr/live/video23.stream/playlist.m3u8
 
-Di depan kompleks Hyundong LH1
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KOREA SELATAN📹",📹Di depan kompleks Hyundong LH1 (CHANGWON)
 https://utis.changwon.go.kr/live2/_definst_/video130.stream/playlist.m3u8
+
+
+
+
+
 
 
 #EXTINF:0 tvg-country="CN" tvg-logo="  " group-title="CCTV CAMERA PHUKET",Paradise Beach Bar
@@ -31446,6 +31668,8 @@ https://cctv.baritoutarakab.go.id/memfs/4a705032-109a-467e-ba69-c1baadf7980f.m3u
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB BARITO (KALTENG)",JEMBATAN BUTONG ARAH PENDOPO
 https://cctv.baritoutarakab.go.id/memfs/bc89e2b3-bb54-474c-9297-7e04d7cd9964.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB BARITO (KALTENG)",MONITORING AIR LEVEL
+https://cctv.baritoutarakab.go.id/memfs/ce1f255b-8508-41ee-a4ce-d82aefef0ae4.m3u8
 
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.banjarbarukota.go.id/images/diskominfo.png" group-title="CCTV BANJARBARU",JPO TANGGA SELATAN
@@ -38175,9 +38399,6 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",CITYNEWS VANCOUNER
 https://citynewsregional.akamaized.net/hls/live/1024054/Regional_Live_9/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",CITYNEWS TORONTO
-https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",DW RUSIA
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
   
@@ -38268,16 +38489,52 @@ https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 tvg-id="   " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",CBS NEWS
 https://jmp2.uk/plu-6231ec4b62cd1f0007093c7b.m3u8
 
-#EXTINF:-1 tvg-id="   " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",M95 Television Marbella
-https://limited2.todostreaming.es/live/m95-livestream.m3u8
-
 #EXTINF:-1 tvg-id="   " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",Naftertemporiki
 https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
 
 #EXTINF:-1 tvg-id="   " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",Noticiero 90 Minutos
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
 
+#EXTINF:-1 tvg-id="   " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",BBC NEWS HEVC
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",ABC NEWS LIVE
+https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",NTD NEWS UK
+https://ntd02.akamaized.net/NTD-UK/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",NTD NEWS USA
+https://amg17596-amg17596c1-ntdtv-worldwide-3276.playouts.now.amagi.tv/playlist/amg17596-newtangdynastytelevision-ntdtv-ntdtvworldwide/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",YAHOO FINANCE
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",TERREX
+https://v4.tustreaming.cl/tevexinter/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",CANAL Z HD
+https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",ABC 36 NEWS
+https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
+
+
+
+
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="  " group-title="News",AL ARABIYA PROGRAM
+https://live.alarabiya.net/alarabiapublish/aaprograms.smil/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="  " group-title="News",AL24 NEWS
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/corp/66_al24_u4yga6h_1080p/chunks.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="  " group-title="News",ZILBRATA
+https://server.zillarbarta.com/zillarbarta/index.m3u8
+
+ALTAGHIER TV
+https://jmc-live.ercdn.net/altaghier/altaghier.m3u8
 
 
 
@@ -39509,8 +39766,13 @@ https://stream8.cinerama.uz/1423/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="✈️PERJALANAN✈️",FUN ROAD
 https://a-cdn.klowdtv.com/live3/funroads_720p/playlist.m3u8
 
-EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="✈️PERJALANAN✈️",CHILLE CHANNEL HD
-https://v2.tustreaming.cl/chilechannel/index.m3u8
+EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="✈️PERJALANAN✈️",TV SAYOHI
+
+
+
+
+
+
 
 
 
@@ -39556,6 +39818,29 @@ https://estreams.tv.nej.cz/dash/CH_TVP_SPORT.ism/playlist.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/out/v1/962736723a534ba294e7592fef49827b/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", KLANSPORTS (Match 1) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", KLANSPORTS (Match 2) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", FUSBALL TV HD
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", FUSSBALL TV FHD
+http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
+
+#EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png", FIFA World Cup 2026 02
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png", FIFA World Cup 2026 11
+http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
+
+#EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png", FIFA World Cup 2026 12
+http://myxpanel.pro/live/13579/13579/838116.ts
 
 
 
@@ -39618,9 +39903,6 @@ https://d1p1siomv3cm7b.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",RYABALKA
 https://iptv.prosto.tv/ch88/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",UMC
-https://streaming5.globalhostla.com/rtplive/unamirad/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",GAME & FISH 
 https://amg00436-amg00436c7-freelivesports-emea-8457.playouts.now.amagi.tv/playlist/amg00436-ksemotvholdingsfast-gameandfishtv-freelivesportsemea/playlist.m3u8
 
@@ -39650,9 +39932,6 @@ https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",Sochi 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",ABC NEWS LIVE
-https://aegis-cloudfront-1.tubi.video/d6cbb0de-68e4-4f3b-82f9-bf5d526e0bde/index.m3u8
-
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",VIJU NATURE HD
 https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 
@@ -39665,9 +39944,6 @@ https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qx
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",DC WASINGTON
 https://video.oct.dc.gov/out/u/DCC.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",ABC 36 NEWS
-https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
-
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",FAST&FUNBOX HD
 https://iptv.prosto.tv/ch120/index.m3u8
 
@@ -39677,6 +39953,32 @@ https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=20
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",IRIB UHD 4K
 https://live-aburayhan1107.telewebion.ir/ek/faratar/live/2160p/index.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",WION HD 
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",SBT NEWS
+https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",TVB HD
+http://o11.163189.xyz/stream/tvb/fct/
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",GAME+ HD
+https://a-cdn.klowdtv.com/live2/fntsy_720p/playlist.m3u8
+
+RTHK 31
+http://cdn.163189.xyz/163189/rthk31
+
+RTHK32
+http://cdn.163189.xyz/163189/rthk32
+
+TVB PLUS
+http://o11.163189.xyz/stream/tvb/tvbp/
+
+ASIANET NEWS
+https://asianet-samsung.vgcdn.net/ptnr-monitoring/vglive-sk-906908/playlist.m3u8
+
+BAND NEWS
+https://cdn-5.nxplay.com.br/BAND_NEWS/index.m3u8
 
 
 
@@ -39862,6 +40164,80 @@ https://bbc-studios-bargainhunt-1-us.lg.wurl.tv/playlist.m3u8
 
    BAYWATCH
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-baywatch-lgus/playlist.m3u8
+
+https://cdn.phototourl.com/free/2026-06-29-c51e03a6-675a-4130-80e9-47acedeb981c.png
+
+CCTV KAB PENAJAM
+
+#EXTINF:-1 group-title="📹CCTV KAB PENAJAM📹" tvg-logo="https://cdn.phototourl.com/free/2026-06-29-c51e03a6-675a-4130-80e9-47acedeb981c.png",Parkiran Gedung Asisten 1
+https://cctv.penajamkab.go.id/cam1-g1kiri/index.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB PENAJAM📹" tvg-logo="https://cdn.phototourl.com/free/2026-06-29-c51e03a6-675a-4130-80e9-47acedeb981c.png",Parkiran Gedung Asisten 1 Belakang
+https://cctv.penajamkab.go.id/cam2-g1belakang/index.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB PENAJAM📹" tvg-logo="https://cdn.phototourl.com/free/2026-06-29-c51e03a6-675a-4130-80e9-47acedeb981c.png",Parkiran Gedung Asisten 2
+https://cctv.penajamkab.go.id/cam3-warung/index.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB PENAJAM📹" tvg-logo="https://cdn.phototourl.com/free/2026-06-29-c51e03a6-675a-4130-80e9-47acedeb981c.png",Pintu Masuk Klotok
+https://cctv.penajamkab.go.id/cam8/index.m3u8?cookieCheck=1
+
+#EXTINF:-1 group-title="📹CCTV KAB PENAJAM📹" tvg-logo="https://cdn.phototourl.com/free/2026-06-29-c51e03a6-675a-4130-80e9-47acedeb981c.png",Pintu Masuk Spedboat
+https://cctv.penajamkab.go.id/cam11/index.m3u8
+
+
+CCTV KAB LAMANDAU
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹ALUN ALUN
+https://cctv.lamandaukab.go.id/storage/cctv/cam11/cam11.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹LAMPU MERAH BATU BATANGGUI
+https://cctv.lamandaukab.go.id/storage/cctv/cam1/cam1.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹BUNDARAN RUSA
+https://cctv.lamandaukab.go.id/storage/cctv/cam2/cam2.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹LAMPU MERAH TRANSLOKAL
+https://cctv.lamandaukab.go.id/storage/cctv/cam3/cam3.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹DEPAN RSUD LAMANDAU
+https://cctv.lamandaukab.go.id/storage/cctv/cam4/cam4.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹BUNDARAN BURUNG
+https://cctv.lamandaukab.go.id/storage/cctv/cam5/cam5.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹DEPAN PASAR INDUK
+https://cctv.lamandaukab.go.id/storage/cctv/cam6/cam6.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹LAMPU MERAH SDN6 BULIK
+https://cctv.lamandaukab.go.id/storage/cctv/cam7/cam7.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹BUNDARAN RUSA - BUKIT HIBUL BARAT
+https://cctv.lamandaukab.go.id/storage/cctv/cam8/cam8.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹SIMPANG POLRES
+https://cctv.lamandaukab.go.id/storage/cctv/cam9/cam9.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹SIMPANG 3 SMPN 1 BULIK
+https://cctv.lamandaukab.go.id/storage/cctv/cam10/cam10.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹JALAN BUKIT HIBUL UTARA
+https://cctv.lamandaukab.go.id/storage/cctv/cam12/cam12.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹BUNDARAN RUMAH BETANG
+https://cctv.lamandaukab.go.id/storage/cctv/cam13/cam13.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹SIMPANG 4 BATTELADITBANG
+https://cctv.lamandaukab.go.id/storage/cctv/cam14/cam14.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹HIK MEDIA SERVER
+https://cctv.lamandaukab.go.id/storage/cctv/cam15/cam15.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹CAM 16
+https://cctv.lamandaukab.go.id/storage/cctv/cam16/cam16.m3u8
+
+#EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹CAM 17
+https://cctv.lamandaukab.go.id/storage/cctv/cam17/cam17.m3u8
+
 
 
 LOGO IPTV
