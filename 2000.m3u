@@ -342,6 +342,8 @@ https://59ec5453559f0.streamlock.net/miamitvDJ/smil:56925/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", TRANS TV
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+
 https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4251,7 +4253,14 @@ http://103.248.199.102/camera/MAN_SAGULUNG_VID3.m3u8
 http://103.248.199.102/camera/ROSEDELL_PTZ.m3u8
 
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GN KIDUL📹",📹KODIM GN KIDUL
+https://stream.gunungkidulkab.go.id:8888/33edb24d-088c-4f49-ac90-f90a73a995ab/main_stream.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GN KIDUL📹",📹BUNDERAN KODIM
+https://stream.gunungkidulkab.go.id:8888/e91760d5-95b8-4907-a49d-f46885390291/main_stream.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GN KIDUL📹",📹TPR PULEGUNDES
+https://stream.gunungkidulkab.go.id:8888/af4d2a14-e0b3-43f4-ade8-d73465ef2258/main_stream.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GN KIDUL📹",📹KELURAHAN JETIS
 https://stream.gunungkidulkab.go.id:8888/6d5acbc9-33cf-4d3a-8671-a26933f1868d/main_stream.m3u8
@@ -4956,6 +4965,10 @@ https://stream.pringsewukab.go.id/memfs/e970acc3-3657-4534-8780-2433c9ed0fa5_out
 https://stream.pringsewukab.go.id/memfs/ba777ece-22d9-43af-8fdf-6e58b11e6896_output_0.m3u8?session=WAq7WwLkZSh5urtfBKV8Rc
 
 
+
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB BANTUL",LAPANGAN PASEBAN BANTUL
+https://stream.bantulkab.go.id/memfs/4a6651bb-759c-454a-816a-791beee22af8.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB BANTUL",SIMPANG KORPRI VIEW SELATAN
 https://stream.bantulkab.go.id/memfs/f33a4a0f-2746-408e-88ec-55c83b625b78_output_0.m3u8?session=bnm4iSyWwbUtwcx7uMZbbU
@@ -39514,11 +39527,17 @@ https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",BHTV10
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
 
-BON APETTIT
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",BON APETTIT
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
 
-GREE GOLD TV
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",GREE GOLD TV
 https://vglivessai.akamaized.net/eu/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/675a37e5-f517-434e-adae-d25ae1706340/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",ZOOM
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",WORLD FISHING NETWORK
+https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=mDHh59pDPYW
 
 
 https://paketmaxstream.ambontv.my.id?code=TVRI-1BUO4P
@@ -39951,8 +39970,8 @@ https://cecetv.id/cc/tv
 https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlah-world-cup.m3u
 
 
+OTAK BOKEP
 
-https://raw.githubusercontent.com/SetiadiBagus/iptv-playlist-world/refs/heads/main/2000.m3u
 
 
 https://youtube.com/shorts/sv_GlYWGqio?lc=UgwfAecxg1JX1tZT2yN4AaABAg.AXwYVbjd8zcAXwZTAD5v82
