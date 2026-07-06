@@ -4253,6 +4253,16 @@ http://103.248.199.102/camera/MAN_SAGULUNG_VID3.m3u8
 http://103.248.199.102/camera/ROSEDELL_PTZ.m3u8
 
 
+
+TPR PULEGEDES 2
+https://stream.gunungkidulkab.go.id:8888/c5bea4c6-a2e4-4c9d-b731-ea5a1b5bd39c/main_stream.m3u8
+
+PANTAI KRAKAL
+https://stream.gunungkidulkab.go.id:8888/0c5c5b2f-da35-49ca-ad54-037ad5339915/main_stream.m3u8
+
+   PANTAI WEDIOMBO
+https://stream.gunungkidulkab.go.id:8888/3f008260-e48f-4dc2-bec4-93d7ec42dcb9/main_stream.m3u8
+
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GN KIDUL📹",📹KODIM GN KIDUL
 https://stream.gunungkidulkab.go.id:8888/33edb24d-088c-4f49-ac90-f90a73a995ab/main_stream.m3u8
 
@@ -4413,9 +4423,6 @@ https://stream.gunungkidulkab.go.id:8888/9d1b9282-2953-4ef5-9d56-5593dc910093/ma
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GN KIDUL📹",📹DPRD
 https://stream.gunungkidulkab.go.id:8888/a4c43c14-cd50-4621-8f85-94086283e461/main_stream.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GN KIDUL📹",📹PEMDA GN KIDUL
-https://stream.gunungkidulkab.go.id:8888/d41813e2-fafb-42a4-a7b9-5e713c0e9606/main_stream.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GN KIDUL📹",📹SD TROWONO 3
 https://stream.gunungkidulkab.go.id:8888/0416e020-1e28-4066-aa3f-5083cdb4cdc2/main_stream.m3u8
@@ -5952,9 +5959,6 @@ https://stream.gunungkidulkab.go.id:8888/58328653-bae9-4e69-82d0-b83d500040b1/in
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GN KIDUL📹",📹BUNDERAN SIYONO BARAT
 https://stream.gunungkidulkab.go.id:8888/99b61615-0e73-4b44-b7d9-775301c11b94/index.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GN KIDUL📹",📹BUNDERAN SIYONO TIMUR
-https://stream.gunungkidulkab.go.id:8888/365d3972-8e24-4b8e-a9bd-2db5cbcbfee8/index.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GN KIDUL📹",📹PEMDA GUNUNG KIDUL
 https://stream.gunungkidulkab.go.id:8888/d41813e2-fafb-42a4-a7b9-5e713c0e9606/index.m3u8
@@ -11475,7 +11479,7 @@ https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/tracks-v1a1/mono.m3u8?
 
 
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="  " group-title="RUSIA",SCELKOLVO
-https://stream1.tv41.ru/hls/270/live.m3u8
+https://stream1.tv41.ru/hls/540/live.m3u8
 
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="  " group-title="RUSIA",TV STUDIYA
 https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/62e7b5941384e1858cbff8b42a858b4d--livemaster--lezlkenzbx_TV_Studia_Fakt--tracks-v1a1--mono.m3u8
@@ -27146,9 +27150,6 @@ https://ats-edge-iqui-1.live.clarovtrcdn.vtrplay.com/disneyjrhdchi/vxfmt=dp/h_76
 #EXTINF:0 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",LOGOS TV KIDS
 https://streamer1.streamhost.org/salive/logoskidsH/chunklist.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",NICK BRAZIL
-https://x1co.com.br/hls/0/stream.m3u8
-
 #EXTINF:0 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",NICKTOON BRAZIL
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
@@ -27213,9 +27214,6 @@ https://c.mjh.nz/abc-kids.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",EBS KIDS
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",MULTIMANIA
-https://sirius.greenhosting.ru/MultimaniaRu/video.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",ABC TV PLUS
 https://c.mjh.nz/abc-tv-plus.m3u8
 
@@ -27275,6 +27273,12 @@ https://d390zi2w1jc4t4.cloudfront.net/master.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",BATERRY POP
 https://d24c0gmuazjo9x.cloudfront.net/master.m3u8
+
+   ADN TV +
+https://d3b73b34o7cvkq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-gz2sgqzp076kf/adn.m3u8
+
+    FILMRISE ANIME
+https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 
 
 
@@ -37569,8 +37573,16 @@ https://cctv.jogjaprov.go.id/cctv-proxy/cctv-kominfosleman/KominfoSlemanBelakang
 https://cctv.jogjaprov.go.id/cctv-proxy/atcs/DamaiTimur.stream/playlist.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",SIMPANG RADEN RONGGO
-https://cctv.jogjaprov.go.id/cctv-proxy/atcs/RadenRonggo.stream/chunklist_w874441023.m3u8
+https://cctv.jogjaprov.go.id/cctv-proxy/atcs/RadenRonggo.stream/chunklist.m3u8
 
+   SIMPANG TAMBAK
+https://cctv.jogjaprov.go.id/cctv-proxy/atcs/TambakBarat.stream/chunklist.m3u8
+
+SIMPANG KLERINGAN TENGAH
+https://cctv.jogjaprov.go.id/cctv-proxy/atcs/Kleringan3.stream/chunklist.m3u8
+
+SIMPANG KLERINGAN ARAH TIMUR TENGAH
+https://cctv.jogjaprov.go.id/cctv-proxy/atcs/Kleringan2.stream/chunklist.m3u8
 
 
 
@@ -37991,6 +38003,12 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",ABC 36 NEWS
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",BMG TV
+https://tv.nucast.tv/lb/ge/bmg/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",SCHWAB NETWORK
+https://tdameritrade-distro.amagi.tv/playlist.m3u8
 
 
 
@@ -39128,12 +39146,6 @@ https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🥁MUSIK🎷",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🥁MUSIK🎷",RC MUSIK TAMIL
-https://view.rcserver.in/tmp_hls1/stream/index.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🥁MUSIK🎷",ROCK TV
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
-
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🥁MUSIK🎷",THE VOICE
 https://bss1.neterra.tv/thevoice/thevoice.m3u8
 
@@ -39151,6 +39163,16 @@ https://streaming.grupomediosdelnorte.com:19360/tvexitos/tvexitos.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🥁MUSIK🎷",VEVO 2K
 https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevotv-vevo2kau-samsungnz/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🥁MUSIK🎷",360 TUNE BOX
+https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
+
+
+
+
+
+
+
 
 
 PENGETAHUAN
@@ -39313,7 +39335,11 @@ http://93.93.113.95:25461/TV-Berati/XtreamCodes/494
 #EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png", FIFA World Cup 2026 12
 http://myxpanel.pro/live/13579/13579/838116.ts
 
+#EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png",BEIN SPORT 1
+http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
 
+#EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png",BEIN SPORT 5
+http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
 
 
 OUTDOR
@@ -39430,9 +39456,6 @@ https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/st
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",SBT NEWS
 https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",TVB HD
-http://o11.163189.xyz/stream/tvb/fct/
-
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",AMERICAN TEST KITCHEN
 https://aegis-cloudfront-1.tubi.video/0094c1fc-7c41-45d0-af7a-6bbb62d6cd6e/playlist.m3u8
 
@@ -39457,6 +39480,17 @@ https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d2
    INSIDE CRIME UK
 https://amg00841-aenetworksukane-insidecrime-samsunguk-o968i.amagi.tv/playlist/amg00841-aenetworksukane-insidecrime-samsunguk/playlist.m3u8
 
+     ZB CINEMA
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+
+    ZB BHAKTI
+https://server.zillarbarta.com/zbbhakti/tracks-v1a1/mono.m3u8
+
+DISCOVERY FILM
+https://discoverfilm-discoverfilm-1-gb.samsung.wurl.tv/playlist.m3u8
+
+
+https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
 
 
 https://paketmaxstream.ambontv.my.id?code=TVRI-1BUO4P
