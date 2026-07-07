@@ -2791,7 +2791,7 @@ https://radio.garden/api/ara/content/listen/nGzKcSGX/channel.mp3?1733888780630
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-973555ec-02ab-4865-94de-8e1a8c172f2b.png" group-title="📻RADIO ASIA🌍",UFM (SG)
 https://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-973555ec-02ab-4865-94de-8e1a8c172f2b.png" group-title"📻RADIO ASIA🌍",Warna (SG)
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-973555ec-02ab-4865-94de-8e1a8c172f2b.png" group-title="📻RADIO ASIA🌍",Warna (SG)
 https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM.mp3?dist=radiogarden
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-973555ec-02ab-4865-94de-8e1a8c172f2b.png" group-title="📻RADIO ASIA🌍",Yes (SG)
@@ -8894,30 +8894,6 @@ https://stream.batukota.go.id/WebRTCApp/streams/c4umuPuVX9rYo8pJ1705741554912.m3
 
 
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",TOL SIBANCANG ACEH
-https://cctv-stream.bandaacehkota.info/memfs/8b15aba4-9952-40c0-94d3-a7834a407977_output_0.m3u8?session=D36tjkA5jTckurcZFuQimq
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",DINKES 4
-https://cctv-stream.bandaacehkota.info/memfs/40cfdb05-1220-4e31-9418-fc3497adac9f_output_0.m3u8?session=cDoyRuGvJqtPGZZyTc6qxx
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",SIMPANG DHARMA 1
-https://cctv-stream.bandaacehkota.info/memfs/dcba24ce-e625-4e77-8d8b-e0529725cc13_output_0.m3u8?session=NZYTtXSkDm7psexrFZXaq5
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",SIMPANG DHARMA 3
-https://cctv-stream.bandaacehkota.info/memfs/1e560ac1-8b57-416a-b64e-d4190ff83f88.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",SIMPANG DHARMA 4
-https://cctv-stream.bandaacehkota.info/memfs/f9444904-ad31-4401-9643-aee6e33b85c7_output_0.m3u8?session=GBbDUwT7J2w9iCcMVvDMoW
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",BUSNATULATIN
-https://cctv-stream.bandaacehkota.info/memfs/18d891c1-16e0-423d-a23d-1ea51c1b548f.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",DINKES 2
-https://cctv-stream.bandaacehkota.info/memfs/cc16dc97-e4ba-4c7f-ac34-165aab52d13b.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",DINKES 3
-https://cctv-stream.bandaacehkota.info/memfs/0617d616-8d75-4668-98cc-173ab20fcdd9_output_0.m3u8?session=buGuPsTFdPDkkKggpr76Am
-
 
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV SLEMAN",POS POLISI DENGUNG 1
 https://src24jam.slemankab.go.id/8881/hls/live.stream.m3u8
@@ -14540,31 +14516,40 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 
 
 
+#EXTINF:0 tvg-country=" " tvg-logo="   " group-title="DENMARK",
 
+#EXTINF:0 tvg-country=" " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-ost-dk.png" group-title="DENMARK",📺TV Øst
+https://livecdn.euw1-0005.jwplive.com/live/sites/WLT8BgsI/media/DHG9G8xO/live.isml/.mpd
 
-#EXTINF:0 tvg-id="ext" group-title="DENMARK",TV 2 FYN
-https://cdnapi.kaltura.com/p/1966291/sp/196629100/playManifest/entryId/0_vsfrv0zm/format/applehttp/protocol/https/uiConfId/30288171/a.m3u8
+#EXTINF:0 tvg-country=" " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-midtvest-kanalen-dk.png" group-title="DENMARK",TV Midtvest
+https://livecdn.euw1-0008.jwplive.com/live/sites/vIWOmyHO/media/TVY4ikTa/live.isml/.mpd
 
-#EXTINF:0 tvg-id="ext" group-title="DENMARK",TVTVB
-https://cdn-akamai-live.tv2bornholm.dk/stream/live/chunklist.m3u8
+#EXTINF:0 tvg-country=" " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-bornholm-dk.png" group-title="DENMARK",TV Bornholm
+https://livecdn.euw1-0005.jwplive.com/live/sites/J42OBHtp/media/vvNWt4O9/live.isml/.mpd
 
-#EXTINF:0 tvg-id="ext" group-title="DENMARK",TVMV
-https://klive.kaltura.com/s/env/d.live.frp1/live/hls/p/1953371/e/1_82z633k9/tl/main/st/0/t/kicJAyGQLSKSLg6GBLiimw/index-s43.m3u8?__hdnea__=st=1731554961~exp=1731641361~acl=/s/env/d.live.frp1/live/hls/p/1953371/e/1_82z633k9/tl/main/st/0/t/kicJAyGQLSKSLg6GBLiimw/index-s*~hmac=3a54b1c817a6a94efb1e0044b234046982868e4aecb00a2b6fb3acf26132ec4e
+#EXTINF:0 tvg-country=" " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-syd-dk.png" group-title="DENMARK",TV SYD
+https://livecdn.euw1-0005.jwplive.com/live/sites/ZzdficfW/media/bcZFHqNK/live.isml/.mpd
 
-#EXTINF:0 tvg-id="ext" group-title="DENMARK",TV2 NORTH
-https://cdnapi.kaltura.com/p/1956931/sp/195693100/playManifest/entryId/1_h9yfe7h2/protocol/https/format/applehttp/a.m3u8
+#EXTINF:0 tvg-country=" " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-fyn-dk.png" group-title="DENMARK",TV 2 FYN
+https://livecdn.euw1-0005.jwplive.com/live/sites/LSjEARYN/media/igp9r9oc/live.isml/.mpd
 
-#EXTINF:0 tvg-id="ext" group-title="DENMARK",TV2 OST
-https://cdnapi.kaltura.com/p/1953381/sp/195338100/playManifest/entryId/0_zphj9q61/protocol/https/format/applehttp/a.m3u8
+#EXTINF:0 tvg-country=" " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-nord-salto-dk.png" group-title="DENMARK",TV2 NORTH
+https://livecdn.euw1-0005.jwplive.com/live/sites/yXh2UIbN/media/KFXZ5tL6/live.isml/.m3u8
+
+#EXTINF:0 tvg-country=" " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-2-oj-dk.png" group-title="DENMARK",TV2 OJ
+https://livecdn.euw1-0005.jwplive.com/live/sites/nkFvCoRA/media/Crk4qpBM/live.isml/.mpd
 
 #EXTINF:0 tvg-id="ext" group-title="DENMARK",TV PARLIAMENT
 https://cdnapi.kaltura.com/p/2158211/sp/327418300/playManifest/entryId/1_24gfa7qq/protocol/https/format/applehttp/a.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="DENMARK",DRTV Avisen
-https://drevent01hls.akamaized.net/hls/live/2014198/drevent01/master.m3u8
+#EXTINF:0 tvg-country=" " tvg-logo="https://www.lyngsat.com/logo/tv/dd/dr-tv-avisen-dk.png" group-title="DENMARK",DRTV Avisen
+https://drlivedrtvahls.akamaized.net/hls/live/2113613/drlivedrtva/master.m3u8
+https://www.lyngsat.com/logo/tv/dd/dr-tv-avisen-dk.png
 
-#EXTINF:0 tvg-id="ext" group-title="DENMARK",TV Kosmopol
-https://livecdn.euw1-0005.jwplive.com/live/sites/Y5KQeGwq/media/vyIuihE1/live.isml/live.m3u8
+#EXTINF:0 tvg-country=" " tvg-logo="https://www.lyngsat.com/logo/tv/tt/tv-2-kosmopol-dk.png" group-title="DENMARK",TV Kosmopol
+https://livecdn.euw1-0005.jwplive.com/live/sites/Y5KQeGwq/media/P9pBJPnp/live.isml/.m3u8
+
+
 
 
 
@@ -15855,16 +15840,6 @@ https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv13/a13.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",SIMPANG PDAM
-https://cctv-stream.bandaacehkota.info/memfs/f42b9a56-5593-407d-af6e-f9396bc12ed0.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",SIMPANG JUMBO TAPE
-https://cctv-stream.bandaacehkota.info/memfs/1cc83753-c1ab-4b85-a5d7-e78a93f55fcc.m3u8
-
-
-#TINF:-1 tvg-id="" tvg-logo="https://cctv.bandaacehkota.go.id/img/diskominfo_bna.png" group-title="CCTV ACEH",
-https://stream.rpd.my.id:8080/cctv/hls/bjb_simpang_empat_bjb_a3_ptz.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="CCTV BATU MALANG",PINTU MASUK BALAIKOTA AMONG TANI
@@ -16089,7 +16064,7 @@ https://cctv.wiraraja.ac.id/video/cam10/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAMPUS INDONESIA🏢",📹PARKIRAN FP UTARA WALL CLIMBING (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam9/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="     ",📹PARKIRAN FEB ARAH BARAT (WIRAJAJA SUMENEP)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAMPUS INDONESIA🏢",📹PARKIRAN FEB ARAH BARAT (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam4/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAMPUS INDONESIA🏢",📹PARKIRAN FEB ARAH SELATAN (WIRAJAJA SUMENEP)
@@ -16128,7 +16103,7 @@ https://cctv.wiraraja.ac.id/video/cam29/index.m3u8
 #EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAMPUS INDONESIA🏢",📹KANTIN UTARA 4 (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam41/index.m3u8
 
-#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="    ",📹KANTIN TENGAH (WIRAJAJA SUMENEP)
+#EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAMPUS INDONESIA🏢",📹KANTIN TENGAH (WIRAJAJA SUMENEP)
 https://cctv.wiraraja.ac.id/video/cam25/index.m3u8
 
 #EXTINF:-1 tvg-id=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAMPUS INDONESIA🏢",📹KANTIN TENGAH 2 (WIRAJAJA SUMENEP)
@@ -18103,25 +18078,9 @@ https://cctv.jogjaprov.go.id/cctv-proxy/atcs-kota/Gayam.stream/chunklist_w112466
 #EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",SENTUL
 https://cctv.jogjaprov.go.id/cctv-proxy/atcs-kota/Sentul.stream/chunklist_w109375030.m3u8
 
-#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="AFGANISTAN",SHAMSAD TV
-https://5a1178b42cc03.streamlock.net/shamshadtelevision/shamshadtelevision/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-country="CH" tvg-logo="https://i.postimg.cc/nhsKSjBf/rtsh1.png" group-title="ALBANIA🇦🇱",RTSH 1 HD
-http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
-
-#EXTINF:0 tvg-country="CH" tvg-logo="https://i.postimg.cc/Mph7C6mM/rtsh2.png" group-title="ALBANIA🇦🇱",RTSH 2 HD
-http://178.33.34.186:15151/live/rtsh2/playlist.m3u8
-
-#EXTINF:0 tvg-country="CH" tvg-logo="https://i.postimg.cc/qRr871Yp/rtsh24.png" group-title="ALBANIA🇦🇱",RTSH 24 HD
-http://188.172.107.158:15151/live/rtsh24/playlist.m3u8
-
-#EXTINF:0 tvg-country="CH" tvg-logo="https://i.postimg.cc/nrrjR4Jq/rtshshqip.png" group-title="ALBANIA🇦🇱",RTSH SHIQP
-http://45.93.220.83:5252/live/rtshshqip/playlist.m3u8
-
-#EXTINF:0 tvg-country="CH" tvg-logo="https://i.postimg.cc/wMrtS1qZ/rtshsport.png" group-title="ALBANIA🇦🇱",RTSH SPORT
-http://188.172.107.157:15151/live/rtshsport/playlist.m3u8
 
 
 
@@ -19816,35 +19775,86 @@ https://rtsp.itn.net.id/play/hls/76b59f11-87e6-485d-9259-a19ed391b30e/index.m3u8
 
 
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs-dishub.bandung.go.id/assets/img/atcs.png" group-title="CCTV DISHUB BANDUNG",SP SAMSAT
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹SP SAMSAT
 https://atcs-dishub.bandung.go.id:1990/Samsat/index.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs-dishub.bandung.go.id/assets/img/atcs.png" group-title="CCTV DISHUB BANDUNG",VID GEDEBAGE TIMUR
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID GEDEBAGE TIMUR
 https://atcs-dishub.bandung.go.id:1990/GedeTim/index.m3u8
  
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs-dishub.bandung.go.id/assets/img/atcs.png" group-title="CCTV DISHUB BANDUNG",VID GEDEBAGE BARAT
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID GEDEBAGE BARAT
 https://atcs-dishub.bandung.go.id:1990/GedeBar/index.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs-dishub.bandung.go.id/assets/img/atcs.png" group-title="CCTV DISHUB BANDUNG",VID GEDEBAGE SELATAN
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID GEDEBAGE SELATAN
 https://atcs-dishub.bandung.go.id:1990/GedeSel/index.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs-dishub.bandung.go.id/assets/img/atcs.png" group-title="CCTV DISHUB BANDUNG",VID GEDEBAGE UTARA
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID GEDEBAGE UTARA
 https://atcs-dishub.bandung.go.id:1990/GedeUt/index.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs-dishub.bandung.go.id/assets/img/atcs.png" group-title="CCTV DISHUB BANDUNG",VID SAMSAT  BARAT
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID SAMSAT  BARAT
 https://atcs-dishub.bandung.go.id:1990/SamsatBar/index.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs-dishub.bandung.go.id/assets/img/atcs.png" group-title="CCTV DISHUB BANDUNG",VID SAMSAT SELATAN
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID SAMSAT SELATAN
 https://atcs-dishub.bandung.go.id:1990/SamsatSel/index.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs-dishub.bandung.go.id/assets/img/atcs.png" group-title="CCTV DISHUB BANDUNG",VID SAMSAT UTARA
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID SAMSAT UTARA
 https://atcs-dishub.bandung.go.id:1990/SamsatUt/index.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://atcs-dishub.bandung.go.id/assets/img/atcs.png" group-title="CCTV DISHUB BANDUNG",SP BUAH BATU
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹SP BUAH BATU
 https://atcs-dishub.bandung.go.id:1990/Buahbatu/index.m3u8
 
-VID BUAH BATU TIMUR
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID BUAH BATU TIMUR
 https://atcs-dishub.bandung.go.id:1990/BubatTim/index.m3u8
+   
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID BUAH BATU SELATAN
+https://atcs-dishub.bandung.go.id:1990/BubatSel/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID BUAH BATU BARAT
+https://atcs-dishub.bandung.go.id:1990/BubatBar/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID BUAH BATU UTARA
+https://atcs-dishub.bandung.go.id:1990/BubatUt/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹SP BATUNUNGGAL
+https://atcs-dishub.bandung.go.id:1990/Batununggal/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID BATUNUNGGAL TIMUR
+https://atcs-dishub.bandung.go.id:1990/BatuTim/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID BATUNUNGGAL BARAT
+https://atcs-dishub.bandung.go.id:1990/BatuBar/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹SP MOCH TOHA
+https://atcs-dishub.bandung.go.id:1990/MochToha/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID MOH TOHA BARAT
+https://atcs-dishub.bandung.go.id:1990/TohaBar/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID MOH TOHA SELATAN
+https://atcs-dishub.bandung.go.id:1990/TohaSel/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID MOH TOHA UTARA
+https://atcs-dishub.bandung.go.id:1990/TohaUt/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹VID MOH TOHA TIMUR
+https://atcs-dishub.bandung.go.id:1990/TohaTim/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹SP INHOPTANK
+https://atcs-dishub.bandung.go.id:1990/Inhoptank/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹SP PASAR CARINGIN
+https://atcs-dishub.bandung.go.id:1990/PasarCaringin/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹SP PASIR KOJA
+https://atcs-dishub.bandung.go.id:1990/PasirKoja/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹SP CIBEUREUM
+https://atcs-dishub.bandung.go.id:1990/Cibeureum/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹SP JAMIKA
+https://atcs-dishub.bandung.go.id:1990/Jamika/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV DISHUB BANDUNG",📹SP TOL PASTEUR
+https://atcs-dishub.bandung.go.id:1990/Pasteur/index.m3u8
 
 
 
@@ -20398,86 +20408,6 @@ https://cctv.jogjaprov.go.id/cctv-proxy/cctv-kominfosleman/SimpangPasarHewan2.st
 
 
 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",BUSNASUSALLATIN 8
-https://cctv-stream.bandaacehkota.info/memfs/97abc63e-30d6-4d67-9f47-5586ea3bf13c_output_0.m3u8?session=HWqsSuCtDJR9veX2pNjzjR
-
-EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",BUSNASUSALLATIN 1
-https://cctv-stream.bandaacehkota.info/memfs/915ad1fb-eb2b-4189-bf36-30f70439b7a0_output_0.m3u8?session=aNyYowYL2eTEaKypugNnZj
-
-EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",BUSNASUSALLATIN 2
-https://cctv-stream.bandaacehkota.info/memfs/e9895ca2-11a4-4c93-85bf-8dbb079f65c9_output_0.m3u8?session=DzkoGKMACzRLNoR3UFMFzs
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",BUSNASUSALLATIN 3
-https://cctv-stream.bandaacehkota.info/memfs/2182ed86-4eb0-4fbf-b61c-12af56af4210_output_0.m3u8?session=bRXDhcNrDq8PUukHhy5a2m
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",BUSNATUSALATIN 4
-https://cctv-stream.bandaacehkota.info/memfs/18d891c1-16e0-423d-a23d-1ea51c1b548f.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",BUSNATUSALATIN 11
-https://cctv-stream.bandaacehkota.info/memfs/f460ed4c-c279-40b0-b1ef-70eccd56883c_output_0.m3u8?session=63wnMSZoNeX8zWcHYHeTa8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",BUSNATUSALATIN 12
-https://cctv-stream.bandaacehkota.info/memfs/5b8da89a-8cb6-4b3e-ba11-348b111f77a0_output_0.m3u8?session=48dLD5vUhc75CEYrwHBhEk
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 1.1
-https://cctv-stream.bandaacehkota.info/memfs/eae03536-f7d1-462d-b1bf-7bf8aa65cd30.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 2.1
-https://cctv-stream.bandaacehkota.info/memfs/84524a55-0da2-4893-b23f-f0f808bbb001_output_0.m3u8?session=SkN75i9brHpBwuK2BKqP2y
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 2.2
-https://cctv-stream.bandaacehkota.info/memfs/7eec00d1-9025-4c1c-9007-7a742cac3dd8_output_0.m3u8?session=8wqeJdiyJEKWDWQMcXZZz6
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 3.1
-https://cctv-stream.bandaacehkota.info/memfs/6254fbbf-58fe-4153-8081-fa37bb2489b7_output_0.m3u8?session=dBYoSVFtbb3gXV5AJcezu2
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 4.1
-https://cctv-stream.bandaacehkota.info/memfs/097d5dcf-eda2-4b29-9661-fcc035d7770f_output_0.m3u8?session=iL3F3Ec29JnwqCPQqPrLYQ
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 4.2
-https://cctv-stream.bandaacehkota.info/memfs/3f16c583-7498-401f-9e4f-4667b215da74_output_0.m3u8?session=h6FiYfWTD3E4gex2tCsBgM
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 5.1
-https://cctv-stream.bandaacehkota.info/memfs/498150ee-6265-4bd4-b5a7-90d71a056a5e_output_0.m3u8?session=5YvRVUKXXHAxfvbngvEXcW
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 5.2
-https://cctv-stream.bandaacehkota.info/memfs/d6ac0e27-b7ee-4985-abeb-24c302a54d33_output_0.m3u8?session=Ppvc7MwnSrzwnHnrw9yMyr
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 6.1
-https://cctv-stream.bandaacehkota.info/memfs/b03f2075-8227-43ef-9699-bb72a8766728_output_0.m3u8?session=gsnmFsgpdpQKGKntfcRraZ
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 6.2
-https://cctv-stream.bandaacehkota.info/memfs/2c6e45cf-7a50-4b68-8516-f8b424734045_output_0.m3u8?session=VcYWEmbF3CokFNpyA4Q97p
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 7.1
-https://cctv-stream.bandaacehkota.info/memfs/a5c7ebac-c49d-4b6a-9a4e-6ff0daf7dc8f_output_0.m3u8?session=eUQAUKAcPXWY62o8K9FHLM
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 7.2
-https://cctv-stream.bandaacehkota.info/memfs/72caf7af-5f4d-40fb-87a2-f8bf0ef896d3_output_0.m3u8?session=j5VybyNmvPUjjjQcFYXtwJ
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 8.1
-https://cctv-stream.bandaacehkota.info/memfs/aebefc8b-1ac5-4f67-8a2a-feaa762f3915_output_0.m3u8?session=F6jnbnZEN5QQJpACsAMEuW
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 8.2
-https://cctv-stream.bandaacehkota.info/memfs/14decbd9-6c2f-41b3-8a4f-2dc7d2a8853f_output_0.m3u8?session=L9qzJwRAiaTQscXj3yTEyc
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 9.1
-https://cctv-stream.bandaacehkota.info/memfs/9e38b13c-4a59-42de-8be6-47edf4412990_output_0.m3u8?session=XSkZxxwGA2c5fXvH5gg8on
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 9.2
-https://cctv-stream.bandaacehkota.info/memfs/2ce959d1-f8b1-4b11-8644-ad3e10188f62_output_0.m3u8?session=XivvmK7TrSqukd9c4xrEZ2
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 10.1
-https://cctv-stream.bandaacehkota.info/memfs/c1d63ebb-248f-4adf-a7d4-f0c09b69c482_output_0.m3u8?session=C63qqz4hdspXhgDhpRxt9K
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",ULEE LHEHUEE 10.2
-https://cctv-stream.bandaacehkota.info/memfs/41e5812d-685a-4b85-a7a0-f04c42c77a72_output_0.m3u8?session=CEpcHMhWZVYq7upQxQSdkc
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",BUSNATUSALATIN 7
-https://cctv-stream.bandaacehkota.info/memfs/97abc63e-30d6-4d67-9f47-5586ea3bf13c.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV ACEH",BUSNASUSALLATIN 5
-https://cctv-stream.bandaacehkota.info/memfs/e086ecce-9076-4f28-a712-ac2659fa4e53_output_0.m3u8?session=H49L84ARAGUtzmBhWB5BYC
 
 
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV PADANG",BAPENDA
@@ -35975,25 +35905,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/3c619ecc120b46e999d1eaa627cc544f/in
 #KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
 
-#EXTINF:-1 tvg-id="HBO.th"  tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️", HBO MAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://cdnbal1.indihometv.com/atm/DASH/hbo/manifest.mpd
-
-#EXTINF:-1   tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️", HBO FAMILY MAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://cdnbal1.indihometv.com/atm/DASH/hbofamily/manifest.mpd
-
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="    ", HBO HITS MAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://cdnbal1.indihometv.com/atm/DASH/hbohits/manifest.mpd
-
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️", HBO SIGNATURE MAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://cdnbal1.indihometv.com/atm/DASH/hbosignature/manifest.mpd
-
-#EXTINF:-1 tvg-name="ROCK ACTION" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️", ROCK ACTION MAX
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://cdnbal1.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
+_ACTION/manifest.mpd
 
 #EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️", WB TV MAX
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -38010,7 +37922,8 @@ https://tv.nucast.tv/lb/ge/bmg/index.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",SCHWAB NETWORK
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
 
-
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",RUSIA TODAY BALKAN
+https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 
 
 
