@@ -11123,7 +11123,7 @@ https://cdn.wfc.tv/cdn/stream-rus.m3u8
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="RUSIA",5 канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 
-#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 Horas Internacional [Geo-blocked]
+#EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 horas Internacional [Geo-blocked]
 http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 
 
@@ -17306,7 +17306,14 @@ https://atcs.banjarmasinkota.go.id/stream/simpang_sultan_adam_sungai_andai/index
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANJARMASIN",JALAN LAMBUNG MANGKURAT BANK BI
 https://atcs.banjarmasinkota.go.id/stream/jalan_lambung_mangkurat_bank_bi/index.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANJARMASIN",SIMPANG MENTARI
+https://atcs.banjarmasinkota.go.id/stream/simpang_mentari/index.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANJARMASIN",SIMPANG HASAN BASRI CEMARA
+https://atcs.banjarmasinkota.go.id/stream/simpang_hasan_basri_cemara/index.m3u8
+   
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV BANJARMASIN",SIMPANG ANTASARI
+https://atcs.banjarmasinkota.go.id/stream/simpang_antasari/index.m3u8
 
 
 
@@ -31539,6 +31546,40 @@ https://livepantau.semarangkota.go.id/07c53946-b067-4d23-a4c8-38ac75223c31/index
 https://livepantau.semarangkota.go.id/bde21c0d-fddd-4369-9653-1690ae65b80b/index.m3u8
 
 
+CCTV SMG BALAIKOTA
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG PEMERINTAHAN",BALAIKOTA IN PTZ
+https://livepantau.semarangkota.go.id/29260b0e-3462-4989-9d63-177caa8aa93b/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG PEMERINTAHAN",BALAIKOTA IN PEMUDA
+https://livepantau.semarangkota.go.id/239c2ee3-1bfa-495c-8ee7-f68e548be4a7/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG PEMERINTAHAN",BALAIKOTA IN
+https://livepantau.semarangkota.go.id/24a943ca-def5-44a0-aff9-9895022af832/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG PEMERINTAHAN",BALAIKOTA OUT PTZ
+https://livepantau.semarangkota.go.id/fa6b1767-874f-4348-8fc8-d186d1e8d253/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG PEMERINTAHAN",BALAIKOTA OUT PEMUDA
+https://livepantau.semarangkota.go.id/97f4e76c-ff66-4fef-8d8d-d6bfdf46c372/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG PEMERINTAHAN",BALAIKOTA OUT 108
+https://livepantau.semarangkota.go.id/11815d10-c439-42e1-9225-22c3f3acf187/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG PEMERINTAHAN",BALAIKOTA OUT
+https://livepantau.semarangkota.go.id/3dc9ca52-e594-42e7-9820-8cc010322b67/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG PEMERINTAHAN",PINTU BELAKANG 01
+https://livepantau.semarangkota.go.id/38c82d6e-ad01-4f85-9ff9-3d6258e87725/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG PEMERINTAHAN",PINTU BELAKANG 02
+https://livepantau.semarangkota.go.id/d6887205-d6b7-42b5-8edb-370b28e2123e/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG PEMERINTAHAN",PINTU BELAKANG 03
+https://livepantau.semarangkota.go.id/22ba1c40-51e4-47e1-ad52-e509a2bb88a5/index.m3u8
+
+
+
 
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",DEMEN GLAGAH
@@ -37511,7 +37552,7 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",SCRIP NEWS
 https://aegis-cloudfront-1.tubi.video/7e1c26b7-7975-4240-9a4f-480eaa8f3ea4/playlist_3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",24 HORAS
+EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",24 HORAS
 https://ztnr.rtve.es/ztnr/4952053.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",MEDI TV AFRICA
