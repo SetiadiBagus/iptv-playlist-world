@@ -8994,7 +8994,7 @@ https://s51.nysdot.skyvdn.com/rtplive/R10_002/playlist.m3u8
 https://s51.nysdot.skyvdn.com/rtplive/R10_003/playlist.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",📹AREA TRUCK PARK 2
-https://s58.nysdot.skyvdn.com/rtplive/TA_206/playlist.m3u8<
+https://s7.nysdot.skyvdn.com/rtplive/TA_191/playlist.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",📹Lieb Exit Camera 05
 https://s51.nysdot.skyvdn.com/rtplive/R10_005/playlist.m3u8
@@ -9184,6 +9184,68 @@ https://s53.nysdot.skyvdn.com/rtplive/TA_028/chunklist.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",CUOMO BRIDGE CAM 2 (511NY)
 https://s53.nysdot.skyvdn.com/rtplive/TA_030/chunklist_w1650969296.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",I-287 MP005.20 WHITE PLAINS
+https://s51.nysdot.skyvdn.com/rtplive/TA_010/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",I-87 MP018.80 INTERCHANGE 12 (WES YAK)
+https://s51.nysdot.skyvdn.com/rtplive/TA_034/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",I-90 MP285.67 INTERCHANGE
+https://s51.nysdot.skyvdn.com/rtplive/TA_095/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",I-90 MP AREA TRUCK PARK 1
+https://s7.nysdot.skyvdn.com/rtplive/TA_193/chunklist.m3u8
+
+    ADSLEY AREA TRUCK PARK 1
+https://s7.nysdot.skyvdn.com/rtplive/TA_195/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",ADSLEY AREA TRUCK PARK 2
+https://s7.nysdot.skyvdn.com/rtplive/TA_196/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",NEW BALTIMORE SERVIS AREA TRUCK PARK 1
+https://s7.nysdot.skyvdn.com/rtplive/TA_197/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",NEW BALTIMORE SERVIS AREA TRUCK PARK 2
+https://s7.nysdot.skyvdn.com/rtplive/TA_198/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",NEW BALTIMORE SERVIS AREA TRUCK PARK 3
+https://s7.nysdot.skyvdn.com/rtplive/TA_199/chunklist.m3u8
+   
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",NEW BALTIMORE SERVIS AREA TRUCK PARK 4
+https://s7.nysdot.skyvdn.com/rtplive/TA_200/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",PLATTEKIL SERVICE AREA TRUCK PARK 1
+https://s7.nysdot.skyvdn.com/rtplive/TA_209/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",PLATTEKIL SERVICE AREA TRUCK PARK 2
+https://s7.nysdot.skyvdn.com/rtplive/TA_210/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",WARNER SERVICE AREA TRUCK PARK 1
+https://s7.nysdot.skyvdn.com/rtplive/TA_215/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",WARNER SERVICE AREA TRUCK PARK 2
+https://s7.nysdot.skyvdn.com/rtplive/TA_216/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",G.MARIO CUOMO BRIDGE
+https://s7.nysdot.skyvdn.com/rtplive/TA_165/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",CUOMO BRIDGE VIEW 2
+https://s7.nysdot.skyvdn.com/rtplive/TA_166/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",I-87 MP 076.00 ITERCHANGE NEW PALT
+https://s52.nysdot.skyvdn.com/rtplive/TA_047/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",NY14 CLEMEN CENTER PKY
+https://s9.nysdot.skyvdn.com/rtplive/R6_033/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",NY96 DUTCH LANE
+https://s9.nysdot.skyvdn.com/rtplive/R8_174/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",NY56 MIDDLE TOWN
+https://s9.nysdot.skyvdn.com/rtplive/R8_177/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV NEW YORK USA🇺🇸",NY59 DEPEW AVRKLIN
+https://s9.nysdot.skyvdn.com/rtplive/R8_132/chunklist.m3u8
 
 
 
@@ -37219,16 +37281,6 @@ https://op-flashcon-digdayaxenkoda.dens.tv/4797e82c-d14e-453e-b8d6-3e2427ad09a9/
 #EXTINF:-1 tvg-id="14" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TVRI SPORT
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-id="14" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TVRI SPORT DIGITAL
-http://103.148.44.38:8000/play/a05u/index.m3u8
-
-EXTINF:-1 tvg-id="14" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TVRI SPORT DIGITAL (2)
-http://202.169.224.202:8800/udp/239.1.2.3:1234
-
-EXTINF:-1 tvg-id="14" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TVRI SPORT DIGITAL (3)
-http://103.58.160.157:8278/720-TVRISPORT/playlist.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="   " group-title="Lokal",DAVIKA TV
 https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
 
@@ -38446,9 +38498,6 @@ EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", FUSBALL TV HD
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/fsb1hd.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", FUSSBALL TV FHD
 http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
 
@@ -38655,6 +38704,13 @@ https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",ATLANTO TV HD
 https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
+
+#EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://imgur.com/ZiS7etW.jpeg" group-title="🚧TESTING CHANNEL🚧",SCTV (TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
+https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/U0NUVi1teQ/manifest.mpd?signature=MmZjMzYyYmE2MjU2MTY2Mjk4OWQ0OTA4OGNjMmFmOWE=\u0026time=15226411534
+
 
 
    INSIDE CRIME UK
@@ -39120,6 +39176,14 @@ OTAK BOKEP
 68707591
 
 https://youtube.com/shorts/sv_GlYWGqio?lc=UgwfAecxg1JX1tZT2yN4AaABAg.AXwYVbjd8zcAXwZTAD5v82
+
+
+Buka file master.m3u8 di tab Network (klik file tersebut, lalu buka tab Preview atau Response). Cari baris yang berisi #EXT-X-KEY.
+
+Biasanya akan terlihat seperti ini: #EXT-X-KEY:METHOD=AES-128,URI="https://server.com/key.key",IV=0x...
+
+Lakukan copy URL URI tersebut, lalu membukanya di tab baru untuk mengunduh file key (.key) tersebut.
+
 
 
 
