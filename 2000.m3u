@@ -258,7 +258,7 @@ https://63b2dc7196c38.streamlock.net:1937/musikfolklor/ngrp:musikfolklor_all/chu
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",CNN INDONESIA HD
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8
+https://live.cnnindonesia.com/livecnn-sec/smil:cnntv.smil/chunklist_w679543833_b384000_sleng_tkd293emF0b2tlbnN0YXJ0dGltZT0wJndvd3phdG9rZW5lbmR0aW1lPTE3ODQ5NTcwNDUwOTcmd293emF0b2tlbmhhc2g9a193ZGluLXFHR3JXLVJEUkRhaDV6MGlPQzMtVTlULVAwV3dual8tOS1Eaz0=.m3u8
 
 EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",ELSHINTA TV HD
 https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
@@ -390,6 +390,8 @@ https://flv.intechmedia.net/live/ch114.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",CNBC INDONESIA HD
+https://live.cnbcindonesia.com/livecnbc-sec/smil:cnbctv.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1784957119341&wowzatokenhash=ziRUhfT4y2rkHwjZcj2lHNnK-OCLi8DWKxVFRdMAUlo%3D
+
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8
 
 EXTINF:0 tvg-id="JC" tvg-logo="https://iili.io/20FRXxp.png" group-title="🇮🇩 [ Indonesia ] 🇮🇩", JOWO CHANNEL [ DENSTV ]
