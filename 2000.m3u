@@ -352,7 +352,9 @@ EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-id="tvkesehatan.id" tvg-lo
 https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", TRANS 7 TOKEN TEST
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", TRANS 7 TEST
+https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1784690293791&wowzatokenhash=aX-cs5VDu0n8h0apNksV2U4QToICLg_oywjx_i_6Z-A%3D
+
 https://video.detik.com/trans7-sec/smil:trans7.smil/playlist.m3u8?wowzatokenstarttime=0&wowzatokenendtime=1784008496474&wowzatokenhash=cQF7kGLqGgmTFhGIVuUXqNGYDkEiOwrRn9H2xTsA46c%3D
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
@@ -647,11 +649,11 @@ https://media-osa.hls.nhkworld.jp/hls/w/live/master.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌍📖PENGETAHUAN DUNIA📖🌍",NHK WORLD JAPAN GEO BLOCKED HD
 https://nhk.lls.pbs.org/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌍📖PENGETAHUAN DUNIA📖🌍",NHK WORLD JAPAN HD
-https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌍📖PENGETAHUAN DUNIA📖🌍",TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+
+-------
 
 
 #EXTINF:-1 tvg-id="BloombergTelevision.us" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",BLOOMBERG TV
@@ -4231,8 +4233,9 @@ https://stream.kuduskab.go.id/memfs/4685afda-b1bc-42fb-9e53-af62eb1e0f49.m3u8?se
 https://stream.kuduskab.go.id/memfs/b107e246-9adc-4d1a-b2b0-eb4624b502d7.m3u8?session=A3BmseDH54hKBD3JuNujwL
 
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB KUDUS",SIMP PEGADAIAN
-https://stream.kuduskab.go.id/memfs/f1766611-32e0-4357-ac6a-f732986fcd19.m3u8?session=k7cBTQATr9Njgx9j3qocfH
-  
+https://stream.kuduskab.go.id/f1766611-32e0-4357-ac6a-f732986fcd19.m3u8
+
+
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB KUDUS",SPPG Getas Pejaten (Polres 3)
 https://stream.kuduskab.go.id/memfs/d7ce1337-5131-43a1-bf06-5535259db1c7.m3u8
 
@@ -19133,12 +19136,11 @@ https://cctvjss.jogjakota.go.id/rthp/rthp_brontokusuman_blkgKel_2.stream/chunkli
 
 
 
-#
+   KANTOR DESA CANDI YAYASAN
+https://mata.wonosobokab.go.id/memfs/1023be23-2302-409c-b53f-36c633cde416.m3u8
 
-
-
-
-
+   PERBATASAN RECO
+https://mata.wonosobokab.go.id/memfs/82baf357-d78d-4393-978f-aff9ebd579a8.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.wonosobokab.go.id/assets/logo/Logo-Pemkab.png" group-title="CCTV KAB WONOSOBO",PEREMPATAN TITIK 0KM
 https://mata.wonosobokab.go.id/memfs/f525acfe-7562-413d-b79c-3ec1d684970a_output_0.m3u8?session=kxBi7a8LhKpycsLJvUcbSo
@@ -19191,7 +19193,7 @@ https://mata.wonosobokab.go.id/memfs/73ad9338-3558-44db-82a0-7c5737c37211_output
 https://mata.wonosobokab.go.id/memfs/3cc3fd74-60a5-4e9d-917c-84cececfe18b_output_0.m3u8?session=ZmUjLVTBDGTTiGBQCseNxT
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.wonosobokab.go.id/assets/logo/Logo-Pemkab.png" group-title="CCTV KAB WONOSOBO",PRUMBANAN
-https://mata.wonosobokab.go.id/memfs/02234b1d-95cb-43e8-a97a-035b9ee81939_output_0.m3u8?session=3CaWGVf63Cm3DeWvcRwfwW
+https://mata.wonosobokab.go.id/memfs/afafba8e-ca98-42c9-a8cb-dfe9218cd367.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.wonosobokab.go.id/assets/logo/Logo-Pemkab.png" group-title="CCTV KAB WONOSOBO",SAMBON KRETEK
 https://mata.wonosobokab.go.id/memfs/5af30b8b-cab9-4c4a-8c5f-c68951bac87b_output_0.m3u8?session=bPw2y8sXCqQtBMtQwwQRRf
@@ -19437,12 +19439,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=11223344556677889900112233445566:4b80724d0ef86bcb2c21f7999d67739d
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
-
-EXTINF:-1 group-title="🎾SPORT1🎾" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",La liga Inside
-https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
-
-#EXTINF:-1 group-title="🎾SPORT1🎾" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",La liga Inside
-https://d3bb58xoj568xi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-don7i7nmbho0q/index.m3u8
 
 #EXTINF:-1 group-title="🎾SPORT1🎾" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",RightNow TV
 https://a-cdn.klowdtv.com/live2/rightnowtv_720p/playlist.m3u8
@@ -20311,7 +20307,6 @@ https://a-cdn.klowdtv.com/live2/horsetv_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾",ITV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾",ASTRKHAN RU SPORT
 
 
 
@@ -20883,8 +20878,6 @@ https://amg00735-amg00735c45-astrosooka-singapore-7035.playouts.now.amagi.tv/pla
 #EXTINF:-1 tvg-id="YasTV.ae" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾",BEIN SPORT XTRA ESPANOL
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="YasTV.ae" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾",COLIMDO TV
-https://cnn.livestreaminggroup.info:3132/live/colimdotvlive.m3u8
 
 
 
@@ -21187,9 +21180,6 @@ rtsp://192.168.1.2:554/live/ch00_1
 #EXTINF:0 tvg-country="IT" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾",DP WORLD TOUR
 https://amg00218-wptenterprisesi-worldpokertour-klowdtv-5619e.amagi.tv/playlist/amg00218-wptenterprisesi-worldpokertour-klowdtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾",FIGHT NETWORK
-https://a-cdn.klowdtv.com/live2/fight_720p/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾",K SPORT
 https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8
 
@@ -21220,9 +21210,6 @@ https://aegis-cloudfront-1.tubi.video/74681dcc-e6d0-4add-ad67-a22ad9c152e6/playl
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾",BAHRAIN SPORT 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾",BAHRAIN SPORT 2
-https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾",AFRICA24 SPORT
 https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
 
@@ -21247,19 +21234,19 @@ https://live-cdn-stream-euw1.bfmb.bct.nextradiotv.com/m1/media.m3u8?bpkio_servic
 
 
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",RCTI HD
+EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",RCTI HD
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
-#EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",MNC TV
+EXTINF:-1 tvg-id="MNCTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",MNC TV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 
-#EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",GTV
+EXTINF:-1 tvg-id="GTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",GTV
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=036e85de0bb448eeb21d39ab300da48e:4c6f9b15dfab2a169b2b78a498c4d77d
@@ -28423,56 +28410,6 @@ https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_1/live.livx?i
 #KODIPROP:inputstream.adaptive.license_key=6f09c99d572d9c6d4d616521ee785460:12893b12e80c3c5dbaf6b4994c8432c0
 https://d1zqtf09wb8nt5.cloudfront.net/livedash/oil/freetv/live/one_2/live.livx?indexMode&amp;dvr=7200000
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾", PL-EVENT 01 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=27059dc8b75841e7a511e67d5e069ae2:b7217f85cb0a1dd7113ed307c363d0df
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi1/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾", PL-EVENT 02 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f3056cac18d4e31a59de39767042b03:83728946b898141ae411572f9f5fce0d
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi2/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾", PL-EVENT 03 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c16d5962a22494db502b3453f891208:acaed175b981b34ae9b5cb0130506854
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi3/default/index.mpd
-
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾", PL-EVENT 04 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c3050cba95c945418efa3aedbc69cff7:988e7fade0828273472e24545d0cfa4c
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi4/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾", PL-EVENT 05 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=eecc6d7ac3df439fb2b73fb38007cb82:826c341a6fef4518cefd27ec85e8b274
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi5/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾", PL-EVENT 06 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=02d5f086706e407e9343c040ac7fb5b8:9d7e088bf7fffc9297ab3a02f0ce9a72
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi6/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾", PL-EVENT 07 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=40bed7f7948e4e5792982cf5b7ee4d78:1fbfd2e3be51aae857f2f24306e5fc41
-https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pl_sdi7/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾", PL-EVENT 08 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a8dbf3b9c2c43079a40fb5d0068f9ef:1778ac6e22527ee2efd6886d8d509c2d
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi8/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾", PL-EVENT 09 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1c7b9a2af9ad4076b155f06269b6adc2:ed6a8b11738cd27c0bee2d9e3fee178a
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi9/default/index.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾", PL-EVENT 10 🇵🇭
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=63055a8904644407a64a57874703f71e:0fd611777d37a7ff8afce19d9cee2e91
-https://qp-pldt-live-bpk-01-prod.akamaized.net/bpk-tv/pl_sdi10/default/index.mpd
-
 #EXTINF:-1 tvg-id="supertennis1itampd" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎾SPORT1🎾",SuperTennis 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000
@@ -35088,6 +35025,17 @@ https://tdameritrade-distro.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",RUSIA TODAY BALKAN
 https://rt-srb.rttv.com/dvr/rtbalkan/playlist.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",WXXV-TV 25.1
+https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",WAAY 3.1
+https://townnews.g-mana.live/media/027a05c7-43b6-49eb-ad10-a0c0f10a0754/main.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",WVIT 30.1
+https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
+ 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",FOX29 PHILADELPHIA
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 
 
 
@@ -36295,7 +36243,7 @@ https://lana.psm.mv/live/mtv.m3u8
 
 https://bit.ly/Gratis-99 
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", RTVS SPORT SLOVAKIA
+EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", RTVS SPORT SLOVAKIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -36325,34 +36273,11 @@ http://74.91.26.218:82/live/cctv5p.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CT SPORT
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", KLANSPORTS (Match 1) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/495
-
-EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", KLANSPORTS (Match 2) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-http://93.93.113.95:25461/TV-Berati/XtreamCodes/496
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", FUSSBALL TV FHD
-http://91.208.115.26:80/play/live.php?mac=00:1B:79:44:18:49&stream=1745092&extension=m3u8
-
 #EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png", FIFA World Cup 2026 02
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png",BEIN SPORT 1
-http://starhub.pro/live/farhat-3379/67897-913379/744523.ts
-
-#EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png",BEIN SPORT 5
-http://starhub.pro/live/farhat-3379/67897-913379/744527.ts
-
-#EXTINF:-1 tvg-id="b" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽", FS1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/fsu3wl2rwb/out/v1/be61206c04e643349d53fb22301f3b50/cenc.mpd
-
 #EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png", T Sports
 http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
-
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CAZE TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -36546,11 +36471,7 @@ https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=1d37f079910b49f08b40deb547514c76:c4ead9b8ce1242a38bbb08eba5d2af4a
 https://cdnjktcyber05.transvision.co.id/riutx01-c1fc11486895f02d90da220d5195493e/dash/U0NUVi1teQ/manifest.mpd?signature=MmZjMzYyYmE2MjU2MTY2Mjk4OWQ0OTA4OGNjMmFmOWE=\u0026time=15226411534
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",Telemoldova
-https://vdo.ssl-stream.com:3247/stream/play.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",SuperTV Camulung HD
-https://cdn.streamnet.pro/live/supertv/chunklist_w1778352247.m3u8
 
 
 
@@ -37572,6 +37493,11 @@ https://cdn-001.whatsupcams.com/hls/it_tsborsa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",Trivento Italia
 https://streaming-04.dyndns.org/hls/trivento2.m3u8
 
+Plaza del Ayuntamiento Spanyol
+https://streaming.comunitatvalenciana.com/webcam/Ademuz/manifest.m3u8
+
+
+
 
 
 
@@ -37625,6 +37551,21 @@ https://rtcg-live-open.morescreens.com/RTCG_1_004/playlist.m3u8
 #EXTINF:-1 group-title="🌍WORLD TV🌍" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" ,DAS ERSTE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://daserste-live.ard-mcdn.de/daserste/live/hls/int/master.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌍WORLD TV🌍",Telemoldova
+https://vdo.ssl-stream.com:3247/stream/play.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌍WORLD TV🌍",SuperTV Camulung HD
+https://cdn.streamnet.pro/live/supertv/chunklist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌍WORLD TV🌍",Bucovina TV
+https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌍WORLD TV🌍",Lasi TV
+https://tv.streambox.ro/hls/itv/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌍WORLD TV🌍",Metropola TV
+https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
 
 LG TV
@@ -37820,13 +37761,19 @@ https://cctv.lamandaukab.go.id/storage/cctv/cam17/cam17.m3u8
 
 
 
-#EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="https://cdn.phototourl.com/free/2026-07-11-f49082f1-c8d8-483f-9bba-638df0bc6ecb.png",CH 1 WORLD CUP 2026 (WAJIB REFRESH)
+#EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="https://cdn.phototourl.com/free/2026-07-11-f49082f1-c8d8-483f-9bba-638df0bc6ecb.png",CH 1 (WAJIB REFRESH)
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
+
 https://live05.grita.app/live/08552895.m3u8
 
-https://live1.pro2cdnlive.com/live/channel71/playlist.m3u8?wsSecret=84cecdcf796e3a5d11009700c4891807&wsABSTime=1783847764
 
-#EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="https://cdn.phototourl.com/free/2026-07-11-f49082f1-c8d8-483f-9bba-638df0bc6ecb.png",CH 2 WORLD CUP 2026 (WAJIB REFRESH)
-https://tfxh1gr4ugmtwgczdecbqge4145djq31unmuoqjzura5rp3sg17uff3ts65e.100ycdn.com/live1.pro2cdnlive.com/live/channel5/playlist.m3u8?wsSecret=dc45ddbbcf32294f1d21d801c8566288&wsABSTime=1783816200&wsSession=26de904ab55358d0125789be-178377301408092&wsIPSercert=f7645116cbbdf678b04e6406c8af672d&wsBindIP=2&wsserid=1168267537728735344
+#EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="",TEST CCTV
+https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_32/main_stream.m3u8
+
+
+
+
+
 
 
 
