@@ -37765,14 +37765,33 @@ https://cctv.lamandaukab.go.id/storage/cctv/cam17/cam17.m3u8
 
 
 
-#EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="https://cdn.phototourl.com/free/2026-07-11-f49082f1-c8d8-483f-9bba-638df0bc6ecb.png",CH 1 (WAJIB REFRESH)
-https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
+#EXTINF:-1 group-title="📹CCTV SURABAYA📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",ADITYAWARMAN INDRAGIRI BARAT FIX
+http://36.66.208.101:5000/hls/cctv_142/stream.m3u8
 
-https://live05.grita.app/live/08552895.m3u8
+#EXTINF:-1 group-title="📹CCTV SURABAYA📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",ADITYAWARMAN INDRAGIRI UTARA FIX
+http://36.66.208.101:5000/hls/cctv_143/stream.m3u8
+
+#EXTINF:-1 group-title="📹CCTV SURABAYA📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",ADITYAWARMAN INRAGIRI TIMUR FIX
+http://36.66.208.101:5000/hls/cctv_144/stream.m3u8
+
+#EXTINF:-1 group-title="📹CCTV SURABAYA📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",JEMBATAN SURAMADU PTZ
+http://36.66.208.101:5000/hls/cctv_412/stream.m3u8
+
+SURAMADU BOSEM FIX
+http://36.66.208.101:5000/hls/cctv_411/stream.m3u8
+
 
 
 #EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="",TEST CCTV
 https://cctvstream.badilag.net/663712DITJENBADILAG/streams/864306425596797667905943.m3u8
+
+#EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="",PSMS MEDAN VS PORT FC
+https://live05.meung.app/live/90865415.m3u8
+
+
+https://cctv.tubankab.go.id/hls-proxy/cam32/index.m3u8?token=tu7WAgZxn1TqnztABUgbrYHmYv4yzmxce80qpsz1h0nhPvIh
+
+
 
 https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_32/main_stream.m3u8
 
@@ -37978,6 +37997,11 @@ http://webcam.anklam.de/view/viewer_index.shtml?id=33459
 https://webcamromania.ro/tv-online/
 
 http://103.151.177.124:90/#view
+
+
+
+https://pantaulalindishub.sidoarjokab.go.id/proxy?url=aHR0cDovLzEyNy4wLjAuMTozMDAwLzE5Ml8xNjhfMTAwXzExMy9vdXRwdXQubTN1OA==
+
 
 
 #EXTM3U billed-msg="📺IPTV&STREAMING CCTV🎥"
