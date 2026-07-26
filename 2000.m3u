@@ -4678,13 +4678,19 @@ https://wxyz.nganjukkab.go.id/SOMBRON/streams/3hOXeY14opU5YBYG1756789624273.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB NGANJUK",SMPN1 BARAT TEST
 https://wxyz.nganjukkab.go.id/AlunAlun/streams/DQ3wfSR0zBSpsw281693902559387.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB NGANJUK",Dam Tiripan – Jembatan Timur TEST
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB NGANJUK",Dam Tiripan – Jembatan Timur 
+https://wxyz.nganjukkab.go.id/TLTiripan/streams/fEUXXaAdF9yZfwtF1782785271784.m3u8
+
 https://wxyz.nganjukkab.go.id/TLTiripan/streams/660deW4dxDVDlmcS1756706769602.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB NGANJUK",Dam Tiripan – Pintu.Air TEST
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB NGANJUK",Dam Tiripan – Pintu.Air
+https://wxyz.nganjukkab.go.id/TLTiripan/streams/NSwD3FCuMKmptGDs1782785426623.m3u8
+
 https://wxyz.nganjukkab.go.id/TLTiripan/streams/kSfpSYaEUfBjGdXu1756706808221.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB NGANJUK",Dam Tiripan – Jembatan Barat TEST
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB NGANJUK",Dam Tiripan – Jembatan Barat
+https://wxyz.nganjukkab.go.id/TLTiripan/streams/T1dBUu7FXVs2VXNk1782785605737.m3u8
+
 https://wxyz.nganjukkab.go.id/TLTiripan/streams/sjRfLz2FLSeKl1tc1756706717259.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB NGANJUK",SEKAR PUTIH BALAIDESA
@@ -8015,7 +8021,8 @@ https://wxyz.nganjukkab.go.id/DamBadug/streams/YpTtbdLohgn0CyY11756706449368.m3u
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB NGANJUK",DAM BADUG TIMUR
 https://wxyz.nganjukkab.go.id/DamBadug/streams/sEHqnPmGVhM2kHty1756706409855.m3u8
 
-
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="CCTV KAB NGANJUK",DAM TANJUNG PINTU AIR
+https://wxyz.nganjukkab.go.id/DamTanjung/streams/5vKzgGQ4NCo9TZWF1773212377534.m3u8
 
 
 
@@ -37765,6 +37772,8 @@ https://live05.grita.app/live/08552895.m3u8
 
 
 #EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="",TEST CCTV
+https://cctvstream.badilag.net/663712DITJENBADILAG/streams/864306425596797667905943.m3u8
+
 https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_32/main_stream.m3u8
 
 
