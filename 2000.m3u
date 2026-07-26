@@ -37785,13 +37785,11 @@ http://36.66.208.101:5000/hls/cctv_411/stream.m3u8
 #EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="",TEST CCTV
 https://cctvstream.badilag.net/663712DITJENBADILAG/streams/864306425596797667905943.m3u8
 
-#EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="",PSMS MEDAN VS PORT FC
+#EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="https://cdn.phototourl.com/free/2026-07-26-7fd854e0-7213-4c49-ab6e-43d59f62b546.png",PSMS MEDAN VS PORT FC CH1
 https://live05.meung.app/live/90865415.m3u8
 
-
-https://cctv.tubankab.go.id/hls-proxy/cam32/index.m3u8?token=tu7WAgZxn1TqnztABUgbrYHmYv4yzmxce80qpsz1h0nhPvIh
-
-
+#EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="https://cdn.phototourl.com/free/2026-07-26-7fd854e0-7213-4c49-ab6e-43d59f62b546.png",PSMS MEDAN VS PORT FC CH2
+https://play.heyangstream.com/live/5005885_F5hd01.m3u8?expire=1785071004&sign=14f5d82415c0e2d199126076ccbe1c03
 
 https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_32/main_stream.m3u8
 
