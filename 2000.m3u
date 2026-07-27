@@ -9698,9 +9698,6 @@ http://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="DZ;BH" tvg-logo="https://assets.mbcmood.com/channels/1720184087Abdullah%20Majeed%20Abdullah%20banner.png" group-title="ARAB SAUDI",Abdulmajeed Abdullah
 https://d2hng5r56zpsbw.cloudfront.net/out/v1/9c4c990f44bb4767bb46271f326dd574/index.m3u8
 
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="ARAB SAUDI",AL ARABIYA ENGLISH
-https://shls-live-enc.edgenextcdn.net/out/v1/07a6ab2d57b2453a91bbdd2d46b5865a/index.m3u8
-
 #EXTINF:0 tvg-country="AE" tvg-logo="" group-title="ARAB SAUDI",AL EKHBARIYA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
 
@@ -12247,11 +12244,6 @@ https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 
 
 AlbaniIA
-
-
-#EXTINF:0 tvg-country="CH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/512px-Vizion_Plus.svg.png" group-title="ALBANIA🇦🇱",Vizion Plus Albania
-https://mfe01.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
-
 
 #EXTINF:0 tvg-country="CH" tvg-logo="https://i.postimg.cc/5tYL46mq/syri.png" group-title="ALBANIA🇦🇱",Syri TV
 https://stream.syritv.al/live/syritv/playlist.m3u8
@@ -19613,11 +19605,6 @@ https://dphwv2ufgnfsq.cloudfront.net/out/v1/59cd80dfe93a479eb8b4d79bc6f225ca/ind
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="ARAB SAUDI",RAMEZ
 https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
 
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="ARAB SAUDI",MOVIES THIRLER
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-
-#EXTINF:0 tvg-country="" tvg-logo="" group-title="ARAB SAUDI",MOVIES ACTION
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="ARAB SAUDI",MOHAMED ABDO
 https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8
@@ -37786,13 +37773,6 @@ http://36.66.208.101:5000/hls/cctv_411/stream.m3u8
 https://cctvstream.badilag.net/663712DITJENBADILAG/streams/864306425596797667905943.m3u8
 
 #EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="https://cdn.phototourl.com/free/2026-07-26-7fd854e0-7213-4c49-ab6e-43d59f62b546.png",PSMS MEDAN VS PORT FC CH1
-https://live05.meung.app/live/90865415.m3u8
-
-#EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="https://cdn.phototourl.com/free/2026-07-26-7fd854e0-7213-4c49-ab6e-43d59f62b546.png",PSMS MEDAN VS PORT FC CH2
-https://play.heyangstream.com/live/5005885_F5hd01.m3u8?expire=1785071004&sign=14f5d82415c0e2d199126076ccbe1c03
-
-#EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="https://cdn.phototourl.com/free/2026-07-26-7fd854e0-7213-4c49-ab6e-43d59f62b546.png",SEA CUP INDONESIA VS CAMBODIA
-https://play.heyangstream.com/live/5007610_F5hd01.m3u8?expire=1785070635&sign=55825b62a9ba41a22e28713785a69399
 
 
 
