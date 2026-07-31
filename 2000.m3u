@@ -16567,8 +16567,9 @@ https://jakarta.staratv.id/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://stream.staratv.id/logo" group-title="Lokal",STARA TV BOJONEGORO
 https://bojonegoro.staratv.id/hls/stream.m3u8
 
-
-https://jakarta.staratv.id/hls/1/stream.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#EXTINF:-1 tvg-logo="https://stream.staratv.id/logo" group-title="Lokal",STARA TV CIANJUR
+https://cianjur.staratv.id/hls/0/stream.m3u8
 
 
 
@@ -35028,6 +35029,17 @@ https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_ch
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",FOX29 PHILADELPHIA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",NEWS 24 AUSTRALIA TES
+https://skynewsau-live-premium.akamaized.net/hls/live/2105305/skynewsweather/live.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",FOX SPORT NEWS TES
+https://skynewsau-live-premium.akamaized.net/hls/live/2105307/foxsportsnews/live.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:0 tvg-country="CN" tvg-logo="  " group-title="News",AL ARABIYA PROGRAM
@@ -37752,17 +37764,10 @@ https://cctv.lamandaukab.go.id/storage/cctv/cam17/cam17.m3u8
 
 
 
-#EXTINF:-1 group-title="📹CCTV SURABAYA📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",ADITYAWARMAN INDRAGIRI BARAT FIX
+EXTINF:-1 group-title="📹CCTV SURABAYA📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",ADITYAWARMAN INDRAGIRI BARAT FIX
 http://36.66.208.101:5000/hls/cctv_142/stream.m3u8
 
-#EXTINF:-1 group-title="📹CCTV SURABAYA📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",ADITYAWARMAN INDRAGIRI UTARA FIX
-http://36.66.208.101:5000/hls/cctv_143/stream.m3u8
 
-#EXTINF:-1 group-title="📹CCTV SURABAYA📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",ADITYAWARMAN INRAGIRI TIMUR FIX
-http://36.66.208.101:5000/hls/cctv_144/stream.m3u8
-
-#EXTINF:-1 group-title="📹CCTV SURABAYA📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",JEMBATAN SURAMADU PTZ
-http://36.66.208.101:5000/hls/cctv_412/stream.m3u8
 
 SURAMADU BOSEM FIX
 http://36.66.208.101:5000/hls/cctv_411/stream.m3u8
