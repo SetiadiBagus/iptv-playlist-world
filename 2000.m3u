@@ -6,6 +6,11 @@ menampilkan playlist >>> INDONESIA
 https://iptv-epg.org/files/epg-id.xml
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
+
+#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-id="bnchannel.id" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",BN Channel
+#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch112.m3u8
+
 #EXTINF:- 1 tvg-name="Trans 7" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" tvg-id="Trans 7.id" group-title="🇮🇩INDONESIA🇮🇩", TRANS 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://20.detik.com/
@@ -965,6 +970,10 @@ https://amg01415-waterbearnetwor-waterbear-samsungnl-dkx60.amagi.tv/playlist/amg
 #https://jmp2.uk/SamsungTVPlus/GBBC300003UQ.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-name="Wired 2 Fish" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",Wired 2 Fish
+https://linear-80.frequency.stream/dist/plex/80/hls/master/playlist.m3u8
+
+
 
 
 
@@ -1712,9 +1721,6 @@ https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg0
 
 #EXTINF:-1 tvg-id="Zee Hindustan" tvg-logo="https://iili.io/JbnKa4I.png" group-title="INDIA",Zee Hindustan
 https://d1hp2yai3k4ork.cloudfront.net/index_4.m3u8
-
-#EXTINF:-1 tvg-id="Zee Hindustan" tvg-logo="https://iili.io/JbnKa4I.png" group-title="INDIA",10TV
-https://mumbai-edge.smartplaytv.in/10TV/index.m3u8
 
 #EXTINF:-1 tvg-id="Zee Hindustan" tvg-logo="https://iili.io/JbnKa4I.png" group-title="INDIA",AAKAS AATH
 https://mumt03.tangotv.in/Dsly5z3HAAKASHAATH/index.m3u8
@@ -13263,24 +13269,11 @@ https://d26idhjf0y1p2g.cloudfront.net/out/v1/cd66dd25b9774cb29943bab54bbf3e2f/in
 #EXTINF:0 tvg-id="ext" group-title="INDIA",TAMILAN TV
 https://cdn.zionmediait.com/zionmediaitserver2024/97484f5ce6da96e496a9b87c439835d0.sdp/playlist.m3u8
 
-
-
-
-
-
-#EXTINF:0 tvg-id="ext" group-title="INDIA",Aaservatham tv
-https://mumt04.tangotv.in/AASEERVATHAMTV/index.m3u8
-
-
-
-
 #EXTINF:0 tvg-id="ext" group-title="INDIA",Aastha India
 https://aasthaott.akamaized.net/110923/smil:aasthatv.smil/chunklist_b1628000.m3u8
 
-
 #EXTINF:0 tvg-id="ext" group-title="INDIA",Aasthan Tamil
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/chunklist_b1328000.m3u8
-
 
 #EXTINF:0 tvg-id="ext" group-title="INDIA",Ayush TV
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/playlist.m3u8
@@ -32117,9 +32110,6 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="INDIA",Kitte Vitcers
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="INDIA",9x Thasan
-https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
-
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="INDIA",9xm
 https://9xjio.wiseplayout.com/9XM/master.m3u8
 
@@ -35667,8 +35657,8 @@ https://amg00056-vevotv-vevo2kau-samsungnz-tamaq.amagi.tv/playlist/amg00056-vevo
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🥁MUSIK🎷",360 TUNE BOX
 https://dash3.antik.sk/live/test_360_tunebox_medium_atk/playlist.m3u8
 
-
-
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🥁MUSIK🎷",ZOOM
+https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 
 
 
@@ -35791,14 +35781,14 @@ https://dash2.antik.sk/stream/nvidia_rtvs_sport/playlist_cenc.mpd
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CCTV5
+EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CCTV5
 http://38.75.136.137:98/gslb/dsdqbv/cctv5hd.m3u8?auth=test20251009
 http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
 http://69.30.245.50/live/cctv5.m3u8
 http://74.91.26.218:82/live/cctv5hd.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CCTV5 HD
+EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CCTV5 HD
 http://107.150.52.50:82/live/cctv5.m3u8?jsbt=1783625678&jsbk=a57a2a3f486de06c5685081d91d1a8fe&from=zbdq6
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0
@@ -35807,21 +35797,21 @@ http://38.75.136.137:98/gslb/dsdqpub/cctv5p.m3u8?auth=testpub
 http://69.30.246.194/live/cctv5p.m3u8
 http://74.91.26.218:82/live/cctv5p.m3u8
 
-#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CT SPORT
+EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CT SPORT
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
-#EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png", FIFA World Cup 2026 02
+EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png", FIFA World Cup 2026 02
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png", T Sports
+EXTINF:-1 group-title="⚽PIALA DUNIA 2026⚽" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png", T Sports
 http://114.130.57.233:8080/LIVE-Sports/video.m3u8?token=SkQuhAXZxgBan1
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CAZE TV 1
+EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CAZE TV 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=34475edab991ad5e92548aebd710410a:501b209cccd323ac00bf5ac15b406cb4
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3ynrpdanq2/out/v1/81fd4c26584044d2b1a1cc5b32fa9af0/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CAZE TV 2
+EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CAZE TV 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ac7abaa9c9481aacfbdac64fc3ec3312:c0c504a2ed2e70b879a650b8770a38c6
 https://otte.cache.aiv-cdn.net/gru-nitro/live/clients/dash/enc/vzeco5ty0v/out/v1/44c6b8f31a2544e3b2a9bb41ed5e241e/cenc.mpd
@@ -35946,17 +35936,22 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h04/index.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",VIJU NATURE HD
+https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",KTTO 360
+https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
 
 
+
+
+TESTING
 
 
 
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",LOL TV TES HD
 https://streams2.sofast.tv/ptnr-yupptv/title-LOL-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",HORROR TV TEST HD
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",RUSIA 24
 https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
@@ -35969,9 +35964,6 @@ https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",Sochi 24
 http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",VIJU NATURE HD
-https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",KUBOTA
 https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
@@ -35994,20 +35986,11 @@ https://live-aburayhan1107.telewebion.ir/ek/faratar/live/2160p/index.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",WION HD 
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",SBT NEWS
-https://cdn.live.br1.jmvstream.com/w/LVW-9359/LVW9359_XSyReL0QVf/playlist.m3u8
-
 EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",BEACH TV FLORIDA (BUFEERING)
 https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",BHTV10
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",ZOOM
-https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",ATLANTO TV HD
-https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",JOJE-DTV HD
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
@@ -37111,6 +37094,10 @@ https://tv.streambox.ro/hls/itv/index.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌍WORLD TV🌍",Metropola TV
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌍WORLD TV🌍",ATLANTO TV HD
+https://stream.haislin.com/ls_j3BOKxBbUJ/index.m3u8
+
+
 
 LG TV
 
@@ -37301,16 +37288,7 @@ https://cctv.lamandaukab.go.id/storage/cctv/cam15/cam15.m3u8
 https://cctv.lamandaukab.go.id/storage/cctv/cam16/cam16.m3u8
 
 #EXTINF:-1 group-title="📹CCTV KAB LAMANDAU📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",📹CAM 17
-https://cctv.lamandaukab.go.id/storage/cctv/cam17/cam17.m3u8
 
-
-
-EXTINF:-1 group-title="📹CCTV SURABAYA📹" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png",ADITYAWARMAN INDRAGIRI BARAT FIX
-http://36.66.208.101:5000/hls/cctv_142/stream.m3u8
-
-
-
-SURAMADU BOSEM FIX
 http://36.66.208.101:5000/hls/cctv_411/stream.m3u8
 
 
@@ -37318,10 +37296,13 @@ http://36.66.208.101:5000/hls/cctv_411/stream.m3u8
 #EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="",TEST CCTV
 https://cctvstream.badilag.net/663712DITJENBADILAG/streams/864306425596797667905943.m3u8
 
-CCTV STROOM FOOTBAL
-http://38.75.136.137:98/gslb/dsdqpub/fyzq.m3u8?auth=testpub
 
-EXTINF:-1 group-title="🛑LIVE EVENT,🛑" tvg-logo="https://cdn.phototourl.com/free/2026-07-26-7fd854e0-7213-4c49-ab6e-43d59f62b546.png",PSMS MEDAN VS PORT FC CH1
+
+
+
+
+
+
 
 
 
@@ -37506,7 +37487,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/in
 #EXTINF:-1, group-title="🌊OUTDOOR🌿" tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",Love Nature
 https://bamus-lovenature-lg.amagi.tv/720p-cc/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",ORIGINALS
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",ORIGINALS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
@@ -37578,6 +37559,57 @@ https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd4
 #EXTINF:-1 tvg-name="real Madrid tv" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" tvg-id="realmadrid.es" group-title="⚽CLUB BOLA🥅",Real Madrid TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8?hdnea=exp=1653452799~acl=/*~hmac=6fa983776826e1224ab4c19996ce92f00a1ad234617b07fd8a398160d72c19e0
+
+
+
+HOROR """""""""""---------"---"--"-"-"-"-"-"-"
+
+#EXTINF:-1 tvg-id="XUMO_99991769" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🧟HOROR&SCIFFI⚰️",Paranormal Files
+https://dtqutq7lmcchv.cloudfront.net/10001/99991769/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991769&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=ParanormalFiles&ads.csid=xumo_[PLATFORM]_ParanormalFiles_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=2623&ads.xumo_contentName=ParanormalFiles&ads.xumo_providerId=2623&ads.xumo_providerName=ParanormalFiles&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991769&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="XUMO_99991769" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🧟HOROR&SCIFFI⚰️",The Asylum
+https://dbrb49pjoymg4.cloudfront.net/10001/99991331/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991331&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=TheAsylum&ads.csid=xumo_[PLATFORM]_TheAsylum_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=275&ads.xumo_contentName=TheAsylum&ads.xumo_providerId=275&ads.xumo_providerName=TheAsylum&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991331&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="XUMO_99991769" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🧟HOROR&SCIFFI⚰️",Alfred Hitchcock Presents
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951256/hls/master.m3u8?ads.xumo_channelId=99951256&ads.asnw=169843&ads.afid=380740685&ads.sfid=19316482&ads.csid=xumo_[PLATFORM]_NBCUAlfredHitchcockPresents_ssai_cro&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads._fw_did=[IFA]&ads._fw_vcid2=512116:[IFA]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_genre=[content_genre]&ads._fw_content_language=[content_language]&ads._fw_content_rating=[content_rating]&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads._fw_deviceType=3-Connected_TV&ads.appVersion=[APP_VERSION]&ads.appName=XumoPlay&ads.xumo_contentId=3937&ads.xumo_contentName=NBCUAlfredHitchcockPresents&ads.xumo_providerId=3937&ads.xumo_providerName=NBCUAlfredHitchcockPresents&ads.channelId=99951256&ads._fw_ifa_type=[IFA_TYPE]
+
+#EXTINF:-1 tvg-id="XUMO_99991769" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🧟HOROR&SCIFFI⚰️",Alien Nation
+https://dbrb49pjoymg4.cloudfront.net/10001/99991292/hls/playlist.m3u8?ads.xumo_channelId=99991292&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=Dust&ads.csid=xumo_[PLATFORM]_Dust_ssai&ads._fw_is_lat=[IS_LAT]&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=226&ads.xumo_contentName=Dust&ads.xumo_providerId=226&ads.xumo_providerName=Dust&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=99991292&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:-1 tvg-id="XUMO_99991769" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🧟HOROR&SCIFFI⚰️",Dark Matter
+https://dbrb49pjoymg4.cloudfront.net/10001/9999615/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=9999615&ads._fw_ifa_type=[IFA_TYPE]&ads._fw_did=[IFA]&ads.amznappId=[AMZN_APP_ID]&ads.lat=[LAT]&ads.lon=[LON]&ads.os=[OS]&ads.osv=[OS_VERSION]&ads.asnw=&ads.caid=DarkMatterUS&ads.csid=xumo_[PLATFORM]_DarkMatterUS_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=[CCPA_Value]&ads._fw_coppa=0&ads.genre=[CONTENT_IMDB_GENRE]&ads._fw_content_category=[IAB_content_category]&ads._fw_content_language=[content_language]&ads._fw_content_genre=[content_genre]&ads._fw_content_rating=[content_rating]&ads.xumo_contentId=3346&ads.xumo_contentName=DarkMatterUS&ads.xumo_providerId=3346&ads.xumo_providerName=DarkMatterUS&ads._fw_deviceMake=[device_make]&ads._fw_device_model=[device_model]&ads.channelId=9999615&ads.xumo_platform=[PLATFORM]&ads.site_id=[publica_site_id]&ads.appName=xumo&ads.appVersion=[APP_VERSION]&ads._fw_app_bundle=[app_bundle]&ads._fw_app_store_url=[app_store_url]
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🧟HOROR&SCIFFI⚰️",HORROR TV 
+https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8
+
+
+
+
+EXTINF:-1 tvg-logo="https://cdn.kibrispdr.org/data/981/tribunnews-logo-png-5.jpg" group-title="INDONESIA IPTV 🇮🇩",TRIBUN NEWS
+http://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID.m3u8
+
+
+
+
+------------------------TEST TV HK
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",HOYTV 77
+https://cdn.qd.je/163189/hoy
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",HOYTV 78
+https://cdn.qd.je/163189/hoy78
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",VIU
+https://cdn.qd.je/163189/viu
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",VIU SIX
+https://cdn.qd.je/163189/viu6
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",NOW
+https://cdn.qd.je/163189/now
+
+
+
 
 
 
