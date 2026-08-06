@@ -16202,7 +16202,7 @@ https://stream.staratv.id/hls/stream.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://stream.staratv.id/logo" group-title="Lokal",STARA TV CIANJUR
-https://cianjur.staratv.id/hls/stream.m3u8
+https://cianjur.staratv.id/hls/1/stream.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://stream.staratv.id/logo" group-title="Lokal",STARA TV MALANG
@@ -26186,11 +26186,11 @@ https://dvu7aia8rjlfm.cloudfront.net/master.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
 
+#EXTINF:-1 tvg-id="  " tvg-name="Animax" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",CARTOON NETWORK
+http://202.150.161.212:5000/live/channel27/playlist.m3u8
 
-
-
-
-
+#EXTINF:-1 tvg-id="  " tvg-name="Animax" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="👶ANAK PREMIUM👶",WARNER TV
+http://202.150.161.212:5000/live/channel29/playlist.m3u8
 
 
 
@@ -32490,20 +32490,8 @@ http://202.150.161.212:5000/live/channel30/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",ALL TIME MOVIES
 https://mumt03.tangotv.in/Dsly5z3HALLTIMEMOVIES/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",ASIA FLIX
-https://asiaflixtvph.itunerworldwide.workers.dev/master.live.m3u8
-
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",AMC ROMANIA
-https://aes.m3u8simplu.workers.dev/amc/index.m3u8
-  
 #EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",AURORA MEDIA FILM
 https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8
-
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",AXN ROMANIA
-https://aes.m3u8simplu.workers.dev/axn/index.m3u8
-
-#EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",BOLLYWOOD CLASSIC
-https://aes.m3u8simplu.workers.dev/bollywood/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",CHINE MO!
 https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
@@ -32525,6 +32513,20 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 #KODIPROP:inputstream.adaptive.license_key=c7b3852d9c84418f942923e41c31e633:ddb99755e0bebd98c92c7eab974bf161
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
+
+#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",BIOSKOP INDONESIA
+http://202.150.161.212:5000/live/channel35/playlist.m3u8
+
+
+
+MOJI (TRV)
+http://202.150.161.212:5000/live/channel39/playlist.m3u8
+
+FRANCE 24 
+http://202.150.161.212:5000/live/channel21/playlist.m3u8
+
+NHK PREMIUM
+http://202.150.161.212:5000/live/channel22/playlist.m3u8
 
 
 DISTRO TV
@@ -35944,6 +35946,19 @@ https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m
 
 
 
+Lifestyle
+
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🏄LIFESTYLE🚵",TV5 MONDE
+http://202.150.161.212:5000/live/channel32/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🏄LIFESTYLE🚵",ARIRANG
+http://202.150.161.212:5000/live/channel33/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🏄LIFESTYLE🚵",KNOWLEDGE+
+http://202.150.161.212:5000/live/channel34/playlist.m3u8
+
+
 
 TESTING
 
@@ -37028,7 +37043,7 @@ https://streaming.comunitatvalenciana.com/webcam/Ademuz/manifest.m3u8
 
 
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CT SPORT
+EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-06-03-f5694a01-4d19-419f-b0c5-19ec11e6e2b7.png" group-title="⚽PIALA DUNIA 2026⚽",CT SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referer=https://webtv.sk/tv/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -37607,6 +37622,17 @@ https://cdn.qd.je/163189/viu6
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",NOW
 https://cdn.qd.je/163189/now
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",YOU TV STATION
+http://yypull.cbg.cn/applive/youytv01/playlist.m3u8
+
+    TNT
+http://183.230.184.51:65500/tntv1.m3u8
+
+  KZPD
+https://yypull.cbg.cn/applive/kzpd02/playlist.m3u8
+
+
 
 
 
