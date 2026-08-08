@@ -254,19 +254,19 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",BERITA SATU HD
+EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",BERITA SATU HD
 #EXTVLCOPT:http-user-agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/89c624c5-4b4f-473c-b50d-1a156a1c0174/480p/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", BTV HD 
+EXTINF:0 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", BTV HD 
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/480p/index.m3u8
 
-#EXTINF:0 tvg-id="idtv" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",BERITA SATU (DENS)
+#EXTINF:0 tvg-id="idtv" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",BERITA SATU 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 
-#EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", BTV DENS
+#EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", BTV 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
