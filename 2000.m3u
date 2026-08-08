@@ -264,11 +264,13 @@ https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/48
 #EXTINF:0 tvg-id="idtv" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",BERITA SATU (DENS)
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/stream.m3u8
+https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 
 #EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", BTV DENS
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
+
 https://op-flashcon-digdayaxenkoda.dens.tv/e6550891-6bef-42e1-bab9-13bf4af739ce/stream.m3u8
 
 
@@ -37009,29 +37011,28 @@ http://36.66.208.101:5000/hls/cctv_411/stream.m3u8
 EXTINF:-1 group-title="🛑LIVE EVENT🛑" tvg-logo="",TEST CCTV
 https://cctvstream.badilag.net/663712DITJENBADILAG/streams/864306425596797667905943.m3u8
 
-#EXTINF:-1 group-title="🛑LIVE EVENT🛑" tvg-logo="https://thumbor.prod.vidiocdn.com/7Dxg5bSJazpqvNbkm2bqvOraf98=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5251152/30f2cf.jpg",SEA CUP INDONESIA VS VIETNAM
+EXTINF:-1 group-title="🛑LIVE EVENT🛑" tvg-logo="https://thumbor.prod.vidiocdn.com/7Dxg5bSJazpqvNbkm2bqvOraf98=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5251152/30f2cf.jpg",SEA CUP THAILAND VS INDONESIA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
 https://live2.streambylivepulse.com/live/channel33.m3u8
 
 
-EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://miro.medium.com/v2/resize:fit:1400/0*DEN-8U8aEpeLnNZO", 00:00 WIB - 08/8/26 Fulham v Crystal Palace  | INF FRL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.streambylivepulse.com/live/channel15.m3u8
+EXTINF:-1 group-title="🛑LIVE EVENT🛑" tvg-logo="https://dkjulgymkya8y.cloudfront.net/images/c103e847-9e49-45e4-a941-95b8af2f1e9e.webp",KOREA OPEN COURT 1
+https://live1.streambylivepulse.com/live/channel63/playlist.m3u8?wsSecret=be3718bccbff519e3b30c24fcf167017&wsABSTime=1786128881
+
+
+EXTINF:-1 group-title="🛑LIVE EVENT🛑" tvg-logo="",TES
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream-dai/5f2d9d6ff17144074bd8a284/fd14abc7469044808acf8cd0eb9ae9e2/f624fec49dadc88894ebeff1d974eab019af7757/media.m3u8?aid=579bd29dc99290cf08362c3b&pid=m4X4kCM69SlVdtrVhyjog0GNlPBlGplp&sid=ihijhGSLUs39P1U8QNETBy2UE5fiwFA2&uid=beevIVV5TjBrDR440KjgJa1Cqqbyv9wk&es=us-b4-p-e-ml19.cdn.mdstrm.com&ote=1786215135203&ot=-1epKIcgoFRsWLIWJItBFA&proto=https&pz=us
 
 
 
-https://live2.streambylivepulse.com/live/channel33.m3u8
 
 
 
 
-#EXTINF:-1 group-title="🛑LIVE EVENT🛑" tvg-logo="   ",
 
 
 
-https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_32/main_stream.m3u8
 
 
 
@@ -37354,6 +37355,26 @@ https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",GUANDONG CHANNEL
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",ENTERTAIMENT TONIGHT
+https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",CBN NEWS TEXAS
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",CBN NEWS SACRAMENTO
+https://lineup.cbsivideo.com/playout/c1ed69db-6b71-4581-a937-a70ab4089f8a/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",CBS NEWS MIAMI
+https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/master.m3u8
+
+#EXTINF:-1 tvg-id="ScientologyNetwork.us@SD" tvg-name="Scientology Network" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",Scientology Network 
+https://stream6.scientology.org/master.m3u8
+
+SBN International
+https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_09a4778E89/playlist.m3u8
 
 
 
