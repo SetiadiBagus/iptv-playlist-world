@@ -22,27 +22,12 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mediampd/CitraEntertainmentHD.mpd
 
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=22bd0016090143f795a275629a6e7a0a:cae11accebe3ca7535141d35f4d41a1d
-#EXTINF:-1 tvg-id="Moji" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", MOJI TV (V+)
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
-
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #KODIPROP:contentlookup=false
 #EXTINF:-1 tvg-id="Moji" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", MOJI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c64493155d8b443c834a13d4970cf834:509294911ac3c2d779ae2225a23460b4
-#EXTINF:-1 tvg-id="Metro TV" group-title="🇮🇩INDONESIA🇮🇩" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",Metro TV 
-https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
@@ -54,24 +39,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c1e5a6713acc4774a622d01177224094:d88b67279524d26984f9c0041442b5c6
-#EXTINF:-1 tvg-id="Kompas TV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",Kompas TV HD
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-id="iNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",iNews
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=91dec6fd9fd84b879aacc027bf532790:588a2214bfb91fc0150b9ac2a745cef8
-#EXTINF:-1 tvg-id="MDTV" group-title="🇮🇩INDONESIA🇮🇩" tvg-url="tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",MDTV 
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
-
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -80,12 +50,6 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/in
 #EXTINF:-1 tvg-id="GTV" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",GTV HD
 https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd
 
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTINF:-1 tvg-id="RCTI" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",RCTI HD
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",ANTV DIGITAL
@@ -122,9 +86,6 @@ https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone.mpd
 EXTINF:-1 tvg-id="SindoNews.id" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", SINDONEWS TV MAX
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", SINPO TV MAX
-https://cdnbal1.indihometv.com/atm/DASH/sinpotv/manifest.mpd
 
 EXTINF:-1 tvg-id="SCTV.id" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", SCTV MAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
@@ -271,6 +232,21 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/stream.m3u8?app_type=web&userid=lite&chname=BTV
 
+#EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", TVRI DENS 
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lite&chname=TVRI
+
+#EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",DENS SHOWBIZ
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=lite&chname=DensShowBiz
+
+#EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TVRI DENS
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h19/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
+
 #EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",DENS KNOWLEDGE
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
@@ -280,7 +256,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h236/index.m3u8?app_type=web&userid=li
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h16/index.m3u8?app_type=web&userid=lite&chname=DAAI_TV
-
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",INDOSIANA TV HD
 https://tvstreamcast.com/indonesiana.m3u8
@@ -31457,7 +31432,7 @@ https://gimpo.cctvstream.net:8443/c002/playlist.m3u8
 
 
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",MBG TV
+EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",MBG TV
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",HOPE CHANNEL INDONESIA HD
@@ -31544,9 +31519,6 @@ https://streamer1.connectto.com/ARTN_mobile/index.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="@TESTING!!",Mungala TV
 https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="@TESTING!!",Wise TV
-https://live.enhdtv.com:8081/8150/index.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="" group-title="@TESTING!!",Akaku 54 HAWAI
 https://castus-vod-dev.s3.amazonaws.com/vod_clients/akaku/live/ch2/video.m3u8
@@ -32203,6 +32175,11 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/in
 
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",BIOSKOP INDONESIA
 http://202.150.161.212:5000/live/channel35/playlist.m3u8
+
+#EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🎞️MOVIES PREMIUM🎞️",MY CINEMA EUROPE
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h18/index.m3u8?app_type=web&userid=lite&chname=My_Cinema_Europe_HD
 
 
 
@@ -32889,7 +32866,10 @@ https://dishub.depok.go.id/vi/20228011.m3u8
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="CCTV DEPOK",TAMAN PONDOK SUKAJAYA
 https://dishub.depok.go.id/vi/10301869.m3u8
 
-#
+
+
+  SP GANDUL
+https://dishub.depok.go.id/vi/20228021.m3u8
 
 #EXTINF:0 tvg-country="" tvg-logo="" group-title="CCTV DEPOK",PTZ LINGKAR UI ARAH JAKARTA
 https://dishub.depok.go.id/vi/10109050.m3u8
@@ -34218,12 +34198,6 @@ https://d1hz1p2gea2zy4.cloudfront.net/live/rmgtv/RMG-TRENDSZFR-LIVE/index.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",ABC 36 NEWS
 https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
 
-free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",ABC20
-https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",BMG TV
-https://tv.nucast.tv/lb/ge/bmg/index.m3u8
-
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="📰BERITA PREMIUM📰",SCHWAB NETWORK
 https://tdameritrade-distro.amagi.tv/playlist.m3u8
 
@@ -34326,10 +34300,6 @@ https://op-flashcon-digdayaxenkoda.dens.tv/4797e82c-d14e-453e-b8d6-3e2427ad09a9/
 #EXTINF:-1 tvg-id="14" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", KOMPAS TV HD
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-
-
-#EXTINF:-1 tvg-id="14" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TVRI SPORT
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="   " group-title="Lokal",DAVIKA TV
 https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8
@@ -37316,6 +37286,9 @@ https://dbrb49pjoymg4.cloudfront.net/10001/9999615/hls/master.m3u8?includeAssetT
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🧟HOROR&SCIFFI⚰️",HORROR TV 
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/93dc292b-cbcf-4988-ab97-94feced4c14b/master.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🧟HOROR&SCIFFI⚰️",ABC20 20
+https://d4bq78o8d5tf5.cloudfront.net/ABC_2020.m3u8
+
 
 
 
@@ -37325,42 +37298,44 @@ http://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID.m3u8
 
 
 
+
+
 ------------------------TEST TV HK
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",HOYTV 77
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🇭🇰HONNGKONG TV📺 ",HOYTV 77
 https://cdn.qd.je/163189/hoy
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",HOYTV 78
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🇭🇰HONNGKONG TV📺",HOYTV 78
 https://cdn.qd.je/163189/hoy78
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",VIU
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🇭🇰HONNGKONG TV📺",VIU
 https://cdn.qd.je/163189/viu
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",VIU SIX
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🇭🇰HONNGKONG TV📺",VIU SIX
 https://cdn.qd.je/163189/viu6
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",NOW
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🇭🇰HONNGKONG TV📺",NOW
 https://cdn.qd.je/163189/now
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",YOU TV STATION
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🇭🇰HONNGKONG TV📺",YOU TV STATION
 http://yypull.cbg.cn/applive/youytv01/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",TNT
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🇭🇰HONNGKONG TV📺",TNTV
 http://183.230.184.51:65500/tntv1.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",KZPD
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🇭🇰HONNGKONG TV📺",KZPD
 https://yypull.cbg.cn/applive/kzpd02/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",LINYI
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🇭🇰HONNGKONG TV📺",LINYI
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",LINYI 2
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🇭🇰HONNGKONG TV📺",LINYI 2
 https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",KTV
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🇭🇰HONNGKONG TV📺",KTV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨TES TV HK🚨",GUANDONG CHANNEL
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🇭🇰HONNGKONG TV📺",GUANDONG CHANNEL
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 
 
@@ -37381,8 +37356,16 @@ https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/
 #EXTINF:-1 tvg-id="ScientologyNetwork.us@SD" tvg-name="Scientology Network" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",Scientology Network 
 https://stream6.scientology.org/master.m3u8
 
-SBN International
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",SBN International
 https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_09a4778E89/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",6 WISE TV 
+https://live.enhdtv.com:8081/8150/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",A&E
+http://23.239.31.26:8989/aande/index.m3u8
+
+
 
 
 
