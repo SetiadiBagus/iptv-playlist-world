@@ -37870,12 +37870,15 @@ https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominf
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",BATAS KOTA 2
 https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/8poXDsVDvP/s.m3u8
 
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",BATAS KOTA 1
 https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/ttygSs99dy/s.m3u8
-   
+ 
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",CAROCOK 4
 https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/1wbuTqepYN/s.m3u8
 
+#EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",CAROCOK 2
 https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/YAdOkhEh2E/s.m3u8
 
