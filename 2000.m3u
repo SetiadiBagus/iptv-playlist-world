@@ -227,12 +227,12 @@ https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/48
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/stream.m3u8?app_type=web&userid=lite&chname=Berita_Satu
 
-#EXTINF:0 tvg-id="idtv" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",BERITA SATU SD
+#EXTINF:0 tvg-id="idtv" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",BTV SD
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h313/S1/mnf.m3u8
 
-#EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", BTV SD
+#EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩", BERITA SATU SD
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h314/S1/mnf.m3u8
@@ -10658,8 +10658,20 @@ AFGANISTANNNNNN
 
 RUSIA    URAAAAAAAAAA
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="RUSIA",WORLD FASHION HD
-https://cdn.wfc.tv/cdn/stream-rus.m3u8
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="RUSIA",RUSIA 24
+https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="RUSIA",Арис 24 
+http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="RUSIA",Астрахань 24
+https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="" group-title="RUSIA",Sochi 24
+http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="  " group-title="RUSIA",KUBOTA
+https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
 
 #EXTINF:-1 tvg-id="Channel5.ru" tvg-logo="https://i.imgur.com/KPXMa3U.png" group-title="RUSIA",5 канал
 http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
@@ -10667,17 +10679,11 @@ http://s18209.cdn.ngenix.net/hls/CH_R02_5TV/playlist.m3u8
 #EXTINF:-1 tvg-id="24HorasInternacional.es" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News",24 horas Internacional [Geo-blocked]
 http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 
-
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="RUSIA",360°
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-04-srt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="https://i.imgur.com/VTJqdoX.png" group-title="RUSIA",360TV
 https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/1080.m3u8
-
-
-
-
-
 
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="https://www.lyngsat.com/logo/tv/num/1krim-ru.png" group-title="RUSIA",1 krim
 https://live1.1tvcrimea.ru/1tvcrimea.m3u8
@@ -10712,9 +10718,6 @@ https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u
 
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="  " group-title="RUSIA",TRI ANGELA
 https://hls.tv.3angels.ru/stream.m3u8
-
-#EXTINF:-1 tvg-id="360.ru" tvg-logo="  " group-title="RUSIA",WORLD OF FASHION
-https://cdn.wfc.tv/cdn/stream-eng.m3u8
 
 #EXTINF:-1 tvg-id="360.ru" tvg-logo="  " group-title="RUSIA",TV BELGORUD
 https://tvbelgorod.ru:90/mirbelogorya/tracks-v1a1/mono.m3u8
@@ -18521,10 +18524,10 @@ https://cctvjss.jogjakota.go.id/rthp/rthp_brontokusuman_blkgKel_2.stream/chunkli
 
 
 
-   KANTOR DESA CANDI YAYASAN
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.wonosobokab.go.id/assets/logo/Logo-Pemkab.png" group-title="CCTV KAB WONOSOBO",KANTOR DESA CANDI YAYASAN
 https://mata.wonosobokab.go.id/memfs/1023be23-2302-409c-b53f-36c633cde416.m3u8
 
-   PERBATASAN RECO
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.wonosobokab.go.id/assets/logo/Logo-Pemkab.png" group-title="CCTV KAB WONOSOBO",PERBATASAN RECO
 https://mata.wonosobokab.go.id/memfs/82baf357-d78d-4393-978f-aff9ebd579a8.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.wonosobokab.go.id/assets/logo/Logo-Pemkab.png" group-title="CCTV KAB WONOSOBO",PEREMPATAN TITIK 0KM
@@ -24651,50 +24654,6 @@ https://camcity.redcom.ru/CamPrudLogoRadio/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://camrealtime.ru/wp-content/uploads/2022/07/logoweb.png" group-title="CCTV RUSIA KHABAROVSK",CAMERA 23
 https://camcity.redcom.ru/CamEnergomashLogoRadio/tracks-v1a1/mono.m3u8
-
-
-
-
-EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.digitaldesa.com/uploads/profil/13.01.10.2004/common/300_pesisirselatankab.png" group-title="CCTV KAB PESISIR SELATAN",MASJID TERAPUNG
-https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/dXr6jrlx9s/s.m3u8
-
-https://live.pesisirselatankab.go.id/620c1b542c77be0134c4c74fa56a6181/hls/kominfo/dXr6jrlx9s/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.digitaldesa.com/uploads/profil/13.01.10.2004/common/300_pesisirselatankab.png" group-title="CCTV KAB PESISIR SELATAN",PANTAI CAROCOK
-https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/2qy20XfgZX/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.digitaldesa.com/uploads/profil/13.01.10.2004/common/300_pesisirselatankab.png" group-title="CCTV KAB PESISIR SELATAN",PANTAI CAROCOK 3
-https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/Ts3N3gBcqz/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.digitaldesa.com/uploads/profil/13.01.10.2004/common/300_pesisirselatankab.png" group-title="CCTV KAB PESISIR SELATAN",PANTAI CAROCOK 2
-https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/YAdOkhEh2E/s.m3u8
-
-https://live.pesisirselatankab.go.id/620c1b542c77be0134c4c74fa56a6181/hls/kominfo/Ts3N3gBcqz/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.digitaldesa.com/uploads/profil/13.01.10.2004/common/300_pesisirselatankab.png" group-title="CCTV KAB PESISIR SELATAN",TAMAN SPORA 1
-https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/Vy91pQ56X7/s.m3u8
-
-https://live.pesisirselatankab.go.id/620c1b542c77be0134c4c74fa56a6181/hls/kominfo/m7cQGqqNKo/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.digitaldesa.com/uploads/profil/13.01.10.2004/common/300_pesisirselatankab.png" group-title="CCTV KAB PESISIR SELATAN",TAMAN SPORA 3
-https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/9eBO8rHjiu/s.m3u8
-
-https://live.pesisirselatankab.go.id/620c1b542c77be0134c4c74fa56a6181/hls/kominfo/9eBO8rHjiu/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.digitaldesa.com/uploads/profil/13.01.10.2004/common/300_pesisirselatankab.png" group-title="CCTV KAB PESISIR SELATAN",TAMAN SPORA 2
-https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/m7cQGqqNKo/s.m3u8
-
-https://live.pesisirselatankab.go.id/620c1b542c77be0134c4c74fa56a6181/hls/kominfo/ttygSs99dy/s.m3u8
- 
-EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.digitaldesa.com/uploads/profil/13.01.10.2004/common/300_pesisirselatankab.png" group-title="CCTV KAB PESISIR SELATAN",BATAS KOTA 2
-https://live.pesisirselatankab.go.id/620c1b542c77be0134c4c74fa56a6181/hls/kominfo/8poXDsVDvP/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.digitaldesa.com/uploads/profil/13.01.10.2004/common/300_pesisirselatankab.png" group-title="CCTV KAB PESISIR SELATAN",MASJID TERAPUNG
-https://live.pesisirselatankab.go.id/6c63aa71866b1653ffc8b4746e9bb02b/hls/kominfo/dXr6jrlx9s/s.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.digitaldesa.com/uploads/profil/13.01.10.2004/common/300_pesisirselatankab.png" group-title="CCTV KAB PESISIR SELATAN",CAROCOK ARAH PANGGUNG
-https://live.pesisirselatankab.go.id/eeefa4c90426f5da61a72505d24708ca/hls/kominfo/1wbuTqepYN/s.m3u8
-
 
 
 
@@ -35652,6 +35611,9 @@ https://stream8.cinerama.uz/1228/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",KTTO 360
 https://api.v3.invintus.com/StreamURI/persis/2147483647/KTOO360TV.stream/media.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",FAST&FUNBOX HD
+https://iptv.prosto.tv/ch120/index.m3u8
+
 
 
 Lifestyle
@@ -35676,53 +35638,32 @@ TESTING
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",LOL TV TES HD
 https://streams2.sofast.tv/ptnr-yupptv/title-LOL-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",RUSIA 24
-https://stream8.cinerama.uz/1021/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",Арис 24 
-http://serv25.vintera.tv:8081/test/aris/playlist.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",Астрахань 24
-https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",Sochi 24
-http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",KUBOTA
-https://bl.rutube.ru/livestream/310744c10a5809da38aa445c952976da/index.m3u8?e=2066519758&s=dmUf6BUQzDBTwtQOseAfog&scheme=https
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",BUSTON UNIVERSITY
-https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",DC WASINGTON
-https://video.oct.dc.gov/out/u/DCC.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",FAST&FUNBOX HD
-https://iptv.prosto.tv/ch120/index.m3u8
-
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",RU TV
 https://bl.rutube.ru/livestream/b1eb8e90d7e636677b3eb73b4fcbb717/index.m3u8?e=2069285076&s=d-E-bxKy2v3EEJ94RQX9CA&scheme=https
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",IRIB UHD 4K
+EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",IRIB UHD 4K
 https://live-aburayhan1107.telewebion.ir/ek/faratar/live/2160p/index.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",WION HD 
+EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",WION HD 
 https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_in/streams/in/WION.in.m3u8
 
 EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",BEACH TV FLORIDA (BUFEERING)
 https://5ed325193d4e1.streamlock.net:444/LiveTV/DTVHD/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",BHTV10
-https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",JOJE-DTV HD
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",NHK G
 https://tv-stream-test.daydreamer-json.cc/fe8bf835820fb530467f75a9cb761504/master.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",NHK WORLD JAPAN SD
+EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",NHK WORLD JAPAN SD
 https://cdn-7.pishow.tv/live/455/master.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",NHK WORLD JAPAN 1080
+EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",NHK WORLD JAPAN 1080
 https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",M2 UKRAI
+https://iptv.prosto.tv/ch123/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",M1 UKRAI
+https://iptv.prosto.tv/ch122/index.m3u8
 
 
 INSIDE CRIME UK
@@ -37391,6 +37332,8 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 
 
 
+-----------USA TV CBN----------------
+
 
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",ENTERTAIMENT TONIGHT
@@ -37413,10 +37356,551 @@ https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_09a4778E89/pl
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",6 WISE TV 
 https://live.enhdtv.com:8081/8150/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",A&E
-http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",AMAZING FACT
+https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",BHTV10
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",BUSTON UNIVERSITY
+https://cdnapisec.kaltura.com/p/2184561/sp/218456100/playManifest/entryId/1_68qxw4eu/format/applehttp/a.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",DC WASINGTON
+https://video.oct.dc.gov/out/u/DCC.m3u8
 
 
+
+AMC
+http://23.239.31.26:8989/amc/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV TARAKAN📹",JL.TANJUNG PASIR
+#EXTVLCOPT:http-referrer=https://cctv.kotatarakan.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://rtmp.kotatarakan.id/memfs/ef7b0cdb-6761-4fea-8881-69ce2b5b0141.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV TARAKAN📹",Jl. Amal Universitas Borneo
+#EXTVLCOPT:http-referrer=https://cctv.kotatarakan.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://rtmp.kotatarakan.id/memfs/f9e9f9e2-f5a5-4aae-ac3f-617c1536a655.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV TARAKAN📹",Jl. Sungai Kapuas (Kampung Enam)
+#EXTVLCOPT:http-referrer=https://cctv.kotatarakan.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 Jl. Sungai Kapuas (Kampung Enam)
+https://rtmp.kotatarakan.id/memfs/717f8bf0-bc1e-4486-aad4-5e8fda169114.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV TARAKAN📹",Jl. P. Sumatera - Tugu Smart City
+#EXTVLCOPT:http-referrer=https://cctv.kotatarakan.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://rtmp.kotatarakan.id/memfs/b3039f3a-c24b-43a0-9f45-b2ce9c8626a3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV TARAKAN📹",Jl. P. Sumatera - Depan Kantor Imigrasi Tarakan
+#EXTVLCOPT:http-referrer=https://cctv.kotatarakan.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://rtmp.kotatarakan.id/memfs/13c3a807-385d-4523-8bb8-17f5e048c9d7.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV TARAKAN📹",Jl. Gunung Lingkas (Pom Bensin)
+#EXTVLCOPT:http-referrer=https://cctv.kotatarakan.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://rtmp.kotatarakan.id/memfs/d45bc692-0d78-4518-8c43-13013f3830bd.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV TARAKAN📹",Jl. Gunung Lingkas (Depan Alfamidi)
+#EXTVLCOPT:http-referrer=https://cctv.kotatarakan.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://rtmp.kotatarakan.id/memfs/d715fe31-da43-41a2-8d0c-bf6aad0b66e6.m3u8
+
+EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV TARAKAN📹",Pelabuhan Tengkayu I
+#EXTVLCOPT:http-referrer=https://cctv.kotatarakan.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://rtmp.kotatarakan.id/memfs/3143e3e7-e5da-4786-afd4-4cfd62ba8480.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV TARAKAN📹",Jl. Gunung Selatan (Tanjakan)
+#EXTVLCOPT:http-referrer=https://cctv.kotatarakan.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://rtmp.kotatarakan.id/memfs/f4d129a3-f9e5-4681-a0ea-761660657205.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV TARAKAN📹",Jl. Gunung Selatan (Pasir Putih)
+#EXTVLCOPT:http-referrer=https://cctv.kotatarakan.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://rtmp.kotatarakan.id/memfs/df791e77-c93a-4267-9077-e3bf213127f8.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV TARAKAN📹",Jl. Aki Balak (Persemaian)
+#EXTVLCOPT:http-referrer=https://cctv.kotatarakan.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://rtmp.kotatarakan.id/memfs/21f4b3eb-6859-45d5-a714-14ef1c8d792a.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV TARAKAN📹",Jl. Juwata Laut
+#EXTVLCOPT:http-referrer=https://cctv.kotatarakan.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://rtmp.kotatarakan.id/memfs/f6b6f9bf-029d-469e-ae7f-8cd0afb1cb8e.m3u8
+
+
+EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV TARAKAN📹",TEST LAMPUNG
+#EXTVLCOPT:http-referrer=https://seribuwajah.bandarlampungkota.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://stream-newseribuwajah.bandarlampungkota.go.id/cctv_32/index.m3u8
+
+https://seribuwajah.bandarlampungkota.go.id/
+
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",CCTV PANORAMIC MASJID JAMI
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/ihdbdbk0ijezifw2b33xl6zh.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PELABUHAN PROV BAWEAN 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/rzmhytcvipre323yklbnk0h9.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PELABUHAN PROV BAWEAN 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/p84dhdmf2xm0kwmt59vk9l7s.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PELABUHAN PROV BAWEAN 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/w3xv4ehpswtnmgn21ystgysx.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PELABUHAN KAPAL CEPAT BAWEAN 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/g9ble7yvt45az7dcjwnx4y37.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PELABUHAN KAPAL CEPAT BAWEAN 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/abz8k6cdzfvn64j4bojqrc58.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PELABUHAN KAPAL CEPAT BAWEAN 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/nimy107o1k4jdab1723691ce.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN GOLOKAN SEDAYU 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/ukyf7uyuai5n8hvvacnpyrmb.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN GOLOKAN SEDAYU 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/scjnbtdshqi6erj1ypnpewt8.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN GOLOKAN SEDAYU 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/y5a2sjg9efmuj6hds1sx58g8.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PASAR KEC DUKUN 4
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/lbxsxep7wbp69sqs2zxmlay8.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PASAR KEC DUKUN 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/dk8eh0u9jz1orzd9x1wq4k6y.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PASAR KEC DUKUN 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/gtyff7wpztesge2k9p2mffex.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PASAR KEC DUKUN 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/pv6khvtklp93h9coj0jm46qc.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN SEDAYU 4
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/jzov5yvk8ax1o0llzgp8kor4.m3u8
+  
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN SEDAYU 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/wj9lzzv7qr8v9w7mha4pb7bs.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN SEDAYU 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/tlgti061ybvtosb2iz5cohbl.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN SEDAYU 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/ljlivg7m282kjuuzfbzsznw2.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN PASAR BUNGAH 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/zo9t19q4zpv4vzb4nsccqerz.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN PASAR BUNGAH 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/eg42o2380l92c78e857opuz4.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN PASAR BUNGAH 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/l6gmbtesu8d8fitm4h38xg1b.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",JALAN DESA BEDANTEN
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/vu38zvns0x3462p4n2846e2t.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",JALAN DESA BEDANTEN 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/goq8iro9lxq6mmh5a3001gzn.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",JALAN DESA BEDANTEN 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/yhh9g958cr8lf3qdrhdj8jqw.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",EXIT TOL MANYAR 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/xoodj59xa9qhrndzh7ca0d1g.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",EXIT TOL MANYAR 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/qd9pxjy124igecgux9vtt037.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",EXIT TOL MANYAR 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/z8t10b9quhh4w0pa6lxz69kw.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN MANYAR 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/fru9l2bv2xwvv8anfshug1kg.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN MANYAR 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/rn00k3bcle24m8d1azjyrl60.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN MANYAR 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/y15wsnfmldd6vfj1wstfvlux.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",CCTV PANORAMIC KANTOR BUPATI
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/bpq9fht94zb9l0xw5bnv2z24.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",CCTV PANORAMIC MBAH CONDRO
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/omb87er57ju7g4wyd3m5j7kv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",CCTV PANORAMIC PUTRI CEMPO
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/aofq9sffedg0ne0jqowzjuhn.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN PASAR GRESIK 4
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/u4yffckhj0vsfl7inssnm2wn.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN PASAR GRESIK 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/kv17w3qfxq72mppwwxh1ups6.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN PASAR GRESIK 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/jwq9d74w3r6ypghi80g7rkzy.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN PASAR GRESIK 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/ifyktopyhtaqtjwu7h2yqh56.m3u8
+  
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PARKIR PASAR GRESIK 4
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/c05kvo7yhzvahh28w966sx0u.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PARKIR PASAR GRESIK 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/hq3tf0caellocpt0yeeir4l5.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PARKIR PASAR GRESIK 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/gosswlb6qcrtgu9mkoqt9zqn.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PARKIR PASAR GRESIK 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/mx4nryf6sz4u8f6pgznoc48y.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN DUDUK SAMPEAN 4
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/ujc9ue74moblozi2th4ljx1j.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN DUDUK SAMPEAN 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/hgr9f7ua7hnnwjrtzm0u6a8q.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN DUDUK SAMPEAN 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/evla6pspb5od3co9z3wxp7un.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN DUDUK SAMPEAN 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/xjagn6fdnzodbm6ei6e2v3k6.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",EXIT TOL CERME 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/nb7pzbmeznir1u9erko6ea88.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",EXIT TOL CERME 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/f312y02lil9rtqtp999lluq4.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN KEDUNGPRING 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/dx4epl1nhsbgltyvu8y8gi4k.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN KEDUNGPRING  2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/srpp37mxjvj5ap1m9rh4e7f4.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN KEDUNGPRING 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/jmg85kodg16b25s87pn9r24n.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",CCTV PANORAMIC ISLAMIC CENTER
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/cmdvuqac42v795dyv1r6tmwx.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN PASAR BENJENG 4
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/gtysrztznptamshxmvufmwi4.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN PASAR BENJENG 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/dpzk4cfr2gasw6wnp4xzaf3y.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN PASAR BENJENG 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/ep2yrf3bqrh0sk1c2bhgdv6m.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN PASAR BENJENG 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/pinpzhz1zgqy7cidzx8dbjsw.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN KEPATIHAN 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/z9wm16ca6n5e19u0kc3o1md7.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN KEPATIHAN 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/r5vqqibl0jhz98suonubij0x.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN KEPATIHAN 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/aryp5iz46xpg5r6vxt5q5xa3.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",EXIT TOL BELAHANREJO 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/souwf58z86qq3irfh64w7vwp.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",EXIT TOL BELAHANREJO 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/a4e2ojasf8wrr848vmm85h37.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",EXIT TOL BELAHANREJO 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/fyqcj5pxe0qt86q6bso36gzv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN NGEPUNG 4
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/xuym55br0eku02zwpum3lkm8.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN NGEPUNG 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/b5y3cx1ykpxelwbs6923lb3g.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN NGEPUNG 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/n6tsjmz3qwf17szgz3lfvmce.m3u8
+    
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN NGEPUNG 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/j512qmz954xhf2o0u6izn6lw.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN PASAR MENGANTI 4
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/btbgwubqi4kpsm1a7mv7j5ga.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN PASAR MENGANTI 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/whzjmzur78uiyc0ocdc9coz5.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN PASAR MENGANTI 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/q42zxqlx6o750do8p40fa0sm.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN PASAR MENGANTI 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/c6mkub4xcjmvaftk225wgq7a.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN BAMBE 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/b6e20ejf1o1woe3gvy3kmkyp.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN BAMBE 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/b9ejrs7bawqpxo49gzvf6rre.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN BAMBE 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/iedpcmp1xxax1xj75bpq8hyw.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN CANGKIR 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/kktfq0wgxtjg4s5b8zmski1n.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN CANGKIR 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/r5ocrhqqkn9j4szwuszcmr0w.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PERTIGAAN CANGKIR 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/kwzk3qbtjn950hpk0mlcu8wz.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN LEGUNDI 4
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/y90ww9dd4gselm2marpztixz.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN LEGUNDI 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/ganjt6ywriwze624h02oljnv.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN LEGUNDI 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/u5v8keentvfz2othtyd8r0hp.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN LEGUNDI 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/sav3cqer7ghe580s0ktrbncp.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN WRINGINANOM 4
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/mcmzak7rdeequ2frj6oyprxq.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN WRINGINANOM 3
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/imioh0wjxyjwsd4m4fbfthip.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN WRINGINANOM 2
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/qvb4b6y9jrtu0gallxcrhh9p.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB GRESIK📹",PEREMPATAN WRINGINANOM 1
+#EXTVLCOPT:http-referrer=https://cctvkanjeng.gresikkab.go.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36 
+https://testing-apicctv.gresikkab.go.id/uploads/hls/gydjo2zm1z3vzgg76xksv030.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",MASJID TERAPUNG
+https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/dXr6jrlx9s/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",CAROCOK 4
+https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/2qy20XfgZX/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",CAROCOK 2
+https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/2qy20XfgZX/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",TAMAN SPORA 1
+https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/2qy20XfgZX/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",TAMAN SPORA 2
+https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/2qy20XfgZX/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",BATAS KOTA 1
+https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/2qy20XfgZX/s.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",BATAS KOTA 2
+https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/2qy20XfgZX/s.m3u8
+
+
+
+
+
+EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/08/1280x720/prediksi-piala-aff_8226f8d.jpg", 20.30 WIB INDONESIA VS VIETNAM CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+
+
+http://127.0.0.1:3000/192_168_100_64/output.m3u8
+https://pantaulalindishub.sidoarjokab.go.id/proxy?url=aHR0cDovLzEyNy4wLjAuMTozMDAwLzE5Ml8xNjhfMTAwXzY0L291dHB1dC5tM3U4
 
 
 
