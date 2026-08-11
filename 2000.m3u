@@ -37867,23 +37867,7 @@ https://testing-apicctv.gresikkab.go.id/uploads/hls/gydjo2zm1z3vzgg76xksv030.m3u
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",MASJID TERAPUNG
 https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/dXr6jrlx9s/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",CAROCOK 4
-https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/2qy20XfgZX/s.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",CAROCOK 2
-https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/2qy20XfgZX/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",TAMAN SPORA 1
-https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/2qy20XfgZX/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",TAMAN SPORA 2
-https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/2qy20XfgZX/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",BATAS KOTA 1
-https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/2qy20XfgZX/s.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV KAB PESISIR📹",BATAS KOTA 2
-https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominfo/2qy20XfgZX/s.m3u8
 
 
 
@@ -37897,7 +37881,9 @@ EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://cdns.klimg.com/bola.
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
+nk kamu berhasil dipenc
 
+s.id/aJiO7
 
 http://127.0.0.1:3000/192_168_100_64/output.m3u8
 https://pantaulalindishub.sidoarjokab.go.id/proxy?url=aHR0cDovLzEyNy4wLjAuMTozMDAwLzE5Ml8xNjhfMTAwXzY0L291dHB1dC5tM3U4
