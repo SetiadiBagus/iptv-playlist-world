@@ -37350,14 +37350,8 @@ https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/
 #EXTINF:-1 tvg-id="ScientologyNetwork.us@SD" tvg-name="Scientology Network" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",Scientology Network 
 https://stream6.scientology.org/master.m3u8
 
-EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",SBN International
-https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_09a4778E89/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",6 WISE TV 
 https://live.enhdtv.com:8081/8150/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",AMAZING FACT
-https://hlspackager.akamaized.net/live/DB/AMAZING_FACTS/HLS/AMAZING_FACTS.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",BHTV10
 https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
