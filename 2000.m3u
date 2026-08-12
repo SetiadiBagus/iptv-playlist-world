@@ -5531,18 +5531,13 @@ https://papekalongan.cctvbadilag3.my.id/400860PAPEKALONGAN/streams/1742640705566
 #EXTINF:0 tvg-country=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",📹PTSP TAMPAK DEPAN (PEKALONGAN)
 https://papekalongan.cctvbadilag3.my.id/400860PAPEKALONGAN/streams/230823044458335592338984.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
-
-
-
-
-
-#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV PENGADILAN AGAMA TANJUNG BALAI KARIMUN",PARKIR
+#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",PARKIR (TANJUNG BALAIKARIMUN)
 https://patanjungbalaikarimun.cctvbadilag2.my.id/402160PATJBALAIKARIMUN/streams/028056830126721213945404.m3u8
 
-#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV PENGADILAN AGAMA TANJUNG BALAI KARIMUN",PTSP
+#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",PTSP (TANJUNG BALAIKARIMUN)
 https://patanjungbalaikarimun.cctvbadilag2.my.id/402160PATJBALAIKARIMUN/streams/210903251835707206023532.m3u8
 
-#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV PENGADILAN AGAMA TANJUNG BALAI KARIMUN",RUANG TUNGGU SIDANG
+#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",RUANG TUNGGU SIDANG (TANJUNG BALAIKARIMUN)
 https://patanjungbalaikarimun.cctvbadilag2.my.id/402160PATJBALAIKARIMUN/streams/557484875926161894664054.m3u8
 
 
@@ -35591,7 +35586,7 @@ https://iptv.prosto.tv/ch88/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",GAME & FISH 
 https://amg00436-amg00436c7-freelivesports-emea-8457.playouts.now.amagi.tv/playlist/amg00436-ksemotvholdingsfast-gameandfishtv-freelivesportsemea/playlist.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",WORLD FISHING NETWORK
+EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",WORLD FISHING NETWORK
 https://d3b3ldcvgsu291.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/DistroTV-MuxIP-WFN/477.m3u8?ads.vf=mDHh59pDPYW
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",BBC EART
