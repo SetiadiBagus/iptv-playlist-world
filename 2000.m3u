@@ -37879,6 +37879,12 @@ https://live.pesisirselatankab.go.id/abed2df127e1c0ac7e702104e748717b/hls/kominf
 
 
 
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV PEKANBARU📹",SUDIRMAN - GAJAHMADA
+https://cctv.pekanbaru.go.id/hls/cam-10.200.49.2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV PEKANBARU📹",DEPAN MPP1
+https://cctv.pekanbaru.go.id/hls/cam-10.200.43.2/index.m3u8
+
 
 EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/08/1280x720/prediksi-piala-aff_8226f8d.jpg", 20.30 WIB INDONESIA VS VIETNAM CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
