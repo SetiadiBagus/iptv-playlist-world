@@ -37350,7 +37350,7 @@ https://cbsn-mia.cbsnstream.cbsnews.com/out/v1/ac174b7938264d24ae27e56f6584bca0/
 #EXTINF:-1 tvg-id="ScientologyNetwork.us@SD" tvg-name="Scientology Network" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",Scientology Network 
 https://stream6.scientology.org/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",SBN International
+EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",SBN International
 https://storage.sardius.media/archives/Ea867F3e1F56B06/events/site_09a4778E89/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚨USA TV TES🇺🇲",6 WISE TV 
