@@ -30958,6 +30958,11 @@ https://livepantau.semarangkota.go.id/f0db4af1-6dec-4a92-b00a-59040704f8e4/index
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG SUNGAI&POMPA",SUNGAI PLUMBON WONOSARI
 https://livepantau.semarangkota.go.id/5360443c-1246-4c26-bdcf-8df4536b5961/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG SUNGAI&POMPA",KOL SUGIONO IN
+https://livepantau.semarangkota.go.id/8f464508-aad8-42e4-afbd-3d72edc9e12c/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SEMARANG LALU LINTAS",SAMPOOKONG KE BARAT
+https://livepantau.semarangkota.go.id/922aac1b-723e-4567-bfae-d06b4cb48d24/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="CCTV SMG KEC NGALIYAN",CAMERA 01
@@ -37897,6 +37902,14 @@ https://cctv.pekanbaru.go.id/hls/cam-10.200.52.2/index.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV PEKANBARU📹",RIAU-KAYU MANIS
 https://cctv.pekanbaru.go.id/hls/cam-10.200.55.2/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV PEKANBARU📹",SIMPANG TABEK GADANG 1
+https://cctv.pekanbaru.go.id/hls/cam-10.200.57.2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV PEKANBARU📹",IP CAMERA48
+https://cctv.pekanbaru.go.id/hls/cam-10.200.60.2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹CCTV PEKANBARU📹",HANTUAH - HARAPAN RAYA
+https://cctv.pekanbaru.go.id/hls/cam-10.200.62.2/index.m3u8
 
 
 
