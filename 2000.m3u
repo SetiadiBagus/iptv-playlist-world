@@ -6,6 +6,8 @@ menampilkan playlist >>> INDONESIA
 https://iptv-epg.org/files/epg-id.xml
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TRIBUN NEWS
+http://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID.m3u8
 
 #EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-id="bnchannel.id" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",BN Channel
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -29,13 +31,6 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1 tvg-id="Metro TV" group-title="🇮🇩INDONESIA🇮🇩" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
-
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
-#EXTINF:-1 group-title="🇮🇩INDONESIA🇮🇩" tvg-id="iNews" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/epgs/guide.xml" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png",iNews
-https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -247,7 +242,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h17/index.m3u8?app_type=web&userid=lit
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=lite&chname=DensShowBiz
 
-#EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TVRI DENS
+#EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🇮🇩INDONESIA🇮🇩",TVRI SPORT DENS
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 https://op-flashcon-digdayahd-1.dens.tv/h/h19/index.m3u8?app_type=web&userid=lite&chname=TVRI_Sport
@@ -5525,29 +5520,29 @@ https://papekalongan.cctvbadilag3.my.id/400860PAPEKALONGAN/streams/1742640705566
 #EXTINF:0 tvg-country=" " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",📹PTSP TAMPAK DEPAN (PEKALONGAN)
 https://papekalongan.cctvbadilag3.my.id/400860PAPEKALONGAN/streams/230823044458335592338984.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
 
-#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",PARKIR (TANJUNG BALAIKARIMUN)
+#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",📹PARKIR (TANJUNG BALAIKARIMUN)
 https://patanjungbalaikarimun.cctvbadilag2.my.id/402160PATJBALAIKARIMUN/streams/028056830126721213945404.m3u8
 
-#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",PTSP (TANJUNG BALAIKARIMUN)
+#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",📹PTSP (TANJUNG BALAIKARIMUN)
 https://patanjungbalaikarimun.cctvbadilag2.my.id/402160PATJBALAIKARIMUN/streams/210903251835707206023532.m3u8
 
-#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",RUANG TUNGGU SIDANG (TANJUNG BALAIKARIMUN)
+#EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="🪙CCTV PENGADILAN AGAMA🪙",📹RUANG TUNGGU SIDANG (TANJUNG BALAIKARIMUN)
 https://patanjungbalaikarimun.cctvbadilag2.my.id/402160PATJBALAIKARIMUN/streams/557484875926161894664054.m3u8
 
 
 
 
 #EXTINF:0 tvg-country="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV PENGADILAN AGAMA PURWODADI",PTSP
-https://papurwodadi.cctvbadilag.my.id/400951PAPURWODADI/streams/737978613835585424478561.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+https://papurwodadi.cctvbadilag.my.id/400951PAPURWODADI/streams/737978613835585424478561.m3u8
 
 #EXTINF:0 tvg-country="  " tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV PENGADILAN AGAMA PURWODADI",RUANG TUNGGU SIDANG
-https://papurwodadi.cctvbadilag.my.id/400951PAPURWODADI/streams/258555491379831457697622.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+https://papurwodadi.cctvbadilag.my.id/400951PAPURWODADI/streams/258555491379831457697622.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV PENGADILAN AGAMA PURWODADI",HALAMAN PARKIR
-https://papurwodadi.cctvbadilag.my.id/400951PAPURWODADI/streams/835093582951509400736071.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+https://papurwodadi.cctvbadilag.my.id/400951PAPURWODADI/streams/835093582951509400736071.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="CCTV PENGADILAN AGAMA PURWODADI",RUANG TUNGGU SIDANG 2
-https://papurwodadi.cctvbadilag.my.id/400951PAPURWODADI/streams/753603831458376919358367.m3u8?token=undefined&subscriberId=undefined&subscriberCode=undefined?token=undefined&subscriberId=undefined&subscriberCode=undefined
+https://papurwodadi.cctvbadilag.my.id/400951PAPURWODADI/streams/753603831458376919358367.m3u8
 
 
 
@@ -35558,9 +35553,6 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Animalplanethd2/default/index.mpd
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",RUSIA TODAY DOCUMENTARY
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",CHACRATV
-https://5f700d5b2c46f.streamlock.net/chacratv/chacratv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://cdn.phototourl.com/free/2026-05-29-6da5ca00-8436-470b-91b7-f2ddecaef7b1.png" group-title="🌊OUTDOOR🌿",DUCK HUNTING
 https://main.duckhunting.playout.vju.tv/duckhuntingtv/360p/playlist.m3u8
 
@@ -35626,7 +35618,7 @@ TESTING
 
 
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",LOL TV TES HD
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",LOL TV
 https://streams2.sofast.tv/ptnr-yupptv/title-LOL-TV-ENG_yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/fc63d5fd-b50e-4d3e-abdf-697d9b6cbf70/manifest.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",RU TV
@@ -35655,6 +35647,14 @@ https://iptv.prosto.tv/ch123/index.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",M1 UKRAI
 https://iptv.prosto.tv/ch122/index.m3u8
+
+#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧",AXN BLACK 
+http://185.227.34.179:8080/axn-black/index.m3u8
+
+#EXTINF:0 tvg-id="tvrisport" tvg-logo="https://cdn.phototourl.com/free/2026-06-12-5b0ecfb2-6b93-4f53-a640-ceefa5018b05.png" group-title="🚧TESTING CHANNEL🚧", AL JAEZERA
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+https://op-flashcon-digdayahd-1.dens.tv/h/h43/01.m3u8
 
 
 INSIDE CRIME UK
@@ -36352,9 +36352,6 @@ https://lenkom.camsh.orsk.ru/hls/lenkom.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",Prospek Mira Rusia
 https://camsh.orsk.ru/hls/pr-mira.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",Alun alun Taman Orenburg Rusia
-https://rif.camsh.orsk.ru/hls/rif.m3u8
-
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",Sweet Home Rusia
 https://milyj-dom.camsh.orsk.ru/hls/milyj-dom.m3u8
 
@@ -36675,11 +36672,32 @@ https://cdn-001.whatsupcams.com/hls/it_tsborsa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",Trivento Italia
 https://streaming-04.dyndns.org/hls/trivento2.m3u8
 
-Plaza del Ayuntamiento Spanyol
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",Plaza del Ayuntamiento Spanyol
 https://streaming.comunitatvalenciana.com/webcam/Ademuz/manifest.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",RAMALLAH MUNICIPALITY PALESTINA
+https://htvint.mada.ps/RamallahMunicipality/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",BIARA AMERIKA SERIKAT
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/b8c8a5d8-e263-41fe-8716-ff42335374f6/master.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",AINSOWORT AMERIKA SERIKAT
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/04ca7a1e-12c6-4420-beaf-dd44f5f4fa41/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",AKRON AMERIKA SERIKAT
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/894b1961-4a7e-4eb1-a4a8-434aa313ec49/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",ALBANY AMERIKA SERIKAT
+https://livestream.siena.edu/hls/tower-stream/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",ALIANSI AMERIKA SERIKAT
+https://cdn-cloudfront.us-east-1.prod.ingest.aws-infra.dacast.com/live/55a794f1-2931-44c6-ad07-314b8197d5e1/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",ANGIER AMERIKA SERIKAT
+https://media-hls-az1.wral.com/livehttporigin/_definst_/mp4:chapel_hill_cam.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.phototourl.com/free/2026-05-29-0a85c265-d02c-47dc-bf32-45b5613585c1.png" group-title="📹WEBCAM DUNIA🌍",AJJOIO PRANCIS
+https://visionenvironnement.quanteec.com/contents/encodings/live/e735eda0-07e8-4d5f-746c-7561-6665-64-8934-60bc461532e7d/media_0.m3u8
 
 
 
