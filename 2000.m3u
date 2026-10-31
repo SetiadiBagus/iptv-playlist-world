@@ -5797,7 +5797,7 @@ https://cdn-globecast.akamaized.net/live/eds/saudi_quran/hls_roku/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="ARAB SAUDI",Al Riyadh Radio
 https://live.kwikmotion.com/sbrksariyadhradiolive/srpksariyadhradio/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlKhalijTV.sa" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="News",Al Khalij TV
+Al Khalij TV
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="ARAB SAUDI",Asharq Discovery
@@ -16280,12 +16280,6 @@ https://live.banyuwangikab.go.id
 EXTINF:0 tvg-country="CN" tvg-logo=" " group-title="CCTV BANYUWANGI",RADEN WIJAYA SELATAN
 https://live.banyuwangikab.go.id/media/107/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="📹CCTV BWI",TES
-#EXTVLCOPT:http-referrer=https://live.banyuwangikab.go.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
-https://live.banyuwangikab.go.id/media/107/index.m3u8
-
-
 
 CCTV CIREBON KOTA
 
@@ -21365,14 +21359,8 @@ https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🏄LIFESTYLE🚵",FASHION TV PARIS
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🏄LIFESTYLE🚵",CODE HEALT TV
-https://cdn2.invivo.bg/codehealth_test/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🏄LIFESTYLE🚵",CVR HEALT
 https://mumbai-edge.smartplaytv.in/CVRHealth/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🏄LIFESTYLE🚵",KNOWLEDGE+
-http://202.150.161.212:5000/live/channel34/playlist.m3u8
 
 #EXTINF:0 tvg-country="HT" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🏄LIFESTYLE🚵",ABC ENTERTAIMENT
 https://c.mjh.nz/abc-me.m3u8
@@ -24744,17 +24732,9 @@ https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="   " tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="📰BERITA DUNIA🗞️",4SIDES TV
 https://stream.ottlive.co.in/4sidestv/index.m3u8
 
-#EXTINF:-1 tvg-id="   " tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="📰BERITA DUNIA🗞️",BFM ALSACE
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_ALSACE/index.m3u8
-  
-#EXTINF:-1 tvg-id="   " tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="📰BERITA DUNIA🗞️",BFM COTE D AZUR
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NICECOTEDAZUR/index.m3u8
+#EXTINF:-1 tvg-id="   " tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="📰BERITA DUNIA🗞️",Al Khalij TV
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
 
-#EXTINF:-1 tvg-id="   " tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="📰BERITA DUNIA🗞️",BFM MARSEILLE
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_MARSEILLEPROV/index.m3u8
-
-#EXTINF:-1 tvg-id="   " tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="📰BERITA DUNIA🗞️",BFM GRAND LILLE
-https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFMGRANDLILLE/index.m3u8
 
 
 amagi
@@ -25542,8 +25522,14 @@ https://livepantau.semarangkota.go.id/89c7becf-fde9-430b-b5e4-200e4fd6cf02/index
 #EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG LALU LINTAS🚦",🚦 DPU-Kel.Wonosari
 https://livepantau.semarangkota.go.id/35f5f53c-6d57-430e-b03c-f2dc3ba86cd8/index.m3u8
 
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG LALU LINTAS🚦",🚦 COUNTING EXIT SRONDOL
+https://livepantau.semarangkota.go.id/45bfa9e6-c441-4a1a-9c1f-d34895d9565a/index.m3u8
 
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG LALU LINTAS🚦",🚦 COUNTING KIW
+https://livepantau.semarangkota.go.id/f6cbdc7a-6de1-48a2-a4db-9a98804c0176/index.m3u8
 
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG LALU LINTAS🚦",🚦 SIMPANG GENDINGAN
+https://livepantau.semarangkota.go.id/549ab468-a165-455b-a0a8-0231f9933b34/index.m3u8
 
 
 💦
@@ -25552,80 +25538,167 @@ https://livepantau.semarangkota.go.id/35f5f53c-6d57-430e-b03c-f2dc3ba86cd8/index
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 KS-Out-1
 https://livepantau.semarangkota.go.id/beb7934c-1160-4c65-8326-99d1672d0aa8/index.m3u8
 
-Banjardowo-OUT
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Banjardowo-OUT
 https://livepantau.semarangkota.go.id/3ca11ae8-4043-4fa8-bdc2-366c60d8c06d/index.m3u8
 
-Banjardowo-IN
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Banjardowo-IN
 https://livepantau.semarangkota.go.id/1d7b4227-8c9e-491d-a6c1-856ab45dcb21/index.m3u8
 
-Trimulyo_out
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Trimulyo_out
 https://livepantau.semarangkota.go.id/65113adf-ea60-49bf-a72b-ccac45bd0691/index.m3u8
 
-Trimulyo IN 1
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Trimulyo IN 1
 https://livepantau.semarangkota.go.id/5d921cb8-61f8-4678-b528-3718e1dcc8b8/index.m3u8
 
-Trimulyo IN 2
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Trimulyo IN 2
 https://livepantau.semarangkota.go.id/6817d745-9a9c-4140-a901-144585da4fa5/index.m3u8
 
-Jinunjung_Bendung
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Jinunjung_Bendung
 https://livepantau.semarangkota.go.id/555351ec-9347-4148-aff2-c735d536676b/index.m3u8
 
-Jinunjung_Halaman
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Jinunjung_Halaman
 https://livepantau.semarangkota.go.id/59497ee8-5641-4c21-aa31-f5aca9f94c2a/index.m3u8
 
-Manggis-OUT
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Manggis-OUT
 https://livepantau.semarangkota.go.id/f540d4b9-62e5-43bf-a949-012347767735/index.m3u8
 
-Manggis-IN
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Manggis-IN
 https://livepantau.semarangkota.go.id/62d17380-1980-4282-99d0-da1b75726b7c/index.m3u8
 
-Majapahit-IN
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Majapahit-IN
 https://livepantau.semarangkota.go.id/d4b3d063-d7e6-418e-abd9-11904341f8a6/index.m3u8
 
-Majapahit-OUT
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Majapahit-OUT
 https://livepantau.semarangkota.go.id/9c0c6a6e-3780-4b7c-8cc3-caccab8a79d6/index.m3u8
 
-Kartini-OUT
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Kartini-OUT
 https://livepantau.semarangkota.go.id/6b31aa86-9b2e-42d3-bf47-1328137e08b6/index.m3u8
 
-Kartini-Gerbang Depan
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Kartini-Gerbang Depan
 https://livepantau.semarangkota.go.id/bb58c45f-5167-4696-83e5-c3d49c84a66e/index.m3u8
 
-Kartini-IN
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Kartini-IN
 https://livepantau.semarangkota.go.id/5edf302d-0fe5-486a-a702-86e26ab04e59/index.m3u8
 
-Kartini-Tanki
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Kartini-Tanki
 https://livepantau.semarangkota.go.id/2d50324a-c808-46c3-8595-816d8805993f/index.m3u8
 
-Bawah Tol X3W_OUT
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Bawah Tol X3W_OUT
 https://livepantau.semarangkota.go.id/e285784a-c1e3-4263-87ad-00abc13bdd3e/index.m3u8
 
-Muktiharjo-Kolam
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Muktiharjo-Kolam
 https://livepantau.semarangkota.go.id/3e895846-1db5-4c62-b821-be3bbbc64f4a/index.m3u8
 
-Muktiharjo _Tanki
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Muktiharjo _Tanki
 https://livepantau.semarangkota.go.id/5e4f7593-4ca5-4751-90af-f42c0daddb16/index.m3u8
 
-Kdg Kebo-IN
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Kdg Kebo-IN
 https://livepantau.semarangkota.go.id/0ae59748-1067-42db-a651-4e9222ffa509/index.m3u8
 
-Kdg Kebo-OUT
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Kdg Kebo-OUT
 https://livepantau.semarangkota.go.id/479ae4b0-2e51-4f49-966a-11d374a39008/index.m3u8
 
-Progo-IN
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Progo-IN
 https://livepantau.semarangkota.go.id/b008ece9-cec3-4d75-ad25-e0fe1b6ed537/index.m3u8
 
-Progo-OUT
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Progo-OUT
 https://livepantau.semarangkota.go.id/4103325b-daaa-456a-82b1-f18fe49d3fb6/index.m3u8
 
-Gudang Senjata_IN
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Gudang Senjata_IN
 https://livepantau.semarangkota.go.id/6b60bf5c-870b-4e24-90be-817afedd6c47/index.m3u8
 
-Gudang Senjata_Out
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Gudang Senjata_Out
 https://livepantau.semarangkota.go.id/3cdee3eb-be6d-4ec2-9709-e92f86700a9e/index.m3u8
 
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Banger-Out
+https://livepantau.semarangkota.go.id/e3979eeb-4eda-44c8-9fd0-778679433d46/index.m3u8
 
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Banger-In
+https://livepantau.semarangkota.go.id/9685bca7-84a6-407d-84f1-6a807831448c/index.m3u8
 
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Banger-SD-IN
+https://livepantau.semarangkota.go.id/1a3d8ae8-aa7c-4460-afa0-4b8629b4a637/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Banger-Tanki
+https://livepantau.semarangkota.go.id/e54b8032-c3cc-4a66-b59a-9940b497b67b/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Banger-Lorong Pompa
+https://livepantau.semarangkota.go.id/f03fdc9e-f768-4936-baa3-d3d50222bfde/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Banger-Pompa
+https://livepantau.semarangkota.go.id/a62e497b-0ff4-4716-91f9-a2d201cc2325/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 KP.Kali-IN
+https://livepantau.semarangkota.go.id/750aa044-2b63-4d91-9e21-d82962b4016e/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 KP.Kali-OUT
+https://livepantau.semarangkota.go.id/29a14e30-bb3d-417a-a687-43acedeafe26/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 IPdome-Polder Tawang
+https://livepantau.semarangkota.go.id/933df52f-341f-4820-a674-66ffaa4b8631/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Mberok Out
+https://livepantau.semarangkota.go.id/f0391a68-c4f7-4c1a-8d52-b326b117ea6a/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Mberok Baru_Pompa
+https://livepantau.semarangkota.go.id/1a578073-9ee0-40bb-b277-2bed0ad99975/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 DPU-Mberok2-OUT
+https://livepantau.semarangkota.go.id/51dc4a83-4d25-4e7e-96a1-6e6d467d74cb/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Kol.Sugiono_Gerbang
+https://livepantau.semarangkota.go.id/7e21cd55-4959-443b-9cbf-8674c4cdc375/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Kali Baru -OUT
+https://livepantau.semarangkota.go.id/d14d01fb-3d78-480d-b036-ebb878b46ea5/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 SBF C2
+https://livepantau.semarangkota.go.id/40137abd-75f4-4116-8f61-6372cd5be89f/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 SBF N2
+https://livepantau.semarangkota.go.id/3065b431-6777-4bc1-b26d-679943b13b37/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 SBF N1
+https://livepantau.semarangkota.go.id/135c2b90-d489-4b00-8d10-5de84105a7a2/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Bridge Fountain
+https://livepantau.semarangkota.go.id/a17358b6-c843-4213-8dfd-7f3064d310cf/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Semarang Indah_OUT
+https://livepantau.semarangkota.go.id/8b51f008-a0e9-43a6-9115-53615d30c2b3/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Semarang Indah_IN
+https://livepantau.semarangkota.go.id/7db24791-4b99-4f55-bb0e-2befd71aa2e9/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Madukoro_Depan
+https://livepantau.semarangkota.go.id/0233b247-e6bc-41fa-b1e4-cdf918e40e41/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 IPdome-Madukoro
+https://livepantau.semarangkota.go.id/a9ebf1a2-9c55-444b-a6dd-4dfcb19bd558/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 KS-POMPA
+https://livepantau.semarangkota.go.id/a59fcda5-ab7b-4a74-be23-6b6a011f13f8/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 KS-OUT-2
+https://livepantau.semarangkota.go.id/68b90b01-3056-4e1b-8042-6edcc3324c1a/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 K. SMG-Halaman
+https://livepantau.semarangkota.go.id/03e7c70f-3d44-4e20-b6c0-394a7d9485d7/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 KS-Kolam
+https://livepantau.semarangkota.go.id/043ad5fd-69ee-48ea-9123-a0ca5865cb7b/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 KS-Genset
+https://livepantau.semarangkota.go.id/b306ed1d-1b5d-407d-b854-0d26e2a80977/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 KS-Screen
+https://livepantau.semarangkota.go.id/1e123ea4-df97-45a8-a3a1-41122bf4e530/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 KS-Lorong Genset-1
+https://livepantau.semarangkota.go.id/122ba806-a9e4-468e-a0b5-11ffd0737637/index.m3u8
+
+#EXTINF:0 tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG SUNGAI & POMPA AIR💦",💦 Sungai Plumbon Wonosari
+https://livepantau.semarangkota.go.id/80dcca6f-c4d8-45af-b306-aed2cf83fa02/index.m3u8
 
 
 
@@ -26230,85 +26303,40 @@ http://simanjakerto.cvmalala.com:8787/streaming/YOS-SUDARSO-BARAT.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",CEMARA RAYA RT14 RW16
-https://livepantau.semarangkota.go.id/f6754c9c-baf6-4e19-a91f-8ed14b1f221d/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",SENDANG MULYO RT14 RW 16
-https://livepantau.semarangkota.go.id/23c6d4d7-f0e7-4963-a1cf-93bdda469177/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",ATAS GARASI RT14 RW16
-https://livepantau.semarangkota.go.id/6a8afe23-3a56-484d-87d2-f2654732aa06/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",SENDANGMULYO 4-7
-https://livepantau.semarangkota.go.id/061cb2ab-2785-4f64-b258-67be55900360/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",SENDANGMULYO 4-7 IP CAMERA
-https://livepantau.semarangkota.go.id/ba4bce94-0582-4099-afdd-d3d2405ff423/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",PERUMDA 0405 TEMBALANG
-https://livepantau.semarangkota.go.id/8bb1b2cd-f551-4549-91d3-d3379a6d6cf4/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",PORTAL BARAT
-https://livepantau.semarangkota.go.id/cc6a5371-4b9b-4433-be25-28b82b1a19c3/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",IP CAMERA
-https://livepantau.semarangkota.go.id/f52637b2-392e-46b7-a5ff-e5f3706c07af/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",SENDANGMULYO 7-6
-https://livepantau.semarangkota.go.id/9b42d601-01a4-455c-9659-91def0b05b7f/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",SDGMULYO 21-4 DEPAN MASJID
-https://livepantau.semarangkota.go.id/8184eaf8-26ab-4828-900d-9452b8d94006/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",SDGMULYO 21-4 Pertigaan Depan Pak Edi RT
-https://livepantau.semarangkota.go.id/2779995c-c71f-46b3-a74f-f03921173b57/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",TANGGUL RT05 KEC SMG UTARA
-https://livepantau.semarangkota.go.id/14227d00-7539-4d00-a72c-499e3f0f0649/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",TANGGUL RT05 KEC SMG UTARA GAPURA
-https://livepantau.semarangkota.go.id/717052e9-5d26-4c0d-b3c6-d911145f6d0d/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",LODAN KEC SMG UTARA RT06 RW3 IPC
-https://livepantau.semarangkota.go.id/241650cc-c943-4e9d-a00f-6addbc13451a/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",LODAN KEC SMG UTARA RT06 RW3
-https://livepantau.semarangkota.go.id/f989612a-cf81-4887-9e6f-404f827fd296/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",ROWOSARI WARUNG 5-1
-https://livepantau.semarangkota.go.id/0064ef89-eeaf-4d4b-b202-7289ed8a0c2f/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",ROWOSARI 5-1
-https://livepantau.semarangkota.go.id/566d664b-f61d-42de-a17a-e4a026d82841/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG RT/RW🏠︎",SDG MULYO PASAR
-https://livepantau.semarangkota.go.id/0264f9a2-813b-4d10-9071-1cef38f59d8b/index.m3u8
 
 
 PARIWISATA
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG PARIWISATA⛱️",DEPAN OUDETRAP
-https://livepantau.semarangkota.go.id/9a1028b7-de57-4a0a-832d-94d516bd7f38/index.m3u8
+https://livepantau.semarangkota.go.id/9d0d1b08-43ba-4fbd-a0cb-99e245de1d9f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG PARIWISATA⛱️",GEREJA BLENDUK
-https://livepantau.semarangkota.go.id/2a21bbe2-0de9-4646-ac66-e61b0b1c353a/index.m3u8
+https://livepantau.semarangkota.go.id/bec4f6a7-0ed1-46e6-9820-69ac98e9c7f6/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG PARIWISATA⛱️",SRI GUNTING 01
-https://livepantau.semarangkota.go.id/fe0da192-2e48-4c43-a873-f4844a7a83da/index.m3u8
+https://livepantau.semarangkota.go.id/910f2e22-dbd9-4266-b7c0-189cf33c51f2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG PARIWISATA⛱️",SRI GUNTING 03
-https://livepantau.semarangkota.go.id/cc7c8e9d-2ff4-44a9-8adc-293b3785741e/index.m3u8
+https://livepantau.semarangkota.go.id/e87c11bd-4a09-40ac-9cf4-ca3c8ddcfe07/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG PARIWISATA⛱️",SRI GUNTING 02
-https://livepantau.semarangkota.go.id/87c259ee-bac7-45e1-a95b-057be06115b5/index.m3u8
+https://livepantau.semarangkota.go.id/02f3da55-3b65-4304-94a1-eb9e7eb8644b/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG PARIWISATA⛱️",GOA KREO 1
-https://livepantau.semarangkota.go.id/0bd96e9d-52da-4175-a77a-5e684e93b82c/index.m3u8
+https://livepantau.semarangkota.go.id/95b9120d-a533-4ce8-acd9-44e3776a873f/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG PARIWISATA⛱️",GOA KREO 2
-https://livepantau.semarangkota.go.id/7ac29f6f-cbe3-465a-868c-e0b407562290/index.m3u8
+https://livepantau.semarangkota.go.id/06463eb1-4e7b-42f8-96dc-fbc67d2ebcf7/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG PARIWISATA⛱️",PINTU MASUK LAWANG SEWU
-https://livepantau.semarangkota.go.id/82e26ff9-ed66-41af-9a55-b7af5a0feb12/index.m3u8
+https://livepantau.semarangkota.go.id/e974030c-4bcc-4abc-a56b-ec1470ed39ce/index.m3u8
 
 
 CCTV KAB GRESIK
