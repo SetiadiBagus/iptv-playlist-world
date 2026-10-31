@@ -20217,6 +20217,9 @@ https://cctv.jogjaprov.go.id/cctv-proxy/atcs/streams/BlokOTimur.stream.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",Blok O
 https://cctv.jogjaprov.go.id/cctv-proxy/atcs/streams/BlokO.stream.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="CCTV JOGJA",HALAMAN STADION MAGUWOHARJO
+https://cctv.jogjaprov.go.id/cctv-proxy/cctv-kominfosleman/streams/StadionMaguwoharjoHalaman.stream.m3u8
+
 
 CCTV JOGJA PRO
 
@@ -20229,7 +20232,7 @@ https://cctv.jogjaprov.go.id/cctv-proxy/atcs-kota/streams/BPK.stream.m3u8
    Simpang Cendana
 https://cctv.jogjaprov.go.id/cctv-proxy/atcs-kota/streams/Cendana.stream.m3u8
 
-Simpang GayaM
+   Simpang Gayam
 https://cctv.jogjaprov.go.id/cctv-proxy/atcs-kota/streams/Gayam.stream.m3u8
 
 
