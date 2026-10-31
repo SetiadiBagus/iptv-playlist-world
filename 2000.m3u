@@ -3304,59 +3304,80 @@ https://pplterpadu.kedirikota.go.id:8888/tamanan/stream.m3u8
 
 
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",SIMPANG 4 A YANI
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv12/a12.m3u8
+CCTV KOTAWARINGIN
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",SIMPANG 4 SAMARI
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv19/a19.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",KAMPUNG SEGA
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv21/a21.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",BUNDARAN PRAMUKA
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv14/a14.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",BUNDERAN MISBAR
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv1/a1.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",SIMPANG 3 PALINGKAU
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv17/a17.m3u8
-
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",BUNDARAN PANCASILA 2
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv18/a18.m3u8
 
 #EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",BUNDARAN PANGKALAN LIMA
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv20/a20.m3u8
+https://cctv.kotawaringinbaratkab.go.id/siaran/8e124dfd4d10a1efb530f9c0c0d1c192/live.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",BUNDARAN TUDUNG SAJI
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv16/a16.m3u8
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Simp 3 Natai Palingkau
+https://cctv.kotawaringinbaratkab.go.id/siaran/d7edb220f0757db75478def37227d3ab/live.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",SIMPANG 4 PASAR BARU
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv11/a11.m3u8
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Bundaran Tudung Saji
+https://cctv.kotawaringinbaratkab.go.id/siaran/64718eb5c24ac2265cfc8a6bde9ff197/live.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",SMPN 1 ARSEL
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv2/a2.m3u8
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Simp 4 A. Yani
+https://cctv.kotawaringinbaratkab.go.id/siaran/3bd242ffbacdec7bdf1e409cca8654bf/live.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",GKE IMANUEL
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv3/a3.m3u8
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Bundaran Gentong
+https://cctv.kotawaringinbaratkab.go.id/siaran/2702cb87748d68d4d420e7a32ff15db0/live.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",SIMPANG PERKIM
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv8/a8.m3u8
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Simp 4 Pasar Baru
+https://cctv.kotawaringinbaratkab.go.id/siaran/7fb1942aaade74491725436eed211d53/live.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",SIMPANG 4 PDAM
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv10/a10.m3u8
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Bundaran Misbar
+https://cctv.kotawaringinbaratkab.go.id/siaran/10a1647677c5eb6e53defb7a60c6e317/live.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",DEPAN PERPUS
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv7/a7.m3u8
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Simp 3 SMPN 1 Arsel
+https://cctv.kotawaringinbaratkab.go.id/siaran/745c4c60b45d0d0dfc82902d4a6c4cae/live.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",SIMPANG 3 RSI
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv6/a6.m3u8
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Simp 3 Terminal Lama
+https://cctv.kotawaringinbaratkab.go.id/siaran/0dbe0b08916ad631d9a896ceb640b9e7/live.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",SIMPANG 3 BANK KALTENG
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv4/a4.m3u8
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Kampung Sega
+https://cctv.kotawaringinbaratkab.go.id/siaran/f012d46521ef462a80dd2d5ae3644bd6/live.m3u8
 
-#EXTINF:0 tvg-country="CN" tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",BUNDARAN PANCASILA
-https://cctv.kotawaringinbaratkab.go.id/storage/stream/cctv9/a9.m3u8
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Simp 3 Gereja Imanuel
+https://cctv.kotawaringinbaratkab.go.id/siaran/88b15f431fd0f1928e754eba6ec0657f/live.m3u8
+
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Simp 4 Perkim
+https://cctv.kotawaringinbaratkab.go.id/siaran/d5ce8cc517a5c2d1612712d7ba39abeb/live.m3u8
+
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Simp PDAM
+https://cctv.kotawaringinbaratkab.go.id/siaran/027f147b862419f6c3d4da0109715c7f/live.m3u8
+
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Depan RSI
+https://cctv.kotawaringinbaratkab.go.id/siaran/33ea4a82c729944991d31b50517b6a46/live.m3u8
+
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Simp 3 RSI
+https://cctv.kotawaringinbaratkab.go.id/siaran/3f04e2757d421d50036c20b630c45511/live.m3u8
+
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Simp 3 Bank Kalteng
+https://cctv.kotawaringinbaratkab.go.id/siaran/09030364acbaba6d3c37baca725d5863/live.m3u8
+
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Simp 4 Samari
+https://cctv.kotawaringinbaratkab.go.id/siaran/b4ef0c982a2094264ec7fee51564585b/live.m3u8
+
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Simp 3 City Mall
+https://cctv.kotawaringinbaratkab.go.id/siaran/6d9a957b4b4b3ae3fc4b82bed76b56cb/live.m3u8
+
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Bundaran Pancasila 2
+https://cctv.kotawaringinbaratkab.go.id/siaran/cda8cfa8b9da7c414232059104d32668/live.m3u8
+
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Bundara Pancasila
+https://cctv.kotawaringinbaratkab.go.id/siaran/52c4d71cf26e87bf94925adf028f41b6/live.m3u8
+
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Bundaran Pramuka
+https://cctv.kotawaringinbaratkab.go.id/siaran/e97ae304e81c306cd62a840c2a82aeec/live.m3u8
+
+#EXTINF:0 tvg-logo="https://cctv.kotawaringinbaratkab.go.id/gambar/logokobar.png" group-title="CCTV KOTAWARINGIN BARAT",Bundaran Gentong
+https://cctv.kotawaringinbaratkab.go.id/siaran/ee04ea0d8fe9bf251f05d3b86a142906/live.m3u8
+
+
+
+
+
 
 
 
