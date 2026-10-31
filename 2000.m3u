@@ -27,6 +27,9 @@ https://lnd0t3b922.tenbytecdn.com/ta-sg1/e6b57b20-6c4c-4c7d-8fca-5e7bd4b566d8/48
 EXTINF:0 tvg-id="" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🇮🇩INDONESIA🇮🇩",BTV SD
 https://lnd0t3b922.tenbytecdn.com/ta-sg1/90369cf5-6ac2-411d-b3d0-15fae10a2e2c/480p/index.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🇮🇩INDONESIA🇮🇩",AHSAN TV
+https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8
+
 #EXTINF:0 tvg-id="" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🇮🇩INDONESIA🇮🇩",E International 
 https://gist.githubusercontent.com/iptvonlinetv/cf56ccf36d1c0827e4dc470db7b7912d/raw/066b1c9755b2496805575f16d413bd1207ca8117/udp315.520.789:8060.m3u8
 
