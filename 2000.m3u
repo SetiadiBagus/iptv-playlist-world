@@ -20183,16 +20183,16 @@ https://cctv.jogjaprov.go.id/cctv-proxy/cctv-kominfosleman/streams/StadionMaguwo
 
 CCTV JOGJA PRO
 
-   Simpang APMD
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="📹CCTV JOGJA PRO📹",Simpang APMD
 https://cctv.jogjaprov.go.id/cctv-proxy/atcs-kota/streams/APMD.stream.m3u8
 
-   Simpang BPK
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="📹CCTV JOGJA PRO📹",Simpang BPK
 https://cctv.jogjaprov.go.id/cctv-proxy/atcs-kota/streams/BPK.stream.m3u8
 
-   Simpang Cendana
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="📹CCTV JOGJA PRO📹",Simpang Cendana
 https://cctv.jogjaprov.go.id/cctv-proxy/atcs-kota/streams/Cendana.stream.m3u8
 
-   Simpang Gayam
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/2UffGkP.png" group-title="📹CCTV JOGJA PRO📹",Simpang Gayam
 https://cctv.jogjaprov.go.id/cctv-proxy/atcs-kota/streams/Gayam.stream.m3u8
 
 
