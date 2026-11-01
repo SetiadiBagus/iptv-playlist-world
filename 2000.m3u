@@ -64,7 +64,7 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h244/index.m3u8?app_type=web&userid=li
 https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
 
 #EXTINF:0 tvg-id="" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🇮🇩INDONESIA🇮🇩",JOWO CHANNEL
-https://op-flashcon-digdayasd-1.dens.tv/h/h215/S2/mnf.m3u8|user-agent=Mozilla/5.0
+https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🇮🇩INDONESIA🇮🇩",INDOSIANA TV HD
 https://tvstreamcast.com/indonesiana.m3u8
