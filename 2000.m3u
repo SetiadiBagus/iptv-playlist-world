@@ -118,7 +118,7 @@ https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a.m
 #EXTINF:-1 tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🇮🇩INDONESIA🇮🇩",RRI VOI
 https://private-streaming.rri.go.id/memfs/e0e00a08-db13-4b1e-adaa-70a2b2d9a737.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🇮🇩INDONESIA🇮🇩",DTVI
+EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🇮🇩INDONESIA🇮🇩",DTVI
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
 https://e.siar.us/live/dtvi.m3u8
 
