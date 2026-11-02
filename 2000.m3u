@@ -25270,9 +25270,8 @@ https://cctv.bantenprov.go.id/service/stream-cctv/7c91385c-ed15-499b-8c07-e5f25b
 
 CCTV SEMARANG
 
-EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG LALU LINTAS🚦",🚦 PUCANG GADING
-https://livepantau.semarangkota.go.id/2545ae7d-085f-4ce3-a927-a82bb2296c37/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/d6qnZTg.png" group-title="📹CCTV SEMARANG LALU LINTAS🚦",🚦 PUCANG GADING
+https://livepantau.semarangkota.go.id/90d3247d-3f67-43d6-9c76-625e0aa46bb5/index.m3u8
 
 
 
