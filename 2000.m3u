@@ -6,6 +6,12 @@ menampilkan playlist >>> INDONESIA
 https://iptv-epg.org/files/epg-id.xml
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/playlist.m3u8
 
+#EXTINF:0 tvg-id="" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🇮🇩INDONESIA🇮🇩",USM TV HD
+https://play.fsa-stream.my.id/hls/siaran.m3u8
+
+#EXTINF:0 tvg-id="" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🇮🇩INDONESIA🇮🇩",THE INDONESIA CHANNEL
+https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8
+
 #EXTINF:-1 tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🇮🇩INDONESIA🇮🇩",GARUDA TV HD
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
@@ -20925,6 +20931,8 @@ https://cdn4.skygo.mn/live/disk1/Bloomberg/HLSv3-FTA/Bloomberg.m3u8
 #EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="📰BERITA PREMIUM📰",NBCNEWS 2
 https://content.uplynk.com/channel/76818149329f4aef8ba6161d99a890ef.m3u8
 
+#EXTINF:0 tvg-country="CN" tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="📰BERITA PREMIUM📰",Al Jazeera Mubasher Broadcast 2
+https://live-hls-apps-ajm2-fa.getaj.net/AJM2/index.m3u8
 
 
 
@@ -24387,7 +24395,8 @@ https://amg02703-leadstory-leadstory-samsungau-rr75f.amagi.tv/playlist/amg02703-
 #EXTINF:-1 tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🌍WORLD TV🌍",Baicheng TV
 https://stream2.jlntv.cn/baicheng1/sd/live.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="🌍WORLD TV🌍",BIG DICK 18+ 
+https://live.adultiptv.net/bigdick.m3u8
 
 
 LG TV✓✓✓✓✓✓✓✓✓✓✓
@@ -25179,6 +25188,20 @@ https://stream.ottlive.co.in/4sidestv/index.m3u8
 
 #EXTINF:-1 tvg-id="   " tvg-logo="https://iili.io/nR7fSA7.md.png" group-title="📰BERITA DUNIA🗞️",Al Khalij TV
 https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+
+24NEWS HD
+https://cdn4.mjunoon.tv:8087/streamtest/146M/chunks.m3u8
+
+365NEWS HD
+https://cdn4.mjunoon.tv:8087/streamtest/140M/chunks.m3u8
+
+7INFO
+https://video1.getstreamhosting.com:1936/8042/8042/playlist.m3u8
+
+ABANTE TV
+https://amg19223-amg19223c12-amgplt0352.playout.now3.amagi.tv/playlist/amg19223-amg19223c12-amgplt0352/playlist.m3u8
+
+
 
 
 
