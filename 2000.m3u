@@ -16086,8 +16086,8 @@ https://cctv.dev.banyumaskab.go.id/cctv_simpang_tanjung_utara/video1_stream.m3u8
 #EXTINF:-1  tvg-logo="" group-title="CCTV KAB BANYUMAS",UNDERPASS
 https://cctv.dev.banyumaskab.go.id/cctv_underpass/index.m3u8
 
-
-
+#EXTINF:-1  tvg-logo="" group-title="CCTV KAB BANYUMAS",SIMPANG KALIBAGOR PTZ
+https://cctv.dev.banyumaskab.go.id/cctv_simpang_kalibogor/index.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="CCTV KAB KUDUS",TERMINAL BAKALAN
 https://stream.kuduskab.go.id/memfs/b1bfef7b-4ac5-49a5-b2fc-928a2bcf5fbd.m3u8
@@ -27522,6 +27522,61 @@ https://dki-jkt.balitower.co.id:7028/501968-Simpang-Jl-Nurdin-Raya-C01_CCTV-01/i
 #EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA",7028/501968-Simpang-Jl-Nurdin-Raya-C01_CCTV-02/index.m3u8
 https://dki-jkt.balitower.co.id:7028/501968-Simpang-Jl-Nurdin-Raya-C01_CCTV-02/index.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Kebon-Melati-010-700332_1
+https://jakcctv.jakarta.go.id/Kebon-Melati-010-700332_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Kebon-Melati-010-700332_2
+https://jakcctv.jakarta.go.id/Kebon-Melati-010-700332_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Kebon-Melati-010-700332_3
+https://jakcctv.jakarta.go.id/Kebon-Melati-010-700332_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Kebon-Melati-010-700332_4
+https://jakcctv.jakarta.go.id/Kebon-Melati-010-700332_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Pademangan-Timur-010-701050_1
+https://jakcctv.jakarta.go.id/Pademangan-Timur-010-701050_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Kartini-007-700263_1
+https://jakcctv.jakarta.go.id/Kartini-007-700263_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Kartini-007-700263_2
+https://jakcctv.jakarta.go.id/Kartini-007-700263_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Kartini-007-700263_3
+https://jakcctv.jakarta.go.id/Kartini-007-700263_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Kartini-007-700263_4
+https://jakcctv.jakarta.go.id/Kartini-007-700263_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Pulo-Gebang-029-704867_2
+https://jakcctv.jakarta.go.id/Pulo-Gebang-029-704867_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Pulo-Gebang-029-704867_3
+https://jakcctv.jakarta.go.id/Pulo-Gebang-029-704867_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Pulo-Gebang-029-704867_4
+https://jakcctv.jakarta.go.id/Pulo-Gebang-029-704867_4/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Jati-016-704896_1
+https://jakcctv.jakarta.go.id/Jati-016-704896_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Jati-016-704896_2
+https://jakcctv.jakarta.go.id/Jati-016-704896_2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Jati-016-704896_3
+https://jakcctv.jakarta.go.id/Jati-016-704896_3/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV JAKARTA", Jati-016-704896_4
+https://jakcctv.jakarta.go.id/Jati-016-704896_4/index.m3u8
+
+
+
+
+
+
 
 CCTV REMBANG
 
@@ -29013,6 +29068,14 @@ https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/
 #EXTINF:-1 tvg-logo="https://iili.io/nRM5FV9.md.jpg" group-title="📹CCTV SUMEDANG📹",DISHUB ARAH TERMINAL CAKAR
 https://shinobi.sumedangkab.go.id/lKaKTqOjXLc1NAgDUqhqEBhFV4n8bh/hls/fMXW29kaZd/O5F8wyHX9Y/s.m3u8
  
+
+
+
+https://jakcctv.jakarta.go.id/Kebon-Melati-010-700332_2/index.m3u8
+
+
+
+
 
 
 
